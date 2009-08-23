@@ -2662,10 +2662,8 @@ msgstr "Posição:"
 
 #: ../plugins/document-manager/anjuta-document-manager.ui.h:8
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:12
-#, fuzzy
-#| msgid "High"
 msgid "Right"
-msgstr "Alta"
+msgstr "Direita"
 
 #: ../plugins/document-manager/anjuta-document-manager.ui.h:9
 msgid "Save files interval in minutes"
@@ -2681,7 +2679,7 @@ msgstr "Ordenar pelo mais recentemente utilizado"
 
 #: ../plugins/document-manager/anjuta-document-manager.ui.h:12
 msgid "Sorted in alphabetical order"
-msgstr "Ordenar alfabeticamente"
+msgstr "Ordenar em ordem alfabética"
 
 #: ../plugins/document-manager/anjuta-document-manager.ui.h:13
 msgid "Sorted in opening order"
@@ -2689,10 +2687,8 @@ msgstr "Ordenar na ordem de abertura"
 
 #: ../plugins/document-manager/anjuta-document-manager.ui.h:14
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:15
-#, fuzzy
-#| msgid "To"
 msgid "Top"
-msgstr "Para"
+msgstr "Topo"
 
 #: ../plugins/document-manager/plugin.c:147
 msgid "_Save"
@@ -3551,10 +3547,8 @@ msgid "Do not show unversioned files"
 msgstr "Não mostrar arquivos sem controle de versão"
 
 #: ../plugins/file-manager/file-manager.ui.h:6
-#, fuzzy
-#| msgid "File"
 msgid "Filter"
-msgstr "Arquivo"
+msgstr "Filtro"
 
 #: ../plugins/file-manager/file-manager.ui.h:7
 #: ../plugins/symbol-db/plugin.c:2334 ../plugins/symbol-db/plugin.c:2423
@@ -4303,10 +4297,8 @@ msgid "<b>Stash to Apply</b>"
 msgstr "<b>Ramo a ser excluído:</b>"
 
 #: ../plugins/git/anjuta-git.ui.h:4
-#, fuzzy
-#| msgid "<b>Tag:</b> %s"
 msgid "<b>Tags</b>"
-msgstr "<b>Etiqueta:</b> %s"
+msgstr "<b>Etiquetas</b>"
 
 #: ../plugins/git/anjuta-git.ui.h:5
 msgid "Add File"
@@ -4349,10 +4341,8 @@ msgstr ""
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/anjuta-git.ui.h:15 ../plugins/git/plugin.c:239
-#, fuzzy
-#| msgid "All files"
 msgid "Apply mailbox files"
-msgstr "Todos os arquivos"
+msgstr "Aplicar arquivos da caixa de correio"
 
 #: ../plugins/git/anjuta-git.ui.h:16
 #, fuzzy
@@ -4371,54 +4361,38 @@ msgid "Author:"
 msgstr "Autor:"
 
 #: ../plugins/git/anjuta-git.ui.h:20
-#, fuzzy
-#| msgid "<b>Bad revision:</b>"
 msgid "Bad revision:"
-msgstr "<b>Revisão ruim:</b>"
+msgstr "Revisão ruim:"
 
 #: ../plugins/git/anjuta-git.ui.h:21
-#, fuzzy
-#| msgid "<b>Branch name:</b>"
 msgid "Branch name:"
-msgstr "<b>Nome do ramo:</b>"
+msgstr "Nome do ramo:"
 
 # Não existe "... para" em português.
 #: ../plugins/git/anjuta-git.ui.h:22
-#, fuzzy
-#| msgid "<b>Branch to switch to:</b>"
 msgid "Branch to switch to:"
-msgstr "<b>Ramo para o qual trocar:</b>"
+msgstr "Ramo para o qual trocar:"
 
 #: ../plugins/git/anjuta-git.ui.h:23
-#, fuzzy
-#| msgid "_Remote branches"
 msgid "Branch:"
-msgstr "_Ramos remotos"
+msgstr "Ramo:"
 
 #: ../plugins/git/anjuta-git.ui.h:24
-#, fuzzy
-#| msgid "_Remote branches"
 msgid "Branches"
-msgstr "_Ramos remotos"
+msgstr "Ramos"
 
 #: ../plugins/git/anjuta-git.ui.h:25
-#, fuzzy
-#| msgid "Branch must be fully merged"
 msgid "Branches must be fully merged"
 msgstr "Os ramos devem ser completamente mesclados"
 
 #: ../plugins/git/anjuta-git.ui.h:26
-#, fuzzy
-#| msgid "<b>Branch to delete:</b>"
 msgid "Branches to delete:"
-msgstr "<b>Ramo a ser excluído:</b>"
+msgstr "Ramos a serem excluídos:"
 
 #: ../plugins/git/anjuta-git.ui.h:28
 #: ../plugins/subversion/anjuta-subversion.ui.h:4
-#, fuzzy
-#| msgid "<b>Changes:</b>"
 msgid "Changes:"
-msgstr "<b>Mudanças:</b>"
+msgstr "Alterações:"
 
 #: ../plugins/git/anjuta-git.ui.h:29
 msgid "Check Out Files"
@@ -4855,10 +4829,8 @@ msgid "Use a custom log message"
 msgstr "Use uma mensagem de log personalizada"
 
 #: ../plugins/git/anjuta-git.ui.h:122
-#, fuzzy
-#| msgid "Repository authorization"
 msgid "Use custom author information:"
-msgstr "Autorização do repositório"
+msgstr "Usar informação personalizada do autor:"
 
 #: ../plugins/git/anjuta-git.ui.h:123
 msgid "View log"
