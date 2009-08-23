@@ -226,8 +226,7 @@ msgid "Anjuta shell that will contain the plugin"
 msgstr "Shell do Anjuta que conterá o plug-in"
 
 #: ../libanjuta/anjuta-plugin-manager.c:733
-#, fuzzy, c-format
-#| msgid "Plugin '%s' do not want to be deactivated"
+#, c-format
 msgid "Plugin '%s' does not want to be deactivated"
 msgstr "O plug-in \"%s\" não quer ser desativado"
 
@@ -289,8 +288,7 @@ msgid "Please select a plugin to activate"
 msgstr "Por favor selecione um plug-in para ativar"
 
 #: ../libanjuta/anjuta-plugin-manager.c:1372
-#, fuzzy, c-format
-#| msgid "No plugin able to load other plugins in %s"
+#, c-format
 msgid "No plugin is able to load other plugins in %s"
 msgstr "Nenhum plug-in habilitado para carregar outros plug-ins em %s"
 
@@ -323,8 +321,6 @@ msgid "Currently activated plugins"
 msgstr "Plug-ins ativados no momento"
 
 #: ../libanjuta/anjuta-plugin-manager.c:2311
-#, fuzzy
-#| msgid "Anjuta shell for which the plugins are"
 msgid "Anjuta shell for which the plugins are made"
 msgstr "Shell do Anjuta no qual os plug-ins estão"
 
@@ -521,10 +517,9 @@ msgstr ""
 "endereço http://anjuta.org"
 
 #: ../libanjuta/anjuta-utils.c:2129
-#, fuzzy, c-format
-#| msgid "Unable to build user interface for New File"
+#, c-format
 msgid "Unable to load user interface file: %s"
-msgstr "Não foi possível criar interface de usuário para o Novo Arquivo"
+msgstr "Não foi possível carregar arquivo de interface de usuário: %s"
 
 #: ../libanjuta/anjuta-vcs-status-tree-view.c:92
 #: ../plugins/file-manager/file-view.c:65
@@ -547,8 +542,6 @@ msgid "Conflicted"
 msgstr "Em conflito"
 
 #: ../libanjuta/anjuta-vcs-status-tree-view.c:105
-#, fuzzy
-#| msgid "Up-to-date"
 msgid "Up to date"
 msgstr "Atualizado"
 
@@ -1130,8 +1123,6 @@ msgid "Member Functions/Variables"
 msgstr "Funções-Membro/Variáveis"
 
 #: ../plugins/class-gen/anjuta-class-gen-plugin.ui.h:24
-#, fuzzy
-#| msgid "No license"
 msgid "No License"
 msgstr "Sem licença"
 
@@ -1153,16 +1144,12 @@ msgid "Source/Header Headings:"
 msgstr "Cabeçalhos dos arquivos Fonte/Cabeçalho:"
 
 #: ../plugins/class-gen/anjuta-class-gen-plugin.ui.h:29
-#, fuzzy
-#| msgid "Create"
 msgid "private"
-msgstr "Criar"
+msgstr "privado"
 
 #: ../plugins/class-gen/anjuta-class-gen-plugin.ui.h:30
-#, fuzzy
-#| msgid "project name"
 msgid "protected"
-msgstr "nome do projeto"
+msgstr "protegido"
 
 #: ../plugins/class-gen/anjuta-class-gen-plugin.ui.h:31
 msgid "public"
@@ -1374,16 +1361,8 @@ msgid "Module name:"
 msgstr "Nome do módulo:"
 
 #: ../plugins/cvs-plugin/anjuta-cvs-plugin.ui.h:39
-#, fuzzy
-#| msgid ""
-#| "Local\n"
-#| "Extern (rsh)\n"
-#| "Password server (pserver)\n"
 msgid "Password server (pserver)"
-msgstr ""
-"Local\n"
-"Externo (rsh)\n"
-"Senha do servidor (pserver)\n"
+msgstr "Servidor de senhas (pserver)"
 
 #: ../plugins/cvs-plugin/anjuta-cvs-plugin.ui.h:40
 #: ../plugins/subversion/anjuta-subversion.ui.h:26
@@ -1391,14 +1370,8 @@ msgid "Password:"
 msgstr "Senha:"
 
 #: ../plugins/cvs-plugin/anjuta-cvs-plugin.ui.h:41
-#, fuzzy
-#| msgid ""
-#| "Standard diff\n"
-#| "Patch-Style diff"
 msgid "Patch-Style diff"
-msgstr ""
-"Diff padrão\n"
-"Diff de Estilo de Patch"
+msgstr "Diff no estilo do patch"
 
 #: ../plugins/cvs-plugin/anjuta-cvs-plugin.ui.h:42
 msgid "Path to \"cvs\" command"
@@ -1423,10 +1396,8 @@ msgid "Revision:"
 msgstr "Revisão:"
 
 #: ../plugins/cvs-plugin/anjuta-cvs-plugin.ui.h:47
-#, fuzzy
-#| msgid "Standard input:"
 msgid "Standard diff"
-msgstr "Entrada padrão:"
+msgstr "Diff padrão:"
 
 #: ../plugins/cvs-plugin/anjuta-cvs-plugin.ui.h:48
 msgid "Unified format instead of context format"
@@ -1707,8 +1678,6 @@ msgid "Display process _tree"
 msgstr "Exibir a árvore de _processos"
 
 #: ../plugins/debug-manager/anjuta-debug-manager.ui.h:19
-#, fuzzy
-#| msgid "_Do not show again"
 msgid "Do not show again"
 msgstr "_Não mostrar novamente"
 
@@ -2612,16 +2581,12 @@ msgid "_Reload"
 msgstr "_Recarregar"
 
 #: ../plugins/document-manager/anjuta-bookmarks.c:235
-#, fuzzy
-#| msgid "_Add Bookmark"
 msgid "Add bookmark"
 msgstr "_Adicionar marcador"
 
 #: ../plugins/document-manager/anjuta-bookmarks.c:241
-#, fuzzy
-#| msgid "Clear bookmarks"
 msgid "Remove bookmark"
-msgstr "Limpa os marcadores existentes"
+msgstr "Remover marcador"
 
 #: ../plugins/document-manager/anjuta-bookmarks.c:255
 #: ../plugins/document-manager/anjuta-bookmarks.c:300
@@ -2675,10 +2640,8 @@ msgstr "<b>Tabulações do editor</b>"
 
 #: ../plugins/document-manager/anjuta-document-manager.ui.h:3
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:4
-#, fuzzy
-#| msgid "Goto"
 msgid "Bottom"
-msgstr "Ir para"
+msgstr "Inferior"
 
 #: ../plugins/document-manager/anjuta-document-manager.ui.h:4
 msgid "Do not show tabs"
