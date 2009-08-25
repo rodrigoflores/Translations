@@ -9,6 +9,8 @@ Stash -> stash (termo do git)
 
 Push (git) não traduzido
 
+Remote (git)
+
 #: ../plugins/git/anjuta-git.ui.h:38
 msgid "Commit to revert:"
 msgstr "Commit a reverter:"
@@ -25,3 +27,9 @@ msgstr "Selecionar arquivos para retirar:"
 #: ../plugins/git/anjuta-git.ui.h:98
 msgid "Select Mailbox File"
 msgstr "Selecionar arquivo da caixa de correio"
+
+#: ../plugins/git/git-apply-mailbox-dialog.c:45
+msgid "Please select a mailbox file."
+msgstr "Por favor, selecione um arquivo de caixa de correio."
+
+
