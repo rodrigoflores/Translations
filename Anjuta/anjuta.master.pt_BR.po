@@ -499,7 +499,7 @@ msgstr ""
 #. Try xterm
 #: ../libanjuta/anjuta-utils.c:986
 msgid "Cannot find a terminal, using xterm, even if it may not work"
-msgstr ""
+msgstr "Não foi possível encontrar um terminal, usando o xterm, mesmo se este não funcionar"
 
 #: ../libanjuta/anjuta-utils.c:1022 ../libanjuta/anjuta-utils.c:1026
 #: ../libanjuta/anjuta-utils.c:1054 ../libanjuta/anjuta-utils.c:1058
@@ -820,6 +820,8 @@ msgid ""
 "Before using this new configuration, the default one needs to be removed. Do "
 "you want to do that ?"
 msgstr ""
+"Antes de utilizar esta nova configuração, a configuração padrão deve ser removida. "
+"Você quer fazer isso ?"
 
 #: ../plugins/build-basic-autotools/plugin.c:1802
 #, c-format
@@ -1153,7 +1155,7 @@ msgstr "protegido"
 
 #: ../plugins/class-gen/anjuta-class-gen-plugin.ui.h:31
 msgid "public"
-msgstr ""
+msgstr "público"
 
 #: ../plugins/class-gen/generator.c:132
 #, c-format
@@ -1335,7 +1337,7 @@ msgstr "Não agir recursivamente"
 
 #: ../plugins/cvs-plugin/anjuta-cvs-plugin.ui.h:33
 msgid "Extern (rsh)"
-msgstr ""
+msgstr "Externo (rsh)"
 
 #: ../plugins/cvs-plugin/anjuta-cvs-plugin.ui.h:34
 msgid "File is binary"
@@ -1622,6 +1624,12 @@ msgid ""
 "source code corresponding to the instructions, some commands can perform in "
 "a strange way, especially steps."
 msgstr ""
+"<span weight=\"bold\" size=\"larger\">Você tem certeza que você quer "
+"depurar um programa sem usar a configuração de Depuração ?</span>\n"
+"\n"
+"Quando otimização estão habilitadas, o depurador não consegue sempre identificar "
+"o código fonte corresponde às instruções e alguns comandos podem se "
+"comportar de maneira estranha, especialmente passos."
 
 #: ../plugins/debug-manager/anjuta-debug-manager.ui.h:6
 msgid "Add Watch"
@@ -2654,7 +2662,7 @@ msgstr "Habilitar salvamento automático de arquivos"
 #: ../plugins/document-manager/anjuta-document-manager.ui.h:6
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:8
 msgid "Left"
-msgstr ""
+msgstr "Esquerda"
 
 #: ../plugins/document-manager/anjuta-document-manager.ui.h:7
 msgid "Position:"
@@ -4285,16 +4293,12 @@ msgid "Cannot start terminal for debugging."
 msgstr "Não foi possível iniciar o terminal para depuração."
 
 #: ../plugins/git/anjuta-git.ui.h:2
-#, fuzzy
-#| msgid "<b>Messages options</b>"
 msgid "<b>Stash Message (Optional)</b>"
-msgstr "<b>Opções das mensagens</b>"
+msgstr "<b>Mensagem de Stash (Opcional)</b>"
 
 #: ../plugins/git/anjuta-git.ui.h:3
-#, fuzzy
-#| msgid "<b>Branch to delete:</b>"
 msgid "<b>Stash to Apply</b>"
-msgstr "<b>Ramo a ser excluído:</b>"
+msgstr "<b>Ramo a ser aplicado:</b>"
 
 #: ../plugins/git/anjuta-git.ui.h:4
 msgid "<b>Tags</b>"
@@ -4314,16 +4318,12 @@ msgid "Add signed off by line"
 msgstr "Adiciona aprovados por linha"
 
 #: ../plugins/git/anjuta-git.ui.h:9
-#, fuzzy
-#| msgid "Add signed off by line"
 msgid "Add signed-off by line"
 msgstr "Adiciona aprovados por linha"
 
 #: ../plugins/git/anjuta-git.ui.h:10
-#, fuzzy
-#| msgid "Previous commit"
 msgid "Amend the previous commit"
-msgstr "Submissão anterior"
+msgstr "Alterar a submissão anterior"
 
 #: ../plugins/git/anjuta-git.ui.h:11
 msgid "Annotate this tag"
@@ -4336,7 +4336,7 @@ msgstr "Anexa ao fim do buffer os dados obtidos"
 
 #: ../plugins/git/anjuta-git.ui.h:14
 msgid "Apply Stash"
-msgstr ""
+msgstr "Aplicar stash"
 
 #. Action name
 #. Stock icon, if any
@@ -4345,10 +4345,8 @@ msgid "Apply mailbox files"
 msgstr "Aplicar arquivos da caixa de correio"
 
 #: ../plugins/git/anjuta-git.ui.h:16
-#, fuzzy
-#| msgid "Copy the selection"
 msgid "Apply the selected stash"
-msgstr "Copia o selecionado"
+msgstr "Aplicar o stash selecionado"
 
 #. "Author" means search for commits whose author matches the given grep expression. "Grep" searches through commit logs and patches.
 #: ../plugins/git/anjuta-git.ui.h:18
@@ -4400,7 +4398,7 @@ msgstr "Gerar cópia de trabalho"
 
 #: ../plugins/git/anjuta-git.ui.h:30
 msgid "Check out all local changes"
-msgstr ""
+msgstr "Gerar cópia de todas as mudanças locais"
 
 #: ../plugins/git/anjuta-git.ui.h:31
 msgid "Check out the branch after it is created"
@@ -4411,14 +4409,12 @@ msgid "Cherry Pick"
 msgstr ""
 
 #: ../plugins/git/anjuta-git.ui.h:33
-#, fuzzy
-#| msgid "Mark all matches"
 msgid "Clear all stashes"
-msgstr "Marcas todas as ocorrências"
+msgstr "Limpar todos os stashes"
 
 #: ../plugins/git/anjuta-git.ui.h:34
 msgid "Column 1"
-msgstr ""
+msgstr "Coluna 1"
 
 #: ../plugins/git/anjuta-git.ui.h:35
 #: ../plugins/subversion/anjuta-subversion.ui.h:7
@@ -4434,10 +4430,8 @@ msgid "Commit to Cherry Pick:"
 msgstr ""
 
 #: ../plugins/git/anjuta-git.ui.h:38
-#, fuzzy
-#| msgid "<b>Commit to revert:</b>"
 msgid "Commit to revert:"
-msgstr "<b>Submetido para reversão:</b>"
+msgstr "Commit a reverter:"
 
 #: ../plugins/git/anjuta-git.ui.h:39
 msgid "Create Branch"
@@ -4465,10 +4459,8 @@ msgid "Delete Remote Branch"
 msgstr "Exclui o ramo remoto"
 
 #: ../plugins/git/anjuta-git.ui.h:45
-#, fuzzy
-#| msgid "Deleted: %s"
 msgid "Delete Tags"
-msgstr "Excluído: %s"
+msgstr "Excluir etiquetas"
 
 #: ../plugins/git/anjuta-git.ui.h:46
 msgid "Do not commit"
@@ -4479,32 +4471,24 @@ msgid "Do not follow tags"
 msgstr "Não seguir as etiquetas"
 
 #: ../plugins/git/anjuta-git.ui.h:48
-#, fuzzy
-#| msgid "Copy the selection"
 msgid "Drop the selected stash"
-msgstr "Copia o selecionado"
+msgstr "Remover o stash selecionado"
 
 #: ../plugins/git/anjuta-git.ui.h:49
-#, fuzzy
-#| msgid "Author Email:"
 msgid "E-mail:"
-msgstr "E-mail do autor:"
+msgstr "E-mail:"
 
 #: ../plugins/git/anjuta-git.ui.h:50
 msgid "Fetch remote branches after creation"
 msgstr "Busca ramos remotos depois da criação"
 
 #: ../plugins/git/anjuta-git.ui.h:51
-#, fuzzy
-#| msgid "Files"
 msgid "Filters"
-msgstr "Arquivos"
+msgstr "Filtros"
 
 #: ../plugins/git/anjuta-git.ui.h:52
-#, fuzzy
-#| msgid "<b>Folder to create patches in:</b>"
 msgid "Folder to create patches in:"
-msgstr "<b>Pasta para criação de correções (patches):</b>"
+msgstr "Pasta para criação de patches:"
 
 #: ../plugins/git/anjuta-git.ui.h:53
 #: ../plugins/subversion/anjuta-subversion.ui.h:19
@@ -4516,16 +4500,12 @@ msgid "From:"
 msgstr "De:"
 
 #: ../plugins/git/anjuta-git.ui.h:56
-#, fuzzy
-#| msgid "<b>Generate patches relative to:</b>"
 msgid "Generate patches relative to:"
-msgstr "<b>Gera correções relativas a:</b>"
+msgstr "Gera correções relativas a:"
 
 #: ../plugins/git/anjuta-git.ui.h:57
-#, fuzzy
-#| msgid "<b>Good revision:</b>"
 msgid "Good revision:"
-msgstr "<b>Boa Revisão:</b>"
+msgstr "Boa Revisão:"
 
 #: ../plugins/git/anjuta-git.ui.h:58
 msgid "Grep:"
@@ -4545,8 +4525,6 @@ msgstr "Ignorar arquivos"
 
 #: ../plugins/git/anjuta-git.ui.h:63
 #: ../plugins/subversion/anjuta-subversion.ui.h:21
-#, fuzzy
-#| msgid "Log message:"
 msgid "Log Message:"
 msgstr "Mensagem de log:"
 
@@ -4574,10 +4552,8 @@ msgstr "Opções"
 
 #: ../plugins/git/anjuta-git.ui.h:71
 #: ../plugins/subversion/anjuta-subversion.ui.h:24
-#, fuzzy
-#| msgid "Options"
 msgid "Options:"
-msgstr "Opções"
+msgstr "Opções:"
 
 #: ../plugins/git/anjuta-git.ui.h:72
 msgid "Previous commit"
@@ -4588,78 +4564,60 @@ msgid "Pull"
 msgstr "Extrair"
 
 #: ../plugins/git/anjuta-git.ui.h:74
-#, fuzzy
-#| msgid "Squash"
 msgid "Push"
-msgstr "Comprimir"
+msgstr "Push"
 
 #: ../plugins/git/anjuta-git.ui.h:75
 msgid "Push all branches and tags"
-msgstr ""
+msgstr "Fazer push de todos os ramos e etiquetas"
 
 #: ../plugins/git/anjuta-git.ui.h:76
 msgid "Push all tags"
-msgstr ""
+msgstr "Fazer um \"push\" em todas as etiquetas"
 
 #: ../plugins/git/anjuta-git.ui.h:77
 msgid "Rebase"
 msgstr "Rebase"
 
 #: ../plugins/git/anjuta-git.ui.h:78
-#, fuzzy
-#| msgid "Remove"
 msgid "Remote"
-msgstr "Remover"
+msgstr "Remoto"
 
 #: ../plugins/git/anjuta-git.ui.h:79
-#, fuzzy
-#| msgid "<b>Remote branch to rebase from:</b>"
 msgid "Remote branch to rebase from:"
-msgstr "<b>Ramo remoto para restruturação:</b>"
+msgstr "Ramo remoto para fazer o rebase:>"
 
 #: ../plugins/git/anjuta-git.ui.h:80
-#, fuzzy
-#| msgid "<b>Remote to delete:</b>"
 msgid "Remote to delete:"
-msgstr "<b>A ser excluido remotamente:</b>"
+msgstr "Remoto a excluir:"
 
 #: ../plugins/git/anjuta-git.ui.h:81
 msgid "Remove File"
 msgstr "Remover arquivos"
 
 #: ../plugins/git/anjuta-git.ui.h:82
-#, fuzzy
-#| msgid "Repository authorization"
 msgid "Repository origin"
-msgstr "Autorização do repositório"
+msgstr "Repositório de origem"
 
 #: ../plugins/git/anjuta-git.ui.h:83
-#, fuzzy
-#| msgid "<b>Repository to pull from:</b>"
 msgid "Repository to pull from:"
-msgstr "<b>Repositório para extrair: </b>"
+msgstr "Repositório para fazer push:"
 
 #: ../plugins/git/anjuta-git.ui.h:84
-#, fuzzy
-#| msgid "<b>Repository to pull from:</b>"
 msgid "Repository to push to:"
-msgstr "<b>Repositório para extrair: </b>"
+msgstr "Repositório para fazer push para: "
 
 #: ../plugins/git/anjuta-git.ui.h:85
 msgid "Reset Tree"
 msgstr "Restaurar árvore"
 
 #: ../plugins/git/anjuta-git.ui.h:86
-#, fuzzy
-#| msgid "<b>Reset to:</b>"
 msgid "Reset to:"
-msgstr "<b>Redefinido para:</b>"
+msgstr "Redefinido para:"
 
 #: ../plugins/git/anjuta-git.ui.h:87
-#, fuzzy
-#| msgid "Reset Tree"
 msgid "Restore index"
-msgstr "Restaurar árvore"
+msgstr "Restaurar índices"
 
 #: ../plugins/git/anjuta-git.ui.h:88
 #: ../plugins/subversion/anjuta-subversion.ui.h:35
@@ -4680,58 +4638,42 @@ msgstr "Selecionar uma pasta"
 
 # "Check out" não é verificar!!!
 #: ../plugins/git/anjuta-git.ui.h:93
-#, fuzzy
-#| msgid "<b>Select Files to Check Out:</b>"
 msgid "Select Files to Check Out:"
-msgstr "<b>Gerar cópia de trabalho dos arquivos:</b>"
+msgstr "Selecionar arquivos para fazer o check out:</b>"
 
 #: ../plugins/git/anjuta-git.ui.h:94
 #: ../plugins/subversion/anjuta-subversion.ui.h:41
-#, fuzzy
-#| msgid "<b>Select Files to Commit:</b>"
 msgid "Select Files to Commit:"
-msgstr "<b>Fazer commit dos arquivos:</b>"
+msgstr "Selecionar arquivos para fazer commit:"
 
 # em analogia à mensagem do "check out"
 #: ../plugins/git/anjuta-git.ui.h:95
-#, fuzzy
-#| msgid "<b>Select Files to Ignore:</b>"
 msgid "Select Files to Ignore:"
-msgstr "<b>Ignorar os arquivos:</b>"
+msgstr "Selecionar arquivos para ignorar:"
 
 # em analogia à mensagem do "check out"
 #: ../plugins/git/anjuta-git.ui.h:96
 #: ../plugins/subversion/anjuta-subversion.ui.h:42
-#, fuzzy
-#| msgid "<b>Select Files to Mark as Resolved:</b>"
 msgid "Select Files to Mark as Resolved:"
-msgstr "<b>Marcar como resolvidos os arquivos:</b>"
+msgstr "Selecionar arquivos para marcar como resolvido:"
 
 # em analogia à mensagem do "check out"
 #: ../plugins/git/anjuta-git.ui.h:97
-#, fuzzy
-#| msgid "<b>Select Files to Unstage:</b>"
 msgid "Select Files to Unstage:"
-msgstr "<b>Não apresentar os arquivos:</b>"
+msgstr "Selecionar arquivos para retirar:"
 
 #: ../plugins/git/anjuta-git.ui.h:98
-#, fuzzy
-#| msgid "Select Scratchbox Folder"
 msgid "Select Mailbox File"
-msgstr "Selecionar pasta do scratchbox"
+msgstr "Selecionar arquivo da caixa de correio"
 
 #: ../plugins/git/anjuta-git.ui.h:99
-#, fuzzy
-#| msgid "_Select file to add..."
 msgid "Select file to add:"
-msgstr "_Escolha o arquivo a adicionar..."
+msgstr "Selecionar o arquivo para adicionar:"
 
 # em analogia à mensagem do "check out"
 #: ../plugins/git/anjuta-git.ui.h:100
-#, fuzzy
-#| msgid "<b>Select file to remove:</b>"
 msgid "Select file to remove:"
-msgstr "<b>Remover os arquivos:</b>"
+msgstr "Selecionar arquivo para remover:"
 
 #: ../plugins/git/anjuta-git.ui.h:101
 #: ../plugins/subversion/anjuta-subversion.ui.h:43
@@ -4814,11 +4756,11 @@ msgstr "Para:"
 
 #: ../plugins/git/anjuta-git.ui.h:118
 msgid "URL"
-msgstr ""
+msgstr "URL:"
 
 #: ../plugins/git/anjuta-git.ui.h:119
 msgid "URL:"
-msgstr ""
+msgstr "URL:"
 
 #: ../plugins/git/anjuta-git.ui.h:120
 msgid "Unstage Files"
@@ -8445,20 +8387,16 @@ msgid "Highlight syntax"
 msgstr "Destaque de sintaxe"
 
 #: ../plugins/sourceview/anjuta-editor-sourceview.ui.h:9
-#, fuzzy
-#| msgid "<b>Indentation and auto-format options</b>"
 msgid "Indentation and auto-format options"
-msgstr "<b>Opções de recuo e formatação automática</b>"
+msgstr "Opções de recuo e formatação automática"
 
 #: ../plugins/sourceview/anjuta-editor-sourceview.ui.h:11
 msgid "Print Linenumbers"
 msgstr "Imprimir número das linhas"
 
 #: ../plugins/sourceview/anjuta-editor-sourceview.ui.h:12
-#, fuzzy
-#| msgid "Project options"
 msgid "Print options"
-msgstr "Opções do projeto"
+msgstr "Opções de impressão"
 
 #: ../plugins/sourceview/anjuta-editor-sourceview.ui.h:13
 msgid "Print page footer"

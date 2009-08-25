@@ -1,0 +1,27 @@
+#. Action name
+#. Stock icon, if any
+#: ../plugins/git/anjuta-git.ui.h:15 ../plugins/git/plugin.c:239
+msgid "Apply mailbox files"
+msgstr "Aplicar arquivos da caixa de correio"
+
+
+Stash -> stash (termo do git)
+
+Push (git) não traduzido
+
+#: ../plugins/git/anjuta-git.ui.h:38
+msgid "Commit to revert:"
+msgstr "Commit a reverter:"
+
+#: ../plugins/git/anjuta-git.ui.h:80
+msgid "Remote to delete:"
+msgstr "Remoto a excluir:"
+
+# em analogia à mensagem do "check out"
+#: ../plugins/git/anjuta-git.ui.h:97
+msgid "Select Files to Unstage:"
+msgstr "Selecionar arquivos para retirar:"
+
+#: ../plugins/git/anjuta-git.ui.h:98
+msgid "Select Mailbox File"
+msgstr "Selecionar arquivo da caixa de correio"
