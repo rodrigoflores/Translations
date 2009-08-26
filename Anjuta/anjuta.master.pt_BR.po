@@ -5648,7 +5648,7 @@ msgstr "Remover este arquivo ou pasta do repositório"
 
 #: ../plugins/git/plugin.c:766
 msgid "Top level git menu item"
-msgstr ""
+msgstr "Ítem de menu git de nível mais alto"
 
 #: ../plugins/git/plugin.c:774
 msgid "Git operations"
@@ -5846,7 +5846,7 @@ msgstr "Não foi possível ler o arquivo: %s."
 
 #: ../plugins/glade/plugin.c:3095
 msgid "Top level widget"
-msgstr ""
+msgstr "Widget de nível mais alto"
 
 #: ../plugins/glade/plugin.c:3686
 msgid "Couldn't find a default signal name"
@@ -9598,7 +9598,7 @@ msgstr "Tamanho do recuo das chaves, em espaços:"
 
 #: ../plugins/language-support-cpp-java/anjuta-language-cpp-java.ui.h:7
 msgid "Calltips"
-msgstr ""
+msgstr "Dicas de funções"
 
 #: ../plugins/language-support-cpp-java/anjuta-language-cpp-java.ui.h:8
 msgid "Enable code completion"
