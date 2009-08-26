@@ -39,3 +39,5 @@ msgid ""
 msgstr ""
 "Para evitar esta mensagem desligue a opção \"%s\" "
 "em Preferências->Construtor de Interfaces Glade"
+
+Cherry Pick -> Cherry Pick
