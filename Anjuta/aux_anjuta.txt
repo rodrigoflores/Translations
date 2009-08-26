@@ -41,3 +41,12 @@ msgstr ""
 "em Preferências->Construtor de Interfaces Glade"
 
 Cherry Pick -> Cherry Pick
+
+#: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:17
+msgid "Underline-Plain"
+msgstr "Sublinhado-pleno"
+
+#: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:18
+msgid "Underline-Squiggle"
+msgstr "Sublinhado-squiggle"
+

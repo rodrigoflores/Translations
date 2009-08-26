@@ -5554,7 +5554,7 @@ msgstr "_Mostrar diff do commit"
 #. short-cut
 #: ../plugins/git/plugin.c:493
 msgid "Show changes introduced by this commit"
-msgstr ""
+msgstr "Mostrar alterações introduzidas por este commit"
 
 #. Action name
 #. Stock icon, if any
@@ -5566,13 +5566,13 @@ msgstr "_Ver revisão selecionada"
 #. short-cut
 #: ../plugins/git/plugin.c:501
 msgid "View a copy of this file at this revision"
-msgstr ""
+msgstr "Ver uma cópia deste arquivo nesta revisão"
 
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:509
 msgid "Create a branch with the selected revision as its head"
-msgstr ""
+msgstr "Criar um ramo com a revisão selecionada como head"
 
 #. Display label
 #. short-cut
@@ -5596,7 +5596,7 @@ msgstr "Reverter este commit"
 #. short-cut
 #: ../plugins/git/plugin.c:541
 msgid "Merge this commit into the current branch"
-msgstr ""
+msgstr "Merclar este commit com o ramo atual"
 
 #. Action name
 #. Stock icon, if any
@@ -5614,7 +5614,7 @@ msgstr "_Definir boa revisão"
 #. short-cut
 #: ../plugins/git/plugin.c:557
 msgid "Mark this revision as good"
-msgstr ""
+msgstr "Marcar esta revisão como boa"
 
 #. Action name
 #. Stock icon, if any
@@ -5626,13 +5626,13 @@ msgstr "_Definir revisão ruim"
 #. short-cut
 #: ../plugins/git/plugin.c:565
 msgid "Mark this revision as bad"
-msgstr ""
+msgstr "Marcar esta revisão como ruim"
 
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:585
 msgid "View changes to this file or folder"
-msgstr ""
+msgstr "Ver alterações neste arquivo ou pasta"
 
 #. Display label
 #. short-cut
@@ -5772,12 +5772,12 @@ msgstr "Atual"
 #. iptBeforeEnd:
 #: ../plugins/glade/plugin.c:1197
 msgid "Before end"
-msgstr ""
+msgstr "Antes do final"
 
 #. iptAfterBegin:
 #: ../plugins/glade/plugin.c:1198
 msgid "After begin"
-msgstr ""
+msgstr "Depois do início"
 
 #. ipEOF:
 #: ../plugins/glade/plugin.c:1199
@@ -6504,7 +6504,7 @@ msgstr "Número de caracteres finais exibidos:"
 
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:13
 msgid "Strike-Out"
-msgstr ""
+msgstr "Strike-Out"
 
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:14
 msgid "Tabs position:"
@@ -6516,15 +6516,15 @@ msgstr "Truncar mensagens longas"
 
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:17
 msgid "Underline-Plain"
-msgstr ""
+msgstr "Sublinhado-pleno"
 
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:18
 msgid "Underline-Squiggle"
-msgstr ""
+msgstr "Sublinhado-squiggle"
 
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:19
 msgid "Underline-TT"
-msgstr ""
+msgstr "Sublinhado-TT"
 
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:20
 msgid "Warning message indicator style:"
@@ -6752,6 +6752,7 @@ msgstr ""
 msgid ""
 "Couldn't checkout the supplied uri \"%s\", the error returned was: \"%s\""
 msgstr ""
+"Não foi possível fazer check out do uri \"%s\", o erro recebido foi: \"%s\""
 
 #: ../plugins/project-import/project-import.ui.h:1
 msgid "<b>Import options</b>"
@@ -7431,16 +7432,12 @@ msgid "Create Gtk Builder interface file"
 msgstr "Cria o arquivo de interface glade"
 
 #: ../plugins/project-wizard/templates/translatable-strings.h:31
-#, fuzzy
-#| msgid "Create a template glade interface file"
 msgid "Create a template Gtk Builder interface file"
-msgstr "Cria um modelo do arquivo de interface glade"
+msgstr "Cria um modelo do arquivo de interface do Gtk Builder"
 
 #: ../plugins/project-wizard/templates/translatable-strings.h:32
-#, fuzzy
-#| msgid "Create a template glade interface file"
 msgid "Create a template gtk builder interface file"
-msgstr "Cria um modelo do arquivo de interface glade"
+msgstr "Cria um modelo interface do gtk builder"
 
 #: ../plugins/project-wizard/templates/translatable-strings.h:35
 msgid "Display description of the applet"
@@ -8183,10 +8180,8 @@ msgid "Preparing pages for printing"
 msgstr "Preparando páginas para impressão"
 
 #: ../plugins/sourceview/anjuta-editor-sourceview.ui.h:1
-#, fuzzy
-#| msgid "<b>Color scheme:</b>"
 msgid "Color scheme:"
-msgstr "<b>Esquema de cores:</b>"
+msgstr "Esquema de cores:"
 
 #: ../plugins/sourceview/anjuta-editor-sourceview.ui.h:2
 msgid "Create backup files"
@@ -8307,10 +8302,8 @@ msgid "Add file/directory"
 msgstr "Adicionar arquivo/diretório"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:2
-#, fuzzy
-#| msgid "<b>Branch/Tag URL:</b>"
 msgid "Branch/Tag URL:"
-msgstr "<b>URL do Branch/Etiqueta</b>"
+msgstr "URL do ramo/etiqueta"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:8
 msgid "Copy files/folders"
@@ -8329,28 +8322,20 @@ msgid "Diff to Previous"
 msgstr "Ver as diferenças para a versão anterior"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:15
-#, fuzzy
-#| msgid "Revision:"
 msgid "End Revision:"
-msgstr "Revisão:"
+msgstr "Revisão final:"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:16
-#, fuzzy
-#| msgid "<b>File or directory to diff:</b>"
 msgid "File or directory to diff:"
-msgstr "<b>Escolha o arquivo ou diretório para ver as diferenças:</b>"
+msgstr "Arquivo ou diretório para fazer o diff:"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:17
-#, fuzzy
-#| msgid "<b>File/URL to Remove:</b>"
 msgid "File/URL to Remove:"
-msgstr "<b>Arquivo/URL para remover:</b>"
+msgstr "Arquivo/URL para remover:"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:18
-#, fuzzy
-#| msgid "<b>First Path:</b>"
 msgid "First Path:"
-msgstr "<b>Caminho primário:</b>"
+msgstr "Caminho primário:"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:20
 msgid "Ignore ancestry"
@@ -8365,10 +8350,8 @@ msgid "Other Revision:"
 msgstr "Outra revisão:"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:27
-#, fuzzy
-#| msgid "Previous message"
 msgid "Previous Commit Messages:"
-msgstr "Vai para a mensagem anterior"
+msgstr "Mensagem anterior de submissão:"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:28
 msgid "Realm:"
@@ -8407,38 +8390,28 @@ msgid "Save open files before diffing"
 msgstr "Salvar arquivos abertos antes de fazer o diff"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:39
-#, fuzzy
-#| msgid "<b>Second Path:</b>"
 msgid "Second Path:"
-msgstr "<b>Caminho secundário:</b>"
+msgstr "Caminho secundário:"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:40
-#, fuzzy
-#| msgid "<b>Select Changes to Revert:</b>"
 msgid "Select Changes to Revert:"
-msgstr "<b>Escolha as mudanças a reverter:</b>"
+msgstr "Escolha as mudanças a reverter:"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:44
-#, fuzzy
-#| msgid "<b>Source/Destination Paths:</b>"
 msgid "Source/Destination Paths:"
-msgstr "<b>Caminhos Fonte/Destino:</b>"
+msgstr "Caminhos Fonte/Destino:"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:45
 msgid "Source:"
 msgstr "Fonte:"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:46
-#, fuzzy
-#| msgid "<b>Start Revision:</b>"
 msgid "Start Revision:"
-msgstr "<b>Revisão inicial:</b>"
+msgstr "Revisão inicial:"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:47
-#, fuzzy
-#| msgid "Subversion operations"
 msgid "Subversion Options"
-msgstr "Operações do Subversion"
+msgstr "Opções do Subversion"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:48
 msgid "Subversion Preferences"
@@ -8461,10 +8434,8 @@ msgid "Use first path"
 msgstr "Usar caminho primário"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:53
-#, fuzzy
-#| msgid "Previous message"
 msgid "Use previous message"
-msgstr "Vai para a mensagem anterior"
+msgstr "Usar mensagem anterior"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:56
 msgid "View Log"
@@ -8483,10 +8454,8 @@ msgid "Working Copy"
 msgstr "Cópia de trabalho"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:62
-#, fuzzy
-#| msgid "<b>Working Copy Path:</b>"
 msgid "Working Copy Path:"
-msgstr "<b>Caminho da cópia de trabalho:</b>"
+msgstr "Caminho da cópia de trabalho:"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:63
 msgid "realm"
@@ -8947,18 +8916,24 @@ msgid ""
 "This option enables the default packages required by your opened project, e."
 "g. glib and gtk+ if you create a Gtk+ project (may require more cpu work)"
 msgstr ""
+"Esta opção habilita os pacotes padrão necessários para se projeto aberto, "
+"por exemplo: glib e gtk+ se você criar um projeto Gtk+ (pode precisar de mais trabalho de cpu)"
 
 #: ../plugins/symbol-db/anjuta-symbol-db.ui.h:8
 msgid ""
 "This option means that the global system packages will be scanned "
 "contemporary with the project's ones"
 msgstr ""
+"Esta opção significa que o sistema global de pacotes será lido "
+"ao mesmo tempo que os do projeto"
 
 #: ../plugins/symbol-db/anjuta-symbol-db.ui.h:9
 msgid ""
 "Update automatically the file's symbols without saving. The update occurs "
 "after 10 seconds of no keypress by user."
 msgstr ""
+"Atualiza automaticamente os símbolos de arquivos sem salvar. A atualização "
+"acontece depois de 10 segundos sem o usuário apertar qualquer tecla."
 
 #: ../plugins/terminal/anjuta-terminal-plugin.ui.h:1
 msgid "<b>Terminal options</b>"
@@ -9167,114 +9142,96 @@ msgid "Tools"
 msgstr "Ferramentas"
 
 #: ../plugins/tools/variable.c:84
-#, fuzzy
-#| msgid "Project root directory:"
 msgid "Project root URI"
-msgstr "Diretório raiz do projeto:"
+msgstr "URI raiz do projeto"
 
 #: ../plugins/tools/variable.c:85
-#, fuzzy
-#| msgid "Project to Import"
 msgid "Project root path"
-msgstr "Projeto a importar"
+msgstr "Caminho da raíz do projeto"
 
 #: ../plugins/tools/variable.c:86
 msgid "Selected URI in the file manager plugin"
-msgstr ""
+msgstr "URI selecionado no plug-in de gerenciamento de arquivos"
 
 #: ../plugins/tools/variable.c:87
 msgid "Selected directory in the file manager plugin"
-msgstr ""
+msgstr "Diretório selecionado no plug-in de gerenciamento de arquivos"
 
 #: ../plugins/tools/variable.c:88
 msgid "Selected full file name in the file manager plugin"
-msgstr ""
+msgstr "Nome completo do arquivo selecionado no plug-in de gerenciamento de arquivos"
 
 #: ../plugins/tools/variable.c:89
 msgid "Selected full file name without extension in the file manager plugin"
-msgstr ""
+msgstr "Nome completo do arquivo sem extensão no plug-in de gerenciamento de arquivos"
 
 #: ../plugins/tools/variable.c:90
 msgid "Selected file name in the file manager plugin"
-msgstr ""
+msgstr "Nome de arquivo selecionado no plug-in de gerenciamento de arquivos"
 
 #: ../plugins/tools/variable.c:91
 msgid "Selected file name without extension in the file manager plugin"
-msgstr ""
+msgstr "Nome de arquivo selecionado sem extensão no plug-in de gerenciamento de arquivos"
 
 #: ../plugins/tools/variable.c:92
 msgid "Selected file's extension in the file manager plugin"
-msgstr ""
+msgstr "Extensão de arquivo selecionado no plug-in de gerenciamento de arquivos"
 
 #: ../plugins/tools/variable.c:93
 msgid "Selected URI in the project manager plugin"
-msgstr ""
+msgstr "URI selecionado no plug-in de gerenciamento de projeto"
 
 #: ../plugins/tools/variable.c:94
-#, fuzzy
-#| msgid "Root directory if no project is open:"
 msgid "Selected directory in the project manager plugin"
-msgstr "Diretório raiz se nenhum projeto estiver aberto:"
+msgstr "Diretório selecionado no plug-in de gerenciamento de projeto"
 
 #: ../plugins/tools/variable.c:95
 msgid "Selected full file name in the project manager plugin"
-msgstr ""
+msgstr "Nome completo de arquivo selecionado no plug-in de gerenciamento de projeto"
 
 #: ../plugins/tools/variable.c:96
 msgid "Selected full file name without extension in the project manager plugin"
-msgstr ""
+msgstr "Nome completo de arquivo selecionado sem extensão no plug-in de gerenciamento de projeto"
 
 #: ../plugins/tools/variable.c:97
-#, fuzzy
-#| msgid "Makefile backend for project manager"
 msgid "Selected file name in the project manager plugin"
-msgstr "Backend de Makefile para o gerenciador de projetos"
+msgstr "Nome de arquivo selecionado no plug-in de gerenciamento de projeto"
 
 #: ../plugins/tools/variable.c:98
 msgid "Selected file name without extension in the project manager plugin"
-msgstr ""
+msgstr "Nome de arquivo selecionado sem extensão no plug-in de gerenciamento de projeto"
 
 #: ../plugins/tools/variable.c:99
 msgid "Selected file extension in the project manager plugin"
-msgstr ""
+msgstr "Extensão de arquivo selecionado no plug-in de gerenciamento de projeto"
 
 #: ../plugins/tools/variable.c:100
-#, fuzzy
-#| msgid "Currently activated plugins"
 msgid "Currently edited file name"
-msgstr "Plug-ins ativados no momento"
+msgstr "Nome de arquivo atualmente editado"
 
 #: ../plugins/tools/variable.c:101
 msgid "Currently edited file name without extension"
-msgstr ""
+msgstr "Nome de arquivo atualmente editado sem extensão"
 
 #: ../plugins/tools/variable.c:102
-#, fuzzy
-#| msgid "CVS: Add file/directory"
 msgid "Currently edited file directory"
-msgstr "CVS: adicionar arquivo/diretório"
+msgstr "Diretório de arquivo atualmente editado"
 
 #: ../plugins/tools/variable.c:103
-#, fuzzy
-#| msgid "Delete the selected text from the editor"
 msgid "Currently selected text in editor"
-msgstr "Exclui o texto selecionado do editor"
+msgstr "Texto atualmente selecionado no editor"
 
 #: ../plugins/tools/variable.c:104
-#, fuzzy
-#| msgid "Toggle current code fold in the editor"
 msgid "Current word in editor"
-msgstr "Alterna o estado atual aberto/fechado do fold do código no editor"
+msgstr "Palavra atual no editor"
 
 #: ../plugins/tools/variable.c:105
-#, fuzzy
-#| msgid "Current Selection"
 msgid "Current line in editor"
-msgstr "Seleção atual"
+msgstr "Linha atual no editor"
 
 #: ../plugins/tools/variable.c:106
 msgid "Ask the user to get additional parameters"
-msgstr ""
+msgstr "Pergunte ao usuário para obter parâmetros adicionais"
 
 #: ../plugins/tools/variable.c:493
 msgid "Command line parameters"
@@ -9534,10 +9491,8 @@ msgid "Anjuta"
 msgstr "Anjuta"
 
 #: ../src/preferences.ui.h:1
-#, fuzzy
-#| msgid "<b>Appearance</b>"
 msgid "Appearance"
-msgstr "<b>Aparência</b>"
+msgstr "Aparência"
 
 #: ../src/preferences.ui.h:3
 msgid "Default project directory:"
@@ -9566,59 +9521,47 @@ msgstr "Estilo do alternador de encaixe"
 
 #: ../src/preferences.ui.h:11
 msgid "Gnome toolbar setting"
-msgstr ""
+msgstr "Definições da barra de ferramentas"
 
 #: ../src/preferences.ui.h:12
-#, fuzzy
-#| msgid "Icon"
 msgid "Icons"
-msgstr "ícone"
+msgstr "ícones"
 
 #: ../src/preferences.ui.h:13
-#, fuzzy
-#| msgid "Icon File:"
 msgid "Icons only"
-msgstr "Ícone:"
+msgstr "Somente ícones"
 
 #: ../src/preferences.ui.h:14
-#, fuzzy
-#| msgid "<b>Project Defaults</b>"
 msgid "Project Defaults"
-msgstr "<b>Propriedades padrão para um projeto:</b>"
+msgstr "Definições padrões de projetos"
 
 #: ../src/preferences.ui.h:15
 msgid "Select projects directory"
 msgstr "Selecione o diretório do projeto"
 
 #: ../src/preferences.ui.h:16
-#, fuzzy
-#| msgid "Version"
 msgid "Session"
-msgstr "Versão"
+msgstr "Sessão"
 
 #: ../src/preferences.ui.h:17
-#, fuzzy
-#| msgid "Tasks"
 msgid "Tabs"
-msgstr "Tarefas"
+msgstr "Abas"
 
 #: ../src/preferences.ui.h:19
 msgid "Text + Icons"
-msgstr ""
+msgstr "Texto + Ícones"
 
 #: ../src/preferences.ui.h:20
 msgid "Text below icons"
-msgstr ""
+msgstr "Texto abaixo dos ícones"
 
 #: ../src/preferences.ui.h:21
 msgid "Text beside icons"
-msgstr ""
+msgstr "Texto ao lado dos ícones"
 
 #: ../src/preferences.ui.h:22
-#, fuzzy
-#| msgid "Text"
 msgid "Text only"
-msgstr "Texto"
+msgstr "Somente texto"
 
 #. translators: translate the same as in gnome-control-center
 #: ../src/preferences.ui.h:24
@@ -9627,7 +9570,7 @@ msgstr "Rótulos na barra de ferramentas:"
 
 #: ../plugins/debug-manager/anjuta-debug-manager.schemas.in.h:1
 msgid "Do not display warning if not using a Debug configuration"
-msgstr ""
+msgstr "Não mostrar avisos se não estiver usando uma configuração de depuração"
 
 #: ../plugins/language-support-cpp-java/anjuta-language-cpp-java.ui.h:1
 msgid "Add '(' after function call autocompletion"
@@ -9642,10 +9585,8 @@ msgid "Autocomplete"
 msgstr "Completar automaticamente"
 
 #: ../plugins/language-support-cpp-java/anjuta-language-cpp-java.ui.h:4
-#, fuzzy
-#| msgid "<b>Autocompletion (C/C++/Java only)</b>"
 msgid "Autocompletion (C/C++/Java only)"
-msgstr "<b>Completar automaticamente (apenas C/C++/Java)</b>"
+msgstr "Completar automaticamente (apenas C/C++/Java)"
 
 #: ../plugins/language-support-cpp-java/anjuta-language-cpp-java.ui.h:5
 msgid "Autocompletion pop up choices"
@@ -9656,10 +9597,8 @@ msgid "Brace indentation size in spaces:"
 msgstr "Tamanho do recuo das chaves, em espaços:"
 
 #: ../plugins/language-support-cpp-java/anjuta-language-cpp-java.ui.h:7
-#, fuzzy
-#| msgid "Calls"
 msgid "Calltips"
-msgstr "Chamadas"
+msgstr ""
 
 #: ../plugins/language-support-cpp-java/anjuta-language-cpp-java.ui.h:8
 msgid "Enable code completion"
@@ -9674,26 +9613,20 @@ msgid "Enable smart indentation"
 msgstr "Habilitar recuo inteligente"
 
 #: ../plugins/language-support-cpp-java/anjuta-language-cpp-java.ui.h:11
-#, fuzzy
-#| msgid "Auto Indent"
 msgid "Indent:"
-msgstr "Recuo automático"
+msgstr "Recuo:"
 
 #: ../plugins/language-support-cpp-java/anjuta-language-cpp-java.ui.h:12
-#, fuzzy
-#| msgid "<b>Indentation parameters</b>"
 msgid "Indentation parameters"
-msgstr "<b>Parâmetros de recuo</b>"
+msgstr "Parâmetros de recuo"
 
 #: ../plugins/language-support-cpp-java/anjuta-language-cpp-java.ui.h:13
 msgid "Line up parentheses"
-msgstr ""
+msgstr "Alinhar parênteses"
 
 #: ../plugins/language-support-cpp-java/anjuta-language-cpp-java.ui.h:14
-#, fuzzy
-#| msgid "Smart Indentation"
 msgid "Parenthese indentation"
-msgstr "Recuo inteligente"
+msgstr "Recuo por parêntesese"
 
 #: ../plugins/language-support-cpp-java/anjuta-language-cpp-java.ui.h:15
 msgid "Show calltips"
@@ -9913,10 +9846,8 @@ msgid "Project Manager Plugin for Anjuta."
 msgstr "Plug-in de gerenciador de projetos para o Anjuta."
 
 #: ../plugins/symbol-db/symbol-db.plugin.in.h:2
-#, fuzzy
-#| msgid "Symbol Database Plugin for Anjuta (unstable)."
 msgid "Symbol Database Plugin for Anjuta."
-msgstr "Plug-in navegador de símbolos para o Anjuta (instável)."
+msgstr "Plug-in de banco de dados de símbolos para o Anjuta."
 
 #: ../plugins/message-view/anjuta-message-manager.plugin.in.h:1
 msgid "Manages messages from external apps"
