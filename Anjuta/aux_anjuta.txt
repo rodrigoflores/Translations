@@ -32,4 +32,10 @@ msgstr "Selecionar arquivo da caixa de correio"
 msgid "Please select a mailbox file."
 msgstr "Por favor, selecione um arquivo de caixa de correio."
 
-
+#: ../plugins/glade/plugin.c:2254
+#, c-format
+msgid ""
+"To avoid this message turn off \"%s\" flag in Preferences->Glade GUI Designer"
+msgstr ""
+"Para evitar esta mensagem desligue a opção \"%s\" "
+"em Preferências->Construtor de Interfaces Glade"

@@ -4714,7 +4714,7 @@ msgstr "Alterações indexadas no Stash"
 
 #: ../plugins/git/anjuta-git.ui.h:110
 msgid "Stash the working tree's uncommitted changes"
-msgstr "_Diff das alterações não submetidas"
+msgstr "Colocar no stash as alterações não submetidas da árvore de trabalho"
 
 #: ../plugins/git/anjuta-git.ui.h:111
 msgid "Switch to Another Branch"
@@ -5048,26 +5048,20 @@ msgstr "_Diff das alterações não submetidas"
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:97
-#, fuzzy
-#| msgid "_Diff uncommitted changes"
 msgid "Show uncommitted changes"
-msgstr "_Diff das alterações não submetidas"
+msgstr "Mostrar alterações sem commit"
 
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:103
-#, fuzzy
-#| msgid "Squash"
 msgid "_Stash"
-msgstr "Comprimir"
+msgstr "_Stash"
 
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:111
-#, fuzzy
-#| msgid "_Diff uncommitted changes"
 msgid "_Stash uncommitted changes..."
-msgstr "_Diff das alterações não submetidas"
+msgstr "Fazer _stash das alterações sem commit"
 
 #. Display label
 #. short-cut
@@ -5084,10 +5078,8 @@ msgstr ""
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:121
-#, fuzzy
-#| msgid "Commit your changes to the Subversion tree"
 msgid "Apply stashed changes to the working tree"
-msgstr "Submete as suas alterações para a árvore do Subversion"
+msgstr "Aplicar alteraçõs no stash na árvore de trabalho"
 
 #. Action name
 #. Stock icon, if any
@@ -5098,34 +5090,26 @@ msgstr "_Ver log..."
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:129
-#, fuzzy
-#| msgid "View file history"
 msgid "View change history"
-msgstr "Vê histório do arquivo"
+msgstr "Ver histórico de alterações"
 
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:135
-#, fuzzy
-#| msgid "Remove Breakpoint"
 msgid "_Remote repository"
-msgstr "Remover ponto de interrupção"
+msgstr "Repositório _remoto"
 
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:143
-#, fuzzy
-#| msgid "_Pull..."
 msgid "_Push..."
-msgstr "_Extrair..."
+msgstr "_Push..."
 
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:145
-#, fuzzy
-#| msgid "Subversion: Committing changes to the repository..."
 msgid "Push changes to a remote repository"
-msgstr "Subversion: Enviando as mudanças para o repositório..."
+msgstr "Fazer o push das alterações para um repositório remoto"
 
 #. Action name
 #. Stock icon, if any
@@ -5136,10 +5120,8 @@ msgstr "_Extrair..."
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:153
-#, fuzzy
-#| msgid "Update the graph"
 msgid "Update the working copy"
-msgstr "Atualizar o gráfico"
+msgstr "Atualizar a cópia de trabalho"
 
 #. Action name
 #. Stock icon, if any
@@ -5150,16 +5132,12 @@ msgstr "_Trazer"
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:161
-#, fuzzy
-#| msgid "_Remote branches"
 msgid "Update remote branches"
-msgstr "_Ramos remotos"
+msgstr "Atualizar ramos remotos"
 
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:167
-#, fuzzy
-#| msgid "Files"
 msgid "_Files"
 msgstr "Arquivos"
 
@@ -5174,10 +5152,8 @@ msgstr "_Adicionar..."
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:177
-#, fuzzy
-#| msgid "Add to repository"
 msgid "Add files to the repository"
-msgstr "Adicionar ao repositório"
+msgstr "Adicionar arquivos ao repositório"
 
 #. Action name
 #. Stock icon, if any
@@ -5189,10 +5165,8 @@ msgstr "_Remover..."
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:185
-#, fuzzy
-#| msgid "Copy files/folders in the repository"
 msgid "Remove files from the repository"
-msgstr "Copia arquivos/pastas no repositório"
+msgstr "Remover arquivos do repositório"
 
 #. Action name
 #. Stock icon, if any
@@ -5203,8 +5177,6 @@ msgstr "_Ignorar..."
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:193
-#, fuzzy
-#| msgid "Ignore Files"
 msgid "Ignore files"
 msgstr "Ignorar arquivos"
 
@@ -5217,10 +5189,8 @@ msgstr "_Fazer checkout dos arquivos..."
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:201
-#, fuzzy
-#| msgid "_Diff uncommitted changes"
 msgid "Revert uncommitted changes to files"
-msgstr "_Diff das alterações não submetidas"
+msgstr "Reverter alterações sem commit em arquivos"
 
 #. Action name
 #. Stock icon, if any
@@ -5243,10 +5213,8 @@ msgstr "_Resolver conflitos..."
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:217
-#, fuzzy
-#| msgid "Set Conflicts as Resolved"
 msgid "Mark conflicted files as resolved"
-msgstr "Marcar conflitos como resolvidos"
+msgstr "Marcar arquivos em conflito como resolvidos"
 
 #. Action name
 #. Stock icon, if any
@@ -5269,26 +5237,20 @@ msgstr ""
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:247
-#, fuzzy
-#| msgid "_Add..."
 msgid "_Apply..."
-msgstr "_Adicionar..."
+msgstr "_Aplicar..."
 
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:249
-#, fuzzy
-#| msgid "Create patch series"
 msgid "Start applying a patch series"
-msgstr "Criar uma série de correções"
+msgstr "Iniciar aplicando uma série de patches"
 
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:255
-#, fuzzy
-#| msgid "_Resolve conflicts..."
 msgid "_Continue with resolved conflicts"
-msgstr "_Resolver conflitos..."
+msgstr "_Continue com os conflitos resolvidos"
 
 #. Display label
 #. short-cut
@@ -5299,10 +5261,8 @@ msgstr ""
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:263
-#, fuzzy
-#| msgid "Set current thread"
 msgid "_Skip current patch"
-msgstr "Define a thread atual"
+msgstr "Pular o patch atual"
 
 #. Display label
 #. short-cut
@@ -5326,10 +5286,8 @@ msgstr ""
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:279
-#, fuzzy
-#| msgid "_Remote branches"
 msgid "_Branches"
-msgstr "_Ramos remotos"
+msgstr "_Ramos"
 
 #. Action name
 #. Stock icon, if any
@@ -5340,10 +5298,8 @@ msgstr "_Criar ramo..."
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:289
-#, fuzzy
-#| msgid "Create Branch"
 msgid "Create a branch"
-msgstr "Criar ramo"
+msgstr "Criar um ramo"
 
 #. Action name
 #. Stock icon, if any
@@ -5354,10 +5310,8 @@ msgstr "_Excluir ramo..."
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:297
-#, fuzzy
-#| msgid "Delete Branch"
 msgid "Delete branches"
-msgstr "Excluir ramo"
+msgstr "Excluir ramos"
 
 #. Action name
 #. Stock icon, if any
@@ -5368,8 +5322,6 @@ msgstr "_Trocar para outro ramo..."
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:305
-#, fuzzy
-#| msgid "_Switch to another branch..."
 msgid "Switch to another branch"
 msgstr "_Trocar para outro ramo..."
 
@@ -5406,10 +5358,8 @@ msgstr "_Iniciar..."
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:329
-#, fuzzy
-#| msgid "Start Debugger"
 msgid "Start a rebase"
-msgstr "Iniciar o depurador"
+msgstr "Iniciar um rebase"
 
 #. Action name
 #. Stock icon, if any
@@ -5432,10 +5382,8 @@ msgstr "_Pular"
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:345
-#, fuzzy
-#| msgid "Save the current file with a different name"
 msgid "Skip the current conflicted commit and continue"
-msgstr "Salva o arquivo atual com um nome diferente"
+msgstr "Pula o commit com conflito atual e continua"
 
 #. Display label
 #. short-cut
@@ -5447,7 +5395,7 @@ msgstr ""
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:359 ../plugins/git/plugin.c:539
 msgid "_Cherry pick..."
-msgstr ""
+msgstr "_Cherry pick..."
 
 #. Display label
 #. short-cut
@@ -5466,10 +5414,8 @@ msgstr "_Ramos remotos"
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:377
-#, fuzzy
-#| msgid "Add Remote Branch"
 msgid "Add a remote branch"
-msgstr "Adicionar ramo remoto"
+msgstr "Adicionar um ramo remoto"
 
 #. Action name
 #. Stock icon, if any
@@ -5480,18 +5426,14 @@ msgstr "_Excluir..."
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:385
-#, fuzzy
-#| msgid "Delete Remote Branch"
 msgid "Delete a remote branch"
-msgstr "Exclui o ramo remoto"
+msgstr "Exclui um ramo remoto"
 
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:391
-#, fuzzy
-#| msgid "Tasks"
 msgid "Tags"
-msgstr "Tarefas"
+msgstr "Etiquetas"
 
 #. Action name
 #. Stock icon, if any
@@ -5502,34 +5444,26 @@ msgstr "_Criar etiqueta..."
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:401
-#, fuzzy
-#| msgid "Create Tag"
 msgid "Create a tag"
 msgstr "Criar etiqueta"
 
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:407
-#, fuzzy
-#| msgid "_Delete..."
 msgid "_Delete tag..."
-msgstr "_Excluir..."
+msgstr "_Excluir etiqueta..."
 
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:409
-#, fuzzy
-#| msgid "Delete Data"
 msgid "Delete tags"
-msgstr "Excluir dados"
+msgstr "Excluir etiquetas"
 
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:415
-#, fuzzy
-#| msgid "_Reset"
 msgid "_Reset/Revert"
-msgstr "_Redefinir"
+msgstr "_Redefinir/Reverter"
 
 #. Action name
 #. Stock icon, if any
@@ -5552,26 +5486,20 @@ msgstr "_Reverter o commit..."
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:433
-#, fuzzy
-#| msgid "Revert Commit"
 msgid "Revert a commit"
-msgstr "Reverter a submissão"
+msgstr "Reverter um commit"
 
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:439
-#, fuzzy
-#| msgid "_Bisect"
 msgid "Bisect"
-msgstr "_Bisect"
+msgstr "Bisect"
 
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:449
-#, fuzzy
-#| msgid "Stack frame operations"
 msgid "Start a bisect operation"
-msgstr "Operações com pilhas de frames"
+msgstr "Iniciar uma operação de bisect"
 
 #. Display label
 #. short-cut
@@ -5606,16 +5534,14 @@ msgstr ""
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:479
-#, fuzzy
-#| msgid "Add to repository"
 msgid "_Initialize repository"
-msgstr "Adicionar ao repositório"
+msgstr "Inicializar repositório"
 
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:481
 msgid "Create a new git repository or reinitialize an existing one"
-msgstr ""
+msgstr "Cria um novo repositório do git ou reinicializa um existente"
 
 #. Action name
 #. Stock icon, if any
@@ -5650,26 +5576,20 @@ msgstr ""
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:517
-#, fuzzy
-#| msgid "Please enter a revision."
 msgid "Create a tag at this revision"
-msgstr "Digite uma revisão."
+msgstr "Crie uma etiqueta nesta revisão"
 
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:525
-#, fuzzy
-#| msgid "Please enter the start revision."
 msgid "Reset repository head to this revision"
-msgstr "Digite a revisão inicial."
+msgstr "Redefina o head do repositório nesta revisão"
 
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:533
-#, fuzzy
-#| msgid "Revert Commit"
 msgid "Revert this commit"
-msgstr "Reverter a submissão"
+msgstr "Reverter este commit"
 
 #. Display label
 #. short-cut
@@ -5716,18 +5636,14 @@ msgstr ""
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:593
-#, fuzzy
-#| msgid "Copy files/folders in the repository"
 msgid "Add this file or folder to the repository"
-msgstr "Copia arquivos/pastas no repositório"
+msgstr "Adicionar este arquivo ou pasta ao repositório"
 
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:601
-#, fuzzy
-#| msgid "Copy files/folders in the repository"
 msgid "Remove this file or folder from the repository"
-msgstr "Copia arquivos/pastas no repositório"
+msgstr "Remover este arquivo ou pasta do repositório"
 
 #: ../plugins/git/plugin.c:766
 msgid "Top level git menu item"
@@ -5849,10 +5765,8 @@ msgstr "Falha ao salvar associações"
 
 #. iptCurrent:
 #: ../plugins/glade/plugin.c:1196
-#, fuzzy
-#| msgid "Current Block"
 msgid "Current"
-msgstr "Bloco atual"
+msgstr "Atual"
 
 #. iptBeforeEnd:
 #: ../plugins/glade/plugin.c:1197
@@ -5866,10 +5780,8 @@ msgstr ""
 
 #. ipEOF:
 #: ../plugins/glade/plugin.c:1199
-#, fuzzy
-#| msgid "_End of Block"
 msgid "End of file"
-msgstr "_Final do bloco"
+msgstr "Fim do arquivo"
 
 #: ../plugins/glade/plugin.c:1368
 #, c-format
@@ -5911,21 +5823,16 @@ msgid "Error while adding a new handler stub: No current editor"
 msgstr "Erro ao adicionar um novo manipulador de stub: Nenhum editor corrente"
 
 #: ../plugins/glade/plugin.c:2254
-#, fuzzy, c-format
-#| msgid ""
-#| "To avoid this messages turn off \"Insert handler on edit\" flag in "
-#| "Preferences->Glade GUI Designer"
+#, c-format
 msgid ""
 "To avoid this message turn off \"%s\" flag in Preferences->Glade GUI Designer"
 msgstr ""
-"Para evitar estas mensagens desligue a opção \"Inserir manipulador na edição"
-"\" em Preferências->Construtor de Interfaces Glade"
+"Para evitar esta mensagem desligue a opção \"%s\" "
+"em Preferências->Construtor de Interfaces Glade"
 
 #: ../plugins/glade/plugin.c:2324
-#, fuzzy
-#| msgid "Couldn't find a signal information"
 msgid "Couldn't find an associated document"
-msgstr "Não foi possível encontrar uma informação de sinal"
+msgstr "Não foi possível encontrar um documento associado"
 
 #: ../plugins/glade/plugin.c:2390
 msgid "Those documents are already associated"
@@ -6571,10 +6478,8 @@ msgid "<b>Messages options</b>"
 msgstr "<b>Opções das mensagens</b>"
 
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:5
-#, fuzzy
-#| msgid "Signal"
 msgid "Diagonal"
-msgstr "Sinal"
+msgstr "Diagonal"
 
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:6
 msgid "Error message indicator style:"
@@ -6597,10 +6502,8 @@ msgid "Number of last characters to show:"
 msgstr "Número de caracteres finais exibidos:"
 
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:13
-#, fuzzy
-#| msgid "Step _Out"
 msgid "Strike-Out"
-msgstr "Passo para _fora"
+msgstr ""
 
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:14
 msgid "Tabs position:"
@@ -6611,22 +6514,16 @@ msgid "Truncate long messages"
 msgstr "Truncar mensagens longas"
 
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:17
-#, fuzzy
-#| msgid "Underlined"
 msgid "Underline-Plain"
-msgstr "Sublinhado"
+msgstr ""
 
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:18
-#, fuzzy
-#| msgid "Underlined"
 msgid "Underline-Squiggle"
-msgstr "Sublinhado"
+msgstr ""
 
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:19
-#, fuzzy
-#| msgid "Underlined"
 msgid "Underline-TT"
-msgstr "Sublinhado"
+msgstr ""
 
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:20
 msgid "Warning message indicator style:"
@@ -6856,16 +6753,12 @@ msgid ""
 msgstr ""
 
 #: ../plugins/project-import/project-import.ui.h:1
-#, fuzzy
-#| msgid "<b>Print options</b>"
 msgid "<b>Import options</b>"
-msgstr "<b>Opções de impressão</b>"
+msgstr "<b>Opções de importação</b>"
 
 #: ../plugins/project-import/project-import.ui.h:2
-#, fuzzy
-#| msgid "<b>Project Defaults</b>"
 msgid "<b>Project name</b>"
-msgstr "<b>Propriedades padrão para um projeto:</b>"
+msgstr "<b>Nome do projeto</b>"
 
 #: ../plugins/project-import/project-import.ui.h:3
 #: ../plugins/project-wizard/templates/translatable-strings.h:34
@@ -6874,34 +6767,24 @@ msgid "Destination:"
 msgstr "Destino:"
 
 #: ../plugins/project-import/project-import.ui.h:4
-#, fuzzy
-#| msgid "Import Project"
 msgid "Import from folder"
-msgstr "Importar projeto"
+msgstr "Importar de uma pasta"
 
 #: ../plugins/project-import/project-import.ui.h:5
-#, fuzzy
-#| msgid "A version control system plugin"
 msgid "Import from version control system"
-msgstr "Um plug-in de controle de versão de sistema"
+msgstr "Importar do sistema de controle de versão"
 
 #: ../plugins/project-import/project-import.ui.h:6
-#, fuzzy
-#| msgid "_Location:"
 msgid "Location:"
-msgstr "_Local:"
+msgstr "Localização:"
 
 #: ../plugins/project-import/project-import-dialog.c:292
-#, fuzzy
-#| msgid "Import Project"
 msgid "Import project"
 msgstr "Importar projeto"
 
 #: ../plugins/project-import/project-import-dialog.c:296
-#, fuzzy
-#| msgid "CVS: Import"
 msgid "Import"
-msgstr "CVS: importar"
+msgstr "Importar"
 
 #: ../plugins/project-manager/create_dialogs.ui.h:1
 msgid "Add Source"
@@ -7399,18 +7282,14 @@ msgid "Select file"
 msgstr "Selecionar arquivo"
 
 #: ../plugins/project-wizard/property.c:359 ../plugins/tools/editor.c:522
-#, fuzzy
-#| msgid "Select package"
 msgid "Select an Image File"
-msgstr "Selecionar pacote"
+msgstr "Selecionar um arquivo de imagem"
 
 #: ../plugins/project-wizard/property.c:384
 #: ../plugins/project-wizard/property.c:474 ../plugins/tools/editor.c:556
 #: ../plugins/tools/editor.c:703
-#, fuzzy
-#| msgid "Choose directory"
 msgid "Choose Icon"
-msgstr "Escolha o diretório"
+msgstr "Escolha o ícone"
 
 #: ../plugins/project-wizard/property.c:444
 msgid "Choose directory"
@@ -7547,8 +7426,6 @@ msgid "Configure external packages:"
 msgstr "Configurar pacotes externos:"
 
 #: ../plugins/project-wizard/templates/translatable-strings.h:30
-#, fuzzy
-#| msgid "Create glade interface file"
 msgid "Create Gtk Builder interface file"
 msgstr "Cria o arquivo de interface glade"
 
