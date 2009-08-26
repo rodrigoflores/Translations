@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Anjuta\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
 "product=anjuta&component=core application\n"
-"POT-Creation-Date: 2009-08-22 19:49+0000\n"
+"POT-Creation-Date: 2009-08-26 19:12+0000\n"
 "PO-Revision-Date: 2009-04-14 12:33-0300\n"
 "Last-Translator: André Gondim <andregondim@ubuntu.com>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
@@ -499,7 +499,9 @@ msgstr ""
 #. Try xterm
 #: ../libanjuta/anjuta-utils.c:986
 msgid "Cannot find a terminal, using xterm, even if it may not work"
-msgstr "Não foi possível encontrar um terminal, usando o xterm, mesmo se este não funcionar"
+msgstr ""
+"Não foi possível encontrar um terminal, usando o xterm, mesmo se este não "
+"funcionar"
 
 #: ../libanjuta/anjuta-utils.c:1022 ../libanjuta/anjuta-utils.c:1026
 #: ../libanjuta/anjuta-utils.c:1054 ../libanjuta/anjuta-utils.c:1058
@@ -820,8 +822,8 @@ msgid ""
 "Before using this new configuration, the default one needs to be removed. Do "
 "you want to do that ?"
 msgstr ""
-"Antes de utilizar esta nova configuração, a configuração padrão deve ser removida. "
-"Você quer fazer isso ?"
+"Antes de utilizar esta nova configuração, a configuração padrão deve ser "
+"removida. Você quer fazer isso ?"
 
 #: ../plugins/build-basic-autotools/plugin.c:1802
 #, c-format
@@ -1624,12 +1626,12 @@ msgid ""
 "source code corresponding to the instructions, some commands can perform in "
 "a strange way, especially steps."
 msgstr ""
-"<span weight=\"bold\" size=\"larger\">Você tem certeza que você quer "
-"depurar um programa sem usar a configuração de Depuração ?</span>\n"
+"<span weight=\"bold\" size=\"larger\">Você tem certeza que você quer depurar "
+"um programa sem usar a configuração de Depuração ?</span>\n"
 "\n"
-"Quando otimização estão habilitadas, o depurador não consegue sempre identificar "
-"o código fonte corresponde às instruções e alguns comandos podem se "
-"comportar de maneira estranha, especialmente passos."
+"Quando otimização estão habilitadas, o depurador não consegue sempre "
+"identificar o código fonte corresponde às instruções e alguns comandos podem "
+"se comportar de maneira estranha, especialmente passos."
 
 #: ../plugins/debug-manager/anjuta-debug-manager.ui.h:6
 msgid "Add Watch"
@@ -5828,8 +5830,8 @@ msgstr "Erro ao adicionar um novo manipulador de stub: Nenhum editor corrente"
 msgid ""
 "To avoid this message turn off \"%s\" flag in Preferences->Glade GUI Designer"
 msgstr ""
-"Para evitar esta mensagem desligue a opção \"%s\" "
-"em Preferências->Construtor de Interfaces Glade"
+"Para evitar esta mensagem desligue a opção \"%s\" em Preferências-"
+">Construtor de Interfaces Glade"
 
 #: ../plugins/glade/plugin.c:2324
 msgid "Couldn't find an associated document"
@@ -8917,15 +8919,16 @@ msgid ""
 "g. glib and gtk+ if you create a Gtk+ project (may require more cpu work)"
 msgstr ""
 "Esta opção habilita os pacotes padrão necessários para se projeto aberto, "
-"por exemplo: glib e gtk+ se você criar um projeto Gtk+ (pode precisar de mais trabalho de cpu)"
+"por exemplo: glib e gtk+ se você criar um projeto Gtk+ (pode precisar de "
+"mais trabalho de cpu)"
 
 #: ../plugins/symbol-db/anjuta-symbol-db.ui.h:8
 msgid ""
 "This option means that the global system packages will be scanned "
 "contemporary with the project's ones"
 msgstr ""
-"Esta opção significa que o sistema global de pacotes será lido "
-"ao mesmo tempo que os do projeto"
+"Esta opção significa que o sistema global de pacotes será lido ao mesmo "
+"tempo que os do projeto"
 
 #: ../plugins/symbol-db/anjuta-symbol-db.ui.h:9
 msgid ""
@@ -9159,11 +9162,13 @@ msgstr "Diretório selecionado no plug-in de gerenciamento de arquivos"
 
 #: ../plugins/tools/variable.c:88
 msgid "Selected full file name in the file manager plugin"
-msgstr "Nome completo do arquivo selecionado no plug-in de gerenciamento de arquivos"
+msgstr ""
+"Nome completo do arquivo selecionado no plug-in de gerenciamento de arquivos"
 
 #: ../plugins/tools/variable.c:89
 msgid "Selected full file name without extension in the file manager plugin"
-msgstr "Nome completo do arquivo sem extensão no plug-in de gerenciamento de arquivos"
+msgstr ""
+"Nome completo do arquivo sem extensão no plug-in de gerenciamento de arquivos"
 
 #: ../plugins/tools/variable.c:90
 msgid "Selected file name in the file manager plugin"
@@ -9171,11 +9176,14 @@ msgstr "Nome de arquivo selecionado no plug-in de gerenciamento de arquivos"
 
 #: ../plugins/tools/variable.c:91
 msgid "Selected file name without extension in the file manager plugin"
-msgstr "Nome de arquivo selecionado sem extensão no plug-in de gerenciamento de arquivos"
+msgstr ""
+"Nome de arquivo selecionado sem extensão no plug-in de gerenciamento de "
+"arquivos"
 
 #: ../plugins/tools/variable.c:92
 msgid "Selected file's extension in the file manager plugin"
-msgstr "Extensão de arquivo selecionado no plug-in de gerenciamento de arquivos"
+msgstr ""
+"Extensão de arquivo selecionado no plug-in de gerenciamento de arquivos"
 
 #: ../plugins/tools/variable.c:93
 msgid "Selected URI in the project manager plugin"
@@ -9187,11 +9195,14 @@ msgstr "Diretório selecionado no plug-in de gerenciamento de projeto"
 
 #: ../plugins/tools/variable.c:95
 msgid "Selected full file name in the project manager plugin"
-msgstr "Nome completo de arquivo selecionado no plug-in de gerenciamento de projeto"
+msgstr ""
+"Nome completo de arquivo selecionado no plug-in de gerenciamento de projeto"
 
 #: ../plugins/tools/variable.c:96
 msgid "Selected full file name without extension in the project manager plugin"
-msgstr "Nome completo de arquivo selecionado sem extensão no plug-in de gerenciamento de projeto"
+msgstr ""
+"Nome completo de arquivo selecionado sem extensão no plug-in de "
+"gerenciamento de projeto"
 
 #: ../plugins/tools/variable.c:97
 msgid "Selected file name in the project manager plugin"
@@ -9199,7 +9210,9 @@ msgstr "Nome de arquivo selecionado no plug-in de gerenciamento de projeto"
 
 #: ../plugins/tools/variable.c:98
 msgid "Selected file name without extension in the project manager plugin"
-msgstr "Nome de arquivo selecionado sem extensão no plug-in de gerenciamento de projeto"
+msgstr ""
+"Nome de arquivo selecionado sem extensão no plug-in de gerenciamento de "
+"projeto"
 
 #: ../plugins/tools/variable.c:99
 msgid "Selected file extension in the project manager plugin"
