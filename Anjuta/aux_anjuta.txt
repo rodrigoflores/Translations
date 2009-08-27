@@ -65,3 +65,4 @@ Deve ser infinitivo
 #. short-cut
 Deve ser imperativo
 
+Rebase -> Rebase

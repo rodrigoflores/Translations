@@ -5326,7 +5326,7 @@ msgstr "_Trocar para outro ramo..."
 #. short-cut
 #: ../plugins/git/plugin.c:305
 msgid "Switch to another branch"
-msgstr "_Trocar para outro ramo..."
+msgstr "_Alterna para outro ramo..."
 
 #. Action name
 #. Stock icon, if any
@@ -5386,7 +5386,7 @@ msgstr "_Pular"
 #. short-cut
 #: ../plugins/git/plugin.c:345
 msgid "Skip the current conflicted commit and continue"
-msgstr "Pula o commit com conflito atual e continua"
+msgstr "Pula o commit atual com conflito e continua"
 
 #. Display label
 #. short-cut
@@ -5448,7 +5448,7 @@ msgstr "_Criar etiqueta..."
 #. short-cut
 #: ../plugins/git/plugin.c:401
 msgid "Create a tag"
-msgstr "Criar etiqueta"
+msgstr "Cria etiqueta"
 
 #. Action name
 #. Stock icon, if any
@@ -5460,7 +5460,7 @@ msgstr "_Excluir etiqueta..."
 #. short-cut
 #: ../plugins/git/plugin.c:409
 msgid "Delete tags"
-msgstr "Excluir etiquetas"
+msgstr "Exclui etiquetas"
 
 #. Action name
 #. Stock icon, if any
@@ -5508,7 +5508,7 @@ msgstr "Iniciar uma operação de bisect"
 #. short-cut
 #: ../plugins/git/plugin.c:457
 msgid "Stop the bisect and bring the tree back to normal"
-msgstr "Para um bisect e coloca a árvore de volta ao normal"
+msgstr "Pára um bisect e coloca a árvore de volta ao normal"
 
 #. Action name
 #. Stock icon, if any
@@ -5520,7 +5520,7 @@ msgstr "_Bom"
 #. short-cut
 #: ../plugins/git/plugin.c:465
 msgid "Mark the current head revision as good"
-msgstr "Marcar a revisão head atual como boa"
+msgstr "Marca a revisão head atual como boa"
 
 #. Action name
 #. Stock icon, if any
@@ -5532,7 +5532,7 @@ msgstr "_Ruim"
 #. short-cut
 #: ../plugins/git/plugin.c:473
 msgid "Mark the current head revision as bad"
-msgstr "Marcar a revisão head atual como ruim"
+msgstr "Marca a revisão head atual como ruim"
 
 #. Action name
 #. Stock icon, if any
