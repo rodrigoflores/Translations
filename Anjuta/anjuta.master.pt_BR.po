@@ -6506,7 +6506,7 @@ msgstr "Número de caracteres finais exibidos:"
 
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:13
 msgid "Strike-Out"
-msgstr "Strike-Out"
+msgstr "Tachado"
 
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:14
 msgid "Tabs position:"

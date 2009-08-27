@@ -22,7 +22,6 @@ msgstr "Sublinhado-squiggle"
 msgid "Underline-TT"
 msgstr "Sublinhado-TT"
 
-
 #: ../plugins/git/plugin.c:766
 msgid "Top level git menu item"
 msgstr "Ítem de menu git de nível mais alto"
@@ -35,14 +34,13 @@ msgstr "Widget de nível mais alto"
 msgid "Strike-Out"
 msgstr "Strike-Out"
 
-
-#. Action name
-#. Stock icon, if any
-Deve ser infinitivo 
-
 #. Display label
 #. short-cut
-Deve ser imperativo
+#: ../plugins/git/plugin.c:361
+msgid ""
+"Selectively merge individual changes from other branches into the currrent "
+"one"
+msgstr ""
 
 
 View -> Mostra (quando for imperativo)
