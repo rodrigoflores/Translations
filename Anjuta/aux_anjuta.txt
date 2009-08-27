@@ -54,4 +54,14 @@ Commit (git) -> Fazer commit
 
 Patches -> patch
 
+Unstage
+
+
+#. Action name
+#. Stock icon, if any
+Deve ser infinitivo 
+
+#. Display label
+#. short-cut
+Deve ser imperativo
 

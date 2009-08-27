@@ -4666,11 +4666,11 @@ msgstr "Selecionar arquivos para retirar:"
 
 #: ../plugins/git/anjuta-git.ui.h:98
 msgid "Select Mailbox File"
-msgstr "Selecionar arquivo da caixa de correio"
+msgstr "Selecionar arquivo da caixa de mensagens"
 
 #: ../plugins/git/anjuta-git.ui.h:99
 msgid "Select file to add:"
-msgstr "Selecionar o arquivo para adicionar:"
+msgstr "Selecionar arquivo para adicionar:"
 
 # em analogia à mensagem do "check out"
 #: ../plugins/git/anjuta-git.ui.h:100
@@ -4716,7 +4716,7 @@ msgstr "Alterações indexadas no Stash"
 
 #: ../plugins/git/anjuta-git.ui.h:110
 msgid "Stash the working tree's uncommitted changes"
-msgstr "Colocar no stash as alterações não submetidas da árvore de trabalho"
+msgstr "Colocar no stash as alterações sem commit da árvore de trabalho"
 
 #: ../plugins/git/anjuta-git.ui.h:111
 msgid "Switch to Another Branch"
@@ -4812,7 +4812,7 @@ msgstr "Git: trazendo..."
 
 #: ../plugins/git/git-apply-mailbox-dialog.c:45
 msgid "Please select a mailbox file."
-msgstr "Por favor, selecione um arquivo de caixa de correio."
+msgstr "Por favor, selecione um arquivo de caixa de mensagens."
 
 #: ../plugins/git/git-bisect-dialog.c:54
 #: ../plugins/git/git-cherry-pick-dialog.c:52
@@ -5069,7 +5069,7 @@ msgstr "Fazer _stash das alterações sem commit"
 #. short-cut
 #: ../plugins/git/plugin.c:113
 msgid "Save uncommitted changes and re-apply them later"
-msgstr "Salvar alterações sem commit e re-aplicá-las depois"
+msgstr "Salva alterações sem commit e reaplicars depois"
 
 #. Action name
 #. Stock icon, if any
@@ -5081,7 +5081,7 @@ msgstr "_Aplicar alterações no stash"
 #. short-cut
 #: ../plugins/git/plugin.c:121
 msgid "Apply stashed changes to the working tree"
-msgstr "Aplicar alteraçõs no stash na árvore de trabalho"
+msgstr "Aplica alterações do stash na árvore de trabalho"
 
 #. Action name
 #. Stock icon, if any
@@ -5105,13 +5105,13 @@ msgstr "Repositório _remoto"
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:143
 msgid "_Push..."
-msgstr "_Push..."
+msgstr "Fazer _push..."
 
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:145
 msgid "Push changes to a remote repository"
-msgstr "Fazer o push das alterações para um repositório remoto"
+msgstr "Faz o push das alterações para um repositório remoto"
 
 #. Action name
 #. Stock icon, if any
@@ -5123,7 +5123,7 @@ msgstr "_Extrair..."
 #. short-cut
 #: ../plugins/git/plugin.c:153
 msgid "Update the working copy"
-msgstr "Atualizar a cópia de trabalho"
+msgstr "Atualiza a cópia de trabalho"
 
 #. Action name
 #. Stock icon, if any
@@ -5135,7 +5135,7 @@ msgstr "_Trazer"
 #. short-cut
 #: ../plugins/git/plugin.c:161
 msgid "Update remote branches"
-msgstr "Atualizar ramos remotos"
+msgstr "Atualiza ramos remotos"
 
 #. Action name
 #. Stock icon, if any
@@ -5155,7 +5155,7 @@ msgstr "_Adicionar..."
 #. short-cut
 #: ../plugins/git/plugin.c:177
 msgid "Add files to the repository"
-msgstr "Adicionar arquivos ao repositório"
+msgstr "Adiciona arquivos ao repositório"
 
 #. Action name
 #. Stock icon, if any
@@ -5168,7 +5168,7 @@ msgstr "_Remover..."
 #. short-cut
 #: ../plugins/git/plugin.c:185
 msgid "Remove files from the repository"
-msgstr "Remover arquivos do repositório"
+msgstr "Remove arquivos do repositório"
 
 #. Action name
 #. Stock icon, if any
@@ -5180,7 +5180,7 @@ msgstr "_Ignorar..."
 #. short-cut
 #: ../plugins/git/plugin.c:193
 msgid "Ignore files"
-msgstr "Ignorar arquivos"
+msgstr "Ignora arquivos"
 
 #. Action name
 #. Stock icon, if any
@@ -5192,13 +5192,13 @@ msgstr "_Fazer checkout dos arquivos..."
 #. short-cut
 #: ../plugins/git/plugin.c:201
 msgid "Revert uncommitted changes to files"
-msgstr "Reverter alterações sem commit em arquivos"
+msgstr "Reverte alterações sem commit em arquivos"
 
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:207
 msgid "_Unstage files..."
-msgstr "_Não apresentar files..."
+msgstr "_Não apresentar arquivos..."
 
 #. Display label
 #. short-cut
@@ -5246,7 +5246,7 @@ msgstr "_Aplicar..."
 #. short-cut
 #: ../plugins/git/plugin.c:249
 msgid "Start applying a patch series"
-msgstr "Iniciar aplicando uma série de patches"
+msgstr "Inicia a aplicação de uma série de patches"
 
 #. Action name
 #. Stock icon, if any
@@ -5258,7 +5258,7 @@ msgstr "_Continuar com os conflitos resolvidos"
 #. short-cut
 #: ../plugins/git/plugin.c:257
 msgid "Continue applying a series after resolving conflicts"
-msgstr "Continue aplicando uma série depois de resolver conflitos"
+msgstr "Continue a aplicação de uma série depois de resolver conflitos"
 
 #. Action name
 #. Stock icon, if any
