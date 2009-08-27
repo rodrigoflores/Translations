@@ -1,47 +1,15 @@
-#. Action name
-#. Stock icon, if any
-#: ../plugins/git/anjuta-git.ui.h:15 ../plugins/git/plugin.c:239
-msgid "Apply mailbox files"
-msgstr "Aplicar arquivos da caixa de correio"
+Stash -> stash (git)
 
+Push -> Push (git) não traduzido
 
-Stash -> stash (termo do git)
+Cherry Pick -> Cherry Pick (git)
 
-Push (git) não traduzido
+Patch -> Patch (ao invés de correção)
 
-Remote (git)
-
-#: ../plugins/git/anjuta-git.ui.h:38
-msgid "Commit to revert:"
-msgstr "Commit a reverter:"
-
-#: ../plugins/git/anjuta-git.ui.h:80
-msgid "Remote to delete:"
-msgstr "Remoto a excluir:"
-
-# em analogia à mensagem do "check out"
-#: ../plugins/git/anjuta-git.ui.h:97
-msgid "Select Files to Unstage:"
-msgstr "Selecionar arquivos para retirar:"
-
-#: ../plugins/git/anjuta-git.ui.h:98
-msgid "Select Mailbox File"
-msgstr "Selecionar arquivo da caixa de correio"
-
-#: ../plugins/git/git-apply-mailbox-dialog.c:45
-msgid "Please select a mailbox file."
-msgstr "Por favor, selecione um arquivo de caixa de correio."
-
-#: ../plugins/glade/plugin.c:2254
-#, c-format
-msgid ""
-"To avoid this message turn off \"%s\" flag in Preferences->Glade GUI Designer"
-msgstr ""
-"Para evitar esta mensagem desligue a opção \"%s\" "
-"em Preferências->Construtor de Interfaces Glade"
-
-Cherry Pick -> Cherry Pick
-
+Unstage -> ?
+ 
+Rebase -> Rebase (git)
+ 
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:17
 msgid "Underline-Plain"
 msgstr "Sublinhado-pleno"
@@ -50,11 +18,22 @@ msgstr "Sublinhado-pleno"
 msgid "Underline-Squiggle"
 msgstr "Sublinhado-squiggle"
 
-Commit (git) -> Fazer commit
+#: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:19
+msgid "Underline-TT"
+msgstr "Sublinhado-TT"
 
-Patches -> patch
 
-Unstage
+#: ../plugins/git/plugin.c:766
+msgid "Top level git menu item"
+msgstr "Ítem de menu git de nível mais alto"
+
+ #: ../plugins/glade/plugin.c:3095
+sgid "Top level widget"
+msgstr "Widget de nível mais alto"
+
+#: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:13
+msgid "Strike-Out"
+msgstr "Strike-Out"
 
 
 #. Action name
@@ -65,4 +44,7 @@ Deve ser infinitivo
 #. short-cut
 Deve ser imperativo
 
-Rebase -> Rebase
+
+View -> Mostra (quando for imperativo)
+
+

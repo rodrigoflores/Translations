@@ -1884,13 +1884,13 @@ msgstr "Remove um ponto de interrupção"
 #. Stock icon, if any
 #: ../plugins/debug-manager/breakpoints.c:1802
 msgid "Edit Breakpoint"
-msgstr "Edita pontos de Interrupção"
+msgstr "Editar pontos de Interrupção"
 
 #. Display label
 #. short-cut
 #: ../plugins/debug-manager/breakpoints.c:1804
 msgid "Edit breakpoint properties"
-msgstr "Editar propriedades dos pontos de interrupção"
+msgstr "Edita propriedades dos pontos de interrupção"
 
 #. Action name
 #. Stock icon, if any
@@ -4445,7 +4445,7 @@ msgstr "Criar etiqueta"
 
 #: ../plugins/git/anjuta-git.ui.h:41
 msgid "Create patch series"
-msgstr "Criar uma série de correções"
+msgstr "Criar uma série de patches"
 
 #: ../plugins/git/anjuta-git.ui.h:42 ../plugins/git/git-log-dialog.c:189
 #: ../plugins/subversion/subversion-log-dialog.c:141
@@ -4736,7 +4736,7 @@ msgstr "Etiquetas a excluir:"
 
 #: ../plugins/git/anjuta-git.ui.h:115
 msgid "This commit concludes a failed merge (use -i)"
-msgstr "Esta submissão encerra uma mesclagem falha (use -i)"
+msgstr "Este commit encerra uma mesclagem falha (use -i)"
 
 #: ../plugins/git/anjuta-git.ui.h:117
 msgid "To:"
@@ -4834,7 +4834,7 @@ msgstr "Git: Arquivos verificados."
 
 #: ../plugins/git/git-commit-dialog.c:36
 msgid "Git: Commit complete."
-msgstr "Git: submissão completa."
+msgstr "Git: Commit completo."
 
 #: ../plugins/git/git-commit-dialog.c:105
 msgid "Please enter the commit author's name."
@@ -5039,19 +5039,19 @@ msgstr "_Commit..."
 #. short-cut
 #: ../plugins/git/plugin.c:89
 msgid "Commit changes to the local repository"
-msgstr "Fazendo commit ao repositório local"
+msgstr "Faz commit ao repositório local"
 
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:95
 msgid "_Diff uncommitted changes"
-msgstr "_Diff das alterações não submetidas"
+msgstr "_Diff das alterações sem commit"
 
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:97
 msgid "Show uncommitted changes"
-msgstr "Mostrar alterações sem commit"
+msgstr "Mostra alterações sem commit"
 
 #. Action name
 #. Stock icon, if any
@@ -5069,7 +5069,7 @@ msgstr "Fazer _stash das alterações sem commit"
 #. short-cut
 #: ../plugins/git/plugin.c:113
 msgid "Save uncommitted changes and re-apply them later"
-msgstr "Salva alterações sem commit e reaplicars depois"
+msgstr "Salva alterações sem commit e reaplicar depois"
 
 #. Action name
 #. Stock icon, if any
@@ -5093,7 +5093,7 @@ msgstr "_Ver log..."
 #. short-cut
 #: ../plugins/git/plugin.c:129
 msgid "View change history"
-msgstr "Ver histórico de alterações"
+msgstr "Mostra histórico de alterações"
 
 #. Action name
 #. Stock icon, if any
@@ -5204,7 +5204,7 @@ msgstr "_Não apresentar arquivos..."
 #. short-cut
 #: ../plugins/git/plugin.c:209
 msgid "Remove files from the commit index"
-msgstr "Remover arquivos do índice de commit"
+msgstr "Remove arquivos do índice de commit"
 
 #. Action name
 #. Stock icon, if any
@@ -5216,25 +5216,25 @@ msgstr "_Resolver conflitos..."
 #. short-cut
 #: ../plugins/git/plugin.c:217
 msgid "Mark conflicted files as resolved"
-msgstr "Marcar arquivos em conflito como resolvidos"
+msgstr "Marca arquivos em conflito como resolvidos"
 
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:223 ../plugins/patch/patch-plugin.c:117
 msgid "Patches"
-msgstr "Correções"
+msgstr "Patches"
 
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:231
 msgid "Create patch series..."
-msgstr "Criar uma série de correções..."
+msgstr "Criar uma série de patches..."
 
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:233
 msgid "Generate patch files for submission upstream"
-msgstr "Gerar arquivos de patch para submeter ao upstream"
+msgstr "Gera arquivos de patch para submeter ao upstream"
 
 #. Action name
 #. Stock icon, if any
@@ -5284,7 +5284,7 @@ msgstr "_Abortar"
 msgid ""
 "Stop applying the series and return the repository to its original state"
 msgstr ""
-"Pare de aplicar a série e recoloque o repositório no seu estado original"
+"Para de aplicar a série e recoloque o repositório no seu estado original"
 
 #. Action name
 #. Stock icon, if any
@@ -5302,7 +5302,7 @@ msgstr "_Criar ramo..."
 #. short-cut
 #: ../plugins/git/plugin.c:289
 msgid "Create a branch"
-msgstr "Criar um ramo"
+msgstr "Cria um ramo"
 
 #. Action name
 #. Stock icon, if any
@@ -5314,7 +5314,7 @@ msgstr "_Excluir ramo..."
 #. short-cut
 #: ../plugins/git/plugin.c:297
 msgid "Delete branches"
-msgstr "Excluir ramos"
+msgstr "Exclui ramo"
 
 #. Action name
 #. Stock icon, if any
@@ -5362,7 +5362,7 @@ msgstr "_Iniciar..."
 #. short-cut
 #: ../plugins/git/plugin.c:329
 msgid "Start a rebase"
-msgstr "Iniciar um rebase"
+msgstr "Inicia um rebase"
 
 #. Action name
 #. Stock icon, if any
@@ -5392,7 +5392,7 @@ msgstr "Pula o commit atual com conflito e continua"
 #. short-cut
 #: ../plugins/git/plugin.c:353
 msgid "Abort the rebase and put the repository in its original state"
-msgstr "Abortar um rebase e colocar o repositório no seu estado original"
+msgstr "Aborta um rebase e colocar o repositório no seu estado original"
 
 #. Action name
 #. Stock icon, if any
@@ -5478,7 +5478,7 @@ msgstr "_Restaurar árvore..."
 #. short-cut
 #: ../plugins/git/plugin.c:425
 msgid "Reset repository head to any past state"
-msgstr "Recoloque o head do repositório em qualquer estado passado"
+msgstr "Recoloca o head do repositório em qualquer estado passado"
 
 #. Action name
 #. Stock icon, if any
@@ -5490,7 +5490,7 @@ msgstr "_Reverter o commit..."
 #. short-cut
 #: ../plugins/git/plugin.c:433
 msgid "Revert a commit"
-msgstr "Reverter um commit"
+msgstr "Reverte um commit"
 
 #. Action name
 #. Stock icon, if any
@@ -5502,7 +5502,7 @@ msgstr "Bisect"
 #. short-cut
 #: ../plugins/git/plugin.c:449
 msgid "Start a bisect operation"
-msgstr "Iniciar uma operação de bisect"
+msgstr "Inicia uma operação de bisect"
 
 #. Display label
 #. short-cut
@@ -5568,7 +5568,7 @@ msgstr "_Ver revisão selecionada"
 #. short-cut
 #: ../plugins/git/plugin.c:501
 msgid "View a copy of this file at this revision"
-msgstr "Ver uma cópia deste arquivo nesta revisão"
+msgstr "Mostra uma cópia deste arquivo nesta revisão"
 
 #. Display label
 #. short-cut
@@ -5586,19 +5586,19 @@ msgstr "Crie uma etiqueta nesta revisão"
 #. short-cut
 #: ../plugins/git/plugin.c:525
 msgid "Reset repository head to this revision"
-msgstr "Redefina o head do repositório nesta revisão"
+msgstr "Redefine o head do repositório nesta revisão"
 
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:533
 msgid "Revert this commit"
-msgstr "Reverter este commit"
+msgstr "Reverte este commit"
 
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:541
 msgid "Merge this commit into the current branch"
-msgstr "Merclar este commit com o ramo atual"
+msgstr "Mercla este commit com o ramo atual"
 
 #. Action name
 #. Stock icon, if any
@@ -5616,7 +5616,7 @@ msgstr "_Definir boa revisão"
 #. short-cut
 #: ../plugins/git/plugin.c:557
 msgid "Mark this revision as good"
-msgstr "Marcar esta revisão como boa"
+msgstr "Marca esta revisão como boa"
 
 #. Action name
 #. Stock icon, if any
@@ -5628,25 +5628,25 @@ msgstr "_Definir revisão ruim"
 #. short-cut
 #: ../plugins/git/plugin.c:565
 msgid "Mark this revision as bad"
-msgstr "Marcar esta revisão como ruim"
+msgstr "Marca esta revisão como ruim"
 
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:585
 msgid "View changes to this file or folder"
-msgstr "Ver alterações neste arquivo ou pasta"
+msgstr "Mostra alterações neste arquivo ou pasta"
 
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:593
 msgid "Add this file or folder to the repository"
-msgstr "Adicionar este arquivo ou pasta ao repositório"
+msgstr "Adiciona este arquivo ou pasta ao repositório"
 
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:601
 msgid "Remove this file or folder from the repository"
-msgstr "Remover este arquivo ou pasta do repositório"
+msgstr "Remove este arquivo ou pasta do repositório"
 
 #: ../plugins/git/plugin.c:766
 msgid "Top level git menu item"
@@ -6641,7 +6641,7 @@ msgstr "Arquivo/diretório onde aplicar o patch"
 
 #: ../plugins/patch/patch-plugin.c:97
 msgid "Patch file"
-msgstr "Arquivo de correção"
+msgstr "Arquivo de patch"
 
 #: ../plugins/patch/patch-plugin.c:166 ../plugins/patch/patch-plugin.ui.h:3
 msgid "Patch"
@@ -6658,11 +6658,11 @@ msgstr "Aplicando o patch em %s utilizando %s\n"
 
 #: ../plugins/patch/patch-plugin.c:209
 msgid "Patching...\n"
-msgstr "Aplicando correção...\n"
+msgstr "Aplicando patch...\n"
 
 #: ../plugins/patch/patch-plugin.c:219
 msgid "Patching..."
-msgstr "Aplicando correção..."
+msgstr "Aplicando patch..."
 
 #: ../plugins/patch/patch-plugin.c:224
 msgid "There are unfinished jobs, please wait until they are finished."
@@ -6674,13 +6674,13 @@ msgid ""
 "Please review the failure messages.\n"
 "Examine and remove any rejected files.\n"
 msgstr ""
-"O patch falhou.\n"
+"A aplicação do patch falhou.\n"
 "Por favor, verifique as mensagens de erro.\n"
 "Examine e remova qualquer arquivo rejeitado.\n"
 
 #: ../plugins/patch/patch-plugin.c:272
 msgid "Patching complete"
-msgstr "Correção completada"
+msgstr "Aplicação do patch completada"
 
 #: ../plugins/patch/patch-plugin.ui.h:1
 #: ../plugins/subversion/anjuta-subversion.ui.h:14
@@ -6689,15 +6689,15 @@ msgstr "Simulação"
 
 #: ../plugins/patch/patch-plugin.ui.h:2
 msgid "File/Directory to patch:"
-msgstr "Arquivo/Diretório para aplicar correção:"
+msgstr "Arquivo/Diretório para aplicar patch:"
 
 #: ../plugins/patch/patch-plugin.ui.h:4
 msgid "Patch file:"
-msgstr "Arquivo de correções"
+msgstr "Arquivo de patch"
 
 #: ../plugins/patch/patch-plugin.ui.h:5
 msgid "Patch level:"
-msgstr "Nível da correção:"
+msgstr "Nível de patch:"
 
 #. Action name
 #. Stock icon, if any
@@ -7439,7 +7439,7 @@ msgstr "Cria um modelo do arquivo de interface do Gtk Builder"
 
 #: ../plugins/project-wizard/templates/translatable-strings.h:32
 msgid "Create a template gtk builder interface file"
-msgstr "Cria um modelo interface do gtk builder"
+msgstr "Cria um modelo de arquivo de interface do gtk builder"
 
 #: ../plugins/project-wizard/templates/translatable-strings.h:35
 msgid "Display description of the applet"
@@ -8918,7 +8918,7 @@ msgid ""
 "This option enables the default packages required by your opened project, e."
 "g. glib and gtk+ if you create a Gtk+ project (may require more cpu work)"
 msgstr ""
-"Esta opção habilita os pacotes padrão necessários para se projeto aberto, "
+"Esta opção habilita os pacotes padrão necessários para seu projeto aberto, "
 "por exemplo: glib e gtk+ se você criar um projeto Gtk+ (pode precisar de "
 "mais trabalho de cpu)"
 
@@ -9168,7 +9168,7 @@ msgstr ""
 #: ../plugins/tools/variable.c:89
 msgid "Selected full file name without extension in the file manager plugin"
 msgstr ""
-"Nome completo do arquivo sem extensão no plug-in de gerenciamento de arquivos"
+"Nome completo do arquivo sem extensão selecionado no plug-in de gerenciamento de arquivos"
 
 #: ../plugins/tools/variable.c:90
 msgid "Selected file name in the file manager plugin"
@@ -9176,14 +9176,13 @@ msgstr "Nome de arquivo selecionado no plug-in de gerenciamento de arquivos"
 
 #: ../plugins/tools/variable.c:91
 msgid "Selected file name without extension in the file manager plugin"
-msgstr ""
-"Nome de arquivo selecionado sem extensão no plug-in de gerenciamento de "
+msgstr "Nome de arquivo sem extensão no plug-in de gerenciamento de "
 "arquivos"
 
 #: ../plugins/tools/variable.c:92
 msgid "Selected file's extension in the file manager plugin"
 msgstr ""
-"Extensão de arquivo selecionado no plug-in de gerenciamento de arquivos"
+"Extensão de arquivo selecionada no plug-in de gerenciamento de arquivos"
 
 #: ../plugins/tools/variable.c:93
 msgid "Selected URI in the project manager plugin"
@@ -9216,7 +9215,7 @@ msgstr ""
 
 #: ../plugins/tools/variable.c:99
 msgid "Selected file extension in the project manager plugin"
-msgstr "Extensão de arquivo selecionado no plug-in de gerenciamento de projeto"
+msgstr "Extensão de arquivo selecionada no plug-in de gerenciamento de projeto"
 
 #: ../plugins/tools/variable.c:100
 msgid "Currently edited file name"
@@ -9415,7 +9414,7 @@ msgstr "Documentação e recursos online"
 
 #: ../src/anjuta-actions.h:83
 msgid "Report _Bugs/Patches/Requests"
-msgstr "_Relatar erros/correções/solicitações"
+msgstr "_Relatar erros/patches/solicitações"
 
 #: ../src/anjuta-actions.h:84
 msgid "Submit a bug report, patch or feature request for Anjuta"
@@ -9762,7 +9761,7 @@ msgstr "Macro"
 
 #: ../plugins/patch/anjuta-patch.plugin.in.h:1
 msgid "Patch Plugin"
-msgstr "Patch"
+msgstr "Plug-in de patch "
 
 #: ../plugins/patch/anjuta-patch.plugin.in.h:2
 msgid "Patches files and directories."
