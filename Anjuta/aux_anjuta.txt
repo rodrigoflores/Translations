@@ -50,3 +50,8 @@ msgstr "Sublinhado-pleno"
 msgid "Underline-Squiggle"
 msgstr "Sublinhado-squiggle"
 
+Commit (git) -> Fazer commit
+
+Patches -> patch
+
+

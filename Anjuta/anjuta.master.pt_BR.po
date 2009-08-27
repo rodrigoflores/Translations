@@ -322,7 +322,7 @@ msgstr "Plug-ins ativados no momento"
 
 #: ../libanjuta/anjuta-plugin-manager.c:2311
 msgid "Anjuta shell for which the plugins are made"
-msgstr "Shell do Anjuta no qual os plug-ins estão"
+msgstr "Shell do Anjuta no qual os plug-ins são feitos"
 
 #: ../libanjuta/anjuta-plugin-manager.c:2319
 msgid "Anjuta Status"
@@ -4300,7 +4300,7 @@ msgstr "<b>Mensagem de Stash (Opcional)</b>"
 
 #: ../plugins/git/anjuta-git.ui.h:3
 msgid "<b>Stash to Apply</b>"
-msgstr "<b>Ramo a ser aplicado:</b>"
+msgstr "<b>Stash a ser aplicado:</b>"
 
 #: ../plugins/git/anjuta-git.ui.h:4
 msgid "<b>Tags</b>"
@@ -4325,7 +4325,7 @@ msgstr "Adiciona aprovados por linha"
 
 #: ../plugins/git/anjuta-git.ui.h:10
 msgid "Amend the previous commit"
-msgstr "Alterar a submissão anterior"
+msgstr "Fazer amend do commit anterior"
 
 #: ../plugins/git/anjuta-git.ui.h:11
 msgid "Annotate this tag"
@@ -4344,7 +4344,7 @@ msgstr "Aplicar stash"
 #. Stock icon, if any
 #: ../plugins/git/anjuta-git.ui.h:15 ../plugins/git/plugin.c:239
 msgid "Apply mailbox files"
-msgstr "Aplicar arquivos da caixa de correio"
+msgstr "Aplicar arquivos da caixa de mensagens"
 
 #: ../plugins/git/anjuta-git.ui.h:16
 msgid "Apply the selected stash"
@@ -4466,7 +4466,7 @@ msgstr "Excluir etiquetas"
 
 #: ../plugins/git/anjuta-git.ui.h:46
 msgid "Do not commit"
-msgstr "Não submeter"
+msgstr "Não fazer commit"
 
 #: ../plugins/git/anjuta-git.ui.h:47
 msgid "Do not follow tags"
@@ -4503,11 +4503,11 @@ msgstr "De:"
 
 #: ../plugins/git/anjuta-git.ui.h:56
 msgid "Generate patches relative to:"
-msgstr "Gera correções relativas a:"
+msgstr "Gera patches relativos a:"
 
 #: ../plugins/git/anjuta-git.ui.h:57
 msgid "Good revision:"
-msgstr "Boa Revisão:"
+msgstr "Revisão boa:"
 
 #: ../plugins/git/anjuta-git.ui.h:58
 msgid "Grep:"
@@ -4532,7 +4532,7 @@ msgstr "Mensagem de log:"
 
 #: ../plugins/git/anjuta-git.ui.h:65
 msgid "Mailbox file containing patches:"
-msgstr "Arquivo de caixa de mensagem contendo patches:"
+msgstr "Arquivo de caixa de mensagens contendo patches:"
 
 #: ../plugins/git/anjuta-git.ui.h:66
 msgid "Merge"
@@ -4559,7 +4559,7 @@ msgstr "Opções:"
 
 #: ../plugins/git/anjuta-git.ui.h:72
 msgid "Previous commit"
-msgstr "Submissão anterior"
+msgstr "Commit anterior"
 
 #: ../plugins/git/anjuta-git.ui.h:73
 msgid "Pull"
@@ -4575,7 +4575,7 @@ msgstr "Fazer push de todos os ramos e etiquetas"
 
 #: ../plugins/git/anjuta-git.ui.h:76
 msgid "Push all tags"
-msgstr "Fazer um \"push\" em todas as etiquetas"
+msgstr "Fazer push de todas as etiquetas"
 
 #: ../plugins/git/anjuta-git.ui.h:77
 msgid "Rebase"
@@ -4587,7 +4587,7 @@ msgstr "Remoto"
 
 #: ../plugins/git/anjuta-git.ui.h:79
 msgid "Remote branch to rebase from:"
-msgstr "Ramo remoto para fazer o rebase:>"
+msgstr "Ramo remoto para fazer o rebase:"
 
 #: ../plugins/git/anjuta-git.ui.h:80
 msgid "Remote to delete:"
@@ -4603,7 +4603,7 @@ msgstr "Repositório de origem"
 
 #: ../plugins/git/anjuta-git.ui.h:83
 msgid "Repository to pull from:"
-msgstr "Repositório para fazer push:"
+msgstr "Repositório para fazer pull:"
 
 #: ../plugins/git/anjuta-git.ui.h:84
 msgid "Repository to push to:"
