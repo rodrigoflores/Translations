@@ -6,31 +6,10 @@ Cherry Pick -> Cherry Pick (git)
 
 Patch -> Patch (ao invés de correção)
 
-Unstage -> ?
+Unstage -> Retirar
  
 Rebase -> Rebase (git)
  
-#: ../plugins/git/plugin.c:766
-msgid "Top level git menu item"
-msgstr "Ítem de menu git de nível mais alto"
-
- #: ../plugins/glade/plugin.c:3095
-sgid "Top level widget"
-msgstr "Widget de nível mais alto"
-
-#: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:13
-msgid "Strike-Out"
-msgstr "Strike-Out"
-
-#. Display label
-#. short-cut
-#: ../plugins/git/plugin.c:361
-msgid ""
-"Selectively merge individual changes from other branches into the currrent "
-"one"
-msgstr ""
-
-
 View -> Mostra (quando for imperativo)
 
 Branch -> Branch (git)

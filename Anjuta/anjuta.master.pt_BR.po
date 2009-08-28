@@ -500,7 +500,7 @@ msgstr ""
 #: ../libanjuta/anjuta-utils.c:986
 msgid "Cannot find a terminal, using xterm, even if it may not work"
 msgstr ""
-"Não foi possível encontrar um terminal, usando o xterm, mesmo se este não "
+"Não foi possível encontrar um terminal, usando o xterm, o que pode não "
 "funcionar"
 
 #: ../libanjuta/anjuta-utils.c:1022 ../libanjuta/anjuta-utils.c:1026
@@ -1629,8 +1629,8 @@ msgstr ""
 "<span weight=\"bold\" size=\"larger\">Você tem certeza que você quer depurar "
 "um programa sem usar a configuração de Depuração ?</span>\n"
 "\n"
-"Quando otimização estão habilitadas, o depurador não consegue sempre "
-"identificar o código fonte corresponde às instruções e alguns comandos podem "
+"Quando otimizações estão habilitadas, o depurador nem sempre consegue "
+"identificar o código fonte corresponde às instruções, e alguns comandos podem "
 "se comportar de maneira estranha, especialmente passos."
 
 #: ../plugins/debug-manager/anjuta-debug-manager.ui.h:6
@@ -9638,7 +9638,7 @@ msgstr "Alinhar parênteses"
 
 #: ../plugins/language-support-cpp-java/anjuta-language-cpp-java.ui.h:14
 msgid "Parenthese indentation"
-msgstr "Recuo por parêntesese"
+msgstr "Recuo por parênteses"
 
 #: ../plugins/language-support-cpp-java/anjuta-language-cpp-java.ui.h:15
 msgid "Show calltips"
