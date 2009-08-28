@@ -19,7 +19,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
 "product=anjuta&component=core application\n"
 "POT-Creation-Date: 2009-08-27 07:55+0000\n"
-"PO-Revision-Date: 2009-08-18 08:28-0300\n"
+"PO-Revision-Date: 2009-08-28 08:43-0300\n"
 "Last-Translator: Rodrigo Luiz Marques Flores <mail@rodrigoflores.org>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -4662,7 +4662,7 @@ msgstr "Selecionar arquivos para marcar como resolvido:"
 # em analogia à mensagem do "check out"
 #: ../plugins/git/anjuta-git.ui.h:97
 msgid "Select Files to Unstage:"
-msgstr "Selecionar arquivos para retirar:"
+msgstr "Selecionar arquivos para fazer unstage:"
 
 #: ../plugins/git/anjuta-git.ui.h:98
 msgid "Select Mailbox File"
@@ -4752,7 +4752,7 @@ msgstr "URL:"
 
 #: ../plugins/git/anjuta-git.ui.h:120
 msgid "Unstage Files"
-msgstr "Retirar arquivos"
+msgstr "Fazer unstage de arquivos"
 
 #: ../plugins/git/anjuta-git.ui.h:121
 msgid "Use a custom log message"
@@ -5015,7 +5015,7 @@ msgstr "Coluna %i"
 
 #: ../plugins/git/git-unstage-dialog.c:36
 msgid "Git: Files unstaged."
-msgstr "Git: Arquivos não apresentados."
+msgstr "Git: Arquivos em unstage."
 
 #. Action name
 #. Stock icon, if any
@@ -5198,7 +5198,7 @@ msgstr "Reverte alterações sem commit em arquivos"
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:207
 msgid "_Unstage files..."
-msgstr "_Não apresentar arquivos..."
+msgstr "_Fazer unstage de arquivos..."
 
 #. Display label
 #. short-cut
