@@ -10,18 +10,6 @@ Unstage -> ?
  
 Rebase -> Rebase (git)
  
-#: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:17
-msgid "Underline-Plain"
-msgstr "Sublinhado-pleno"
-
-#: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:18
-msgid "Underline-Squiggle"
-msgstr "Sublinhado-squiggle"
-
-#: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:19
-msgid "Underline-TT"
-msgstr "Sublinhado-TT"
-
 #: ../plugins/git/plugin.c:766
 msgid "Top level git menu item"
 msgstr "Ítem de menu git de nível mais alto"
@@ -44,5 +32,7 @@ msgstr ""
 
 
 View -> Mostra (quando for imperativo)
+
+Branch -> Branch (git)
 
 

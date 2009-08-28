@@ -4312,7 +4312,7 @@ msgstr "Adicionar arquivo"
 
 #: ../plugins/git/anjuta-git.ui.h:6
 msgid "Add Remote Branch"
-msgstr "Adicionar ramo remoto"
+msgstr "Adicionar branch remoto"
 
 #. A signed off by line is something git adds to the end of a commit message that indicates that a patch passes your scrutiny as you commit it to your git tree.
 #: ../plugins/git/anjuta-git.ui.h:8
@@ -4366,28 +4366,28 @@ msgstr "Revisão ruim:"
 
 #: ../plugins/git/anjuta-git.ui.h:21
 msgid "Branch name:"
-msgstr "Nome do ramo:"
+msgstr "Nome do branch:"
 
 # Não existe "... para" em português.
 #: ../plugins/git/anjuta-git.ui.h:22
 msgid "Branch to switch to:"
-msgstr "Ramo para o qual trocar:"
+msgstr "Branch para o qual trocar:"
 
 #: ../plugins/git/anjuta-git.ui.h:23
 msgid "Branch:"
-msgstr "Ramo:"
+msgstr "Branch:"
 
 #: ../plugins/git/anjuta-git.ui.h:24
 msgid "Branches"
-msgstr "Ramos"
+msgstr "Branches"
 
 #: ../plugins/git/anjuta-git.ui.h:25
 msgid "Branches must be fully merged"
-msgstr "Os ramos devem ser completamente mesclados"
+msgstr "Os branches devem ser completamente mesclados"
 
 #: ../plugins/git/anjuta-git.ui.h:26
 msgid "Branches to delete:"
-msgstr "Ramos a serem excluídos:"
+msgstr "Branches a serem excluídos:"
 
 #: ../plugins/git/anjuta-git.ui.h:28
 #: ../plugins/subversion/anjuta-subversion.ui.h:4
@@ -4404,7 +4404,7 @@ msgstr "Gerar cópia de todas as mudanças locais"
 
 #: ../plugins/git/anjuta-git.ui.h:31
 msgid "Check out the branch after it is created"
-msgstr "Gera uma cópia de trabalho do ramo (branch) após sua criação"
+msgstr "Gera uma cópia de trabalho do branch após sua criação"
 
 #: ../plugins/git/anjuta-git.ui.h:32
 msgid "Cherry Pick"
@@ -4437,7 +4437,7 @@ msgstr "Commit a reverter:"
 
 #: ../plugins/git/anjuta-git.ui.h:39
 msgid "Create Branch"
-msgstr "Criar ramo"
+msgstr "Criar branch"
 
 #: ../plugins/git/anjuta-git.ui.h:40
 msgid "Create Tag"
@@ -4454,11 +4454,11 @@ msgstr "Data"
 
 #: ../plugins/git/anjuta-git.ui.h:43
 msgid "Delete Branch"
-msgstr "Excluir ramo"
+msgstr "Excluir branch"
 
 #: ../plugins/git/anjuta-git.ui.h:44
 msgid "Delete Remote Branch"
-msgstr "Exclui o ramo remoto"
+msgstr "Exclui o branch remoto"
 
 #: ../plugins/git/anjuta-git.ui.h:45
 msgid "Delete Tags"
@@ -4482,7 +4482,7 @@ msgstr "E-mail:"
 
 #: ../plugins/git/anjuta-git.ui.h:50
 msgid "Fetch remote branches after creation"
-msgstr "Busca ramos remotos depois da criação"
+msgstr "Busca branches remotos depois da criação"
 
 #: ../plugins/git/anjuta-git.ui.h:51
 msgid "Filters"
@@ -4571,7 +4571,7 @@ msgstr "Push"
 
 #: ../plugins/git/anjuta-git.ui.h:75
 msgid "Push all branches and tags"
-msgstr "Fazer push de todos os ramos e etiquetas"
+msgstr "Fazer push de todos os branches e etiquetas"
 
 #: ../plugins/git/anjuta-git.ui.h:76
 msgid "Push all tags"
@@ -4587,7 +4587,7 @@ msgstr "Remoto"
 
 #: ../plugins/git/anjuta-git.ui.h:79
 msgid "Remote branch to rebase from:"
-msgstr "Ramo remoto para fazer o rebase:"
+msgstr "Branch remoto para fazer o rebase:"
 
 #: ../plugins/git/anjuta-git.ui.h:80
 msgid "Remote to delete:"
@@ -4720,7 +4720,7 @@ msgstr "Colocar no stash as alterações sem commit da árvore de trabalho"
 
 #: ../plugins/git/anjuta-git.ui.h:111
 msgid "Switch to Another Branch"
-msgstr "Trocar para outro ramo"
+msgstr "Trocar para outro branch"
 
 #: ../plugins/git/anjuta-git.ui.h:112
 msgid "Tag name:"
@@ -4794,12 +4794,12 @@ msgstr "Por favor, selecione um arquivo."
 #: ../plugins/git/git-add-remote-dialog.c:41
 #, c-format
 msgid "Git: Added remote branch \"%s\"."
-msgstr "Git: Ramo remoto \"%s\" adicionado."
+msgstr "Git: Branch remoto \"%s\" adicionado."
 
 #: ../plugins/git/git-add-remote-dialog.c:81
 #: ../plugins/git/git-create-branch-dialog.c:117
 msgid "Please enter a branch name."
-msgstr "Por favor, entre com o nome de um ramo."
+msgstr "Por favor, entre com o nome de um branch."
 
 #: ../plugins/git/git-add-remote-dialog.c:91
 msgid "Please enter a URL."
@@ -4847,7 +4847,7 @@ msgstr "Por favor, digite o e-mail do autor do commit."
 #: ../plugins/git/git-create-branch-dialog.c:41
 #, c-format
 msgid "Git: Created branch \"%s\"."
-msgstr "Git: Ramo \"%s\" criado."
+msgstr "Git: Branch \"%s\" criado."
 
 #: ../plugins/git/git-create-tag-dialog.c:41
 #, c-format
@@ -4860,11 +4860,11 @@ msgstr "Favor digitar um nome de etiqueta."
 
 #: ../plugins/git/git-delete-branch-dialog.c:37
 msgid "Git: Deleted selected branches."
-msgstr "Git: Ramos selecionados excluídos."
+msgstr "Git: Branches selecionados excluídos."
 
 #: ../plugins/git/git-delete-branch-dialog.c:106
 msgid "Please select branches to delete"
-msgstr "Por favor, selecione ramos para excluir"
+msgstr "Por favor, selecione branches para excluir"
 
 #: ../plugins/git/git-delete-tag-dialog.c:37
 msgid "Git: Deleted selected tags."
@@ -4906,7 +4906,7 @@ msgstr "Selecionar um arquivo"
 #: ../plugins/git/git-log-dialog.c:546
 #, c-format
 msgid "<b>Branch:</b> %s"
-msgstr "<b>Ramo:</b> %s"
+msgstr "<b>Branch:</b> %s"
 
 #: ../plugins/git/git-log-dialog.c:551
 #, c-format
@@ -4921,7 +4921,7 @@ msgstr "<b>Remoto:</b> %s"
 #: ../plugins/git/git-log-dialog.c:849 ../plugins/git/plugin.c:674
 #: ../plugins/git/plugin.c:867
 msgid "Branch"
-msgstr "Ramo"
+msgstr "Branch"
 
 #: ../plugins/git/git-merge-dialog.c:36
 msgid "Git: Merge complete."
@@ -4981,7 +4981,7 @@ msgstr "Git: Todos os stashes removidos."
 
 #: ../plugins/git/git-switch-dialog.c:36
 msgid "Git: Branch checkout complete."
-msgstr "Git: checkout do ramo concluído."
+msgstr "Git: checkout do branch concluído."
 
 #: ../plugins/git/git-ui-utils.c:89 ../plugins/git/git-ui-utils.c:94
 #: ../plugins/git/git.plugin.in.h:1
@@ -4990,7 +4990,7 @@ msgstr "Git"
 
 #: ../plugins/git/git-ui-utils.c:158
 msgid "There are no branches available."
-msgstr "Não há ramos disponíveis."
+msgstr "Não há branches disponíveis."
 
 #: ../plugins/git/git-ui-utils.c:194
 msgid "Please select a stash"
@@ -5135,7 +5135,7 @@ msgstr "_Trazer"
 #. short-cut
 #: ../plugins/git/plugin.c:161
 msgid "Update remote branches"
-msgstr "Atualiza ramos remotos"
+msgstr "Atualiza branches remotos"
 
 #. Action name
 #. Stock icon, if any
@@ -5290,43 +5290,43 @@ msgstr ""
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:279
 msgid "_Branches"
-msgstr "_Ramos"
+msgstr "_Branches"
 
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:287 ../plugins/git/plugin.c:507
 msgid "_Create branch..."
-msgstr "_Criar ramo..."
+msgstr "_Criar branch..."
 
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:289
 msgid "Create a branch"
-msgstr "Cria um ramo"
+msgstr "Cria um branch"
 
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:295
 msgid "_Delete branch..."
-msgstr "_Excluir ramo..."
+msgstr "_Excluir branch..."
 
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:297
 msgid "Delete branches"
-msgstr "Exclui ramo"
+msgstr "Exclui branch"
 
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:303
 msgid "_Switch to another branch..."
-msgstr "_Trocar para outro ramo..."
+msgstr "_Trocar para outro branch..."
 
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:305
 msgid "Switch to another branch"
-msgstr "_Alterna para outro ramo..."
+msgstr "_Alterna para outro branch..."
 
 #. Action name
 #. Stock icon, if any
@@ -5338,7 +5338,7 @@ msgstr "_Mesclar..."
 #. short-cut
 #: ../plugins/git/plugin.c:313
 msgid "Merge changes from another branch into the current one"
-msgstr "Mescla alterações de outro ramo com o atual"
+msgstr "Mescla alterações de outro branch com o atual"
 
 #. Action name
 #. Stock icon, if any
@@ -5350,7 +5350,7 @@ msgstr "_Rebase"
 #. short-cut
 #: ../plugins/git/plugin.c:321
 msgid "Merge your changes with an upstream remote branch"
-msgstr "Mescla suas alterações com um ramo remoto do upstream"
+msgstr "Mescla suas alterações com um branch remoto do upstream"
 
 #. Action name
 #. Stock icon, if any
@@ -5406,19 +5406,19 @@ msgstr "_Cherry pick..."
 msgid ""
 "Selectively merge individual changes from other branches into the current one"
 msgstr ""
-"Aplica mudanças individuais de outros branches no atual"
+"Aplica, seletivamente, mudanças individuais de outros branches no atual"
 
 #. Action name
 #. Stock icon, if any
 #: ../plugins/git/plugin.c:367
 msgid "_Remote branches"
-msgstr "_Ramos remotos"
+msgstr "_Branches remotos"
 
 #. Display label
 #. short-cut
 #: ../plugins/git/plugin.c:377
 msgid "Add a remote branch"
-msgstr "Adicionar um ramo remoto"
+msgstr "Adicionar um branch remoto"
 
 #. Action name
 #. Stock icon, if any
@@ -5430,7 +5430,7 @@ msgstr "_Excluir..."
 #. short-cut
 #: ../plugins/git/plugin.c:385
 msgid "Delete a remote branch"
-msgstr "Exclui um ramo remoto"
+msgstr "Exclui um branch remoto"
 
 #. Action name
 #. Stock icon, if any
@@ -5574,7 +5574,7 @@ msgstr "Mostra uma cópia deste arquivo nesta revisão"
 #. short-cut
 #: ../plugins/git/plugin.c:509
 msgid "Create a branch with the selected revision as its head"
-msgstr "Criar um ramo com a revisão selecionada como head"
+msgstr "Criar um branch com a revisão selecionada como head"
 
 #. Display label
 #. short-cut
@@ -5598,7 +5598,7 @@ msgstr "Reverte este commit"
 #. short-cut
 #: ../plugins/git/plugin.c:541
 msgid "Merge this commit into the current branch"
-msgstr "Mercla este commit com o ramo atual"
+msgstr "Mescla este commit com o branch atual"
 
 #. Action name
 #. Stock icon, if any
@@ -5650,7 +5650,7 @@ msgstr "Remove este arquivo ou pasta do repositório"
 
 #: ../plugins/git/plugin.c:766
 msgid "Top level git menu item"
-msgstr "Ítem de menu git de nível mais alto"
+msgstr "Item de menu git de nível superior"
 
 #: ../plugins/git/plugin.c:774
 msgid "Git operations"
@@ -5848,7 +5848,7 @@ msgstr "Não foi possível ler o arquivo: %s."
 
 #: ../plugins/glade/plugin.c:3095
 msgid "Top level widget"
-msgstr "Widget de nível mais alto"
+msgstr "Widget de nível superior"
 
 #: ../plugins/glade/plugin.c:3686
 msgid "Couldn't find a default signal name"
@@ -6518,15 +6518,15 @@ msgstr "Truncar mensagens longas"
 
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:17
 msgid "Underline-Plain"
-msgstr "Sublinhado-pleno"
+msgstr "Sublinhado comum"
 
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:18
 msgid "Underline-Squiggle"
-msgstr "Sublinhado-squiggle"
+msgstr "Sublinhado ondulado"
 
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:19
 msgid "Underline-TT"
-msgstr "Sublinhado-TT"
+msgstr "Sublinhado à máquina de escrever"
 
 #: ../plugins/message-view/anjuta-message-manager-plugin.ui.h:20
 msgid "Warning message indicator style:"
@@ -8305,7 +8305,7 @@ msgstr "Adicionar arquivo/diretório"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:2
 msgid "Branch/Tag URL:"
-msgstr "URL do ramo/etiqueta"
+msgstr "URL do branch/etiqueta"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:8
 msgid "Copy files/folders"
@@ -8421,7 +8421,7 @@ msgstr "Preferências do Subversion"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:49
 msgid "Switch to branch/tag"
-msgstr "Mudar para ramo/etiqueta"
+msgstr "Mudar para branch/etiqueta"
 
 #: ../plugins/subversion/anjuta-subversion.ui.h:50
 msgid "Trust server"
@@ -9951,7 +9951,7 @@ msgstr "Backend autotools para o gerenciador de projetos"
 #~ msgstr "_Passar:"
 
 #~ msgid "<b>Branch:</b>"
-#~ msgstr "<b>Ramo:</b>"
+#~ msgstr "<b>Branch:</b>"
 
 #~ msgid "<b>Filters</b>"
 #~ msgstr "<b>Filtros</b>"
