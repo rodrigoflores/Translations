@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Pidgin\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-08-29 09:57-0400\n"
-"PO-Revision-Date: 2009-08-29 14:15-0300\n"
+"PO-Revision-Date: 2009-08-29 14:32-0300\n"
 "Last-Translator: Rodrigo Luiz Marques Flores <mail@rodrigoflores.org>\n"
 "Language-Team: Rodrigo Luiz Marques Flores <mail@rodrigoflores.org>\n"
 "MIME-Version: 1.0\n"
@@ -1719,21 +1719,21 @@ msgstr "_Ver certificado..."
 
 #, c-format
 msgid "The certificate for %s could not be validated."
-msgstr "O certificados para %s não pôde ser validado."
+msgstr "O certificado para %s não pôde ser validado."
 
 #. TODO: Probably wrong.
 msgid "SSL Certificate Error"
 msgstr "Erro no certificado SSL"
 
 msgid "Unable to validate certificate"
-msgstr "Não foi possível validar o certificad"
+msgstr "Não foi possível validar o certificado"
 
 #, c-format
 msgid ""
 "The certificate claims to be from \"%s\" instead. This could mean that you "
 "are not connecting to the service you believe you are."
 msgstr ""
-"O certificado afirma ser de \"%s\". Isto pode querer dizer que você não está "
+"O certificado afirma ser de \"%s\". Isto pode significar que você não está "
 "conectando ao serviço que você acredita estar."
 
 #. Make messages
@@ -2483,7 +2483,7 @@ msgid "For rooms with more than this many people"
 msgstr "Para salas com mais que este número de pessoas"
 
 msgid "If user has not spoken in this many minutes"
-msgstr "Se o usuário não falou há este número de minutos"
+msgstr "Se o usuário não falou à este número de minutos"
 
 msgid "Apply hiding rules to buddies"
 msgstr "Aplicar regras de sumiço para amigos"
@@ -3944,7 +3944,7 @@ msgid ""
 "%s will no longer be able to see your status updates.  Do you want to "
 "continue?"
 msgstr ""
-"%s não poderá mais ver suas atualizações de estados.  Você quer continuar ?"
+"%s não poderá mais ver sua atualização de status.  Você quer continuar ?"
 
 msgid "Cancel Presence Notification"
 msgstr "Cancelar notificação de presença"
@@ -5569,8 +5569,7 @@ msgstr ""
 #, c-format
 msgid "%s invited you to view his/her webcam, but this is not yet supported."
 msgstr ""
-"%s te convidou para ver a webcam dele(a), mas este recurso ainda não tem "
-"suporte."
+"%s te convidou para ver a webcam dele(a), mas ainda não há suporte para este recurso."
 
 msgid "Away From Computer"
 msgstr "Ausente"
@@ -6308,7 +6307,7 @@ msgstr "Porta do servidor"
 #. Note to translators: %s in this string is a URL
 #, c-format
 msgid "Received unexpected response from %s"
-msgstr "Recebido resposta inesperada de %s"
+msgstr "Recebida resposta inesperada de %s"
 
 #. username connecting too frequently
 msgid ""
@@ -9598,7 +9597,7 @@ msgid "Ignore buddy?"
 msgstr "Ignorar amigo?"
 
 msgid "Invalid username or password"
-msgstr "Nome de usuário ou senha inválido"
+msgstr "Nome de usuário ou senha inválido(a)"
 
 msgid ""
 "Your account has been locked due to too many failed login attempts.  Please "
