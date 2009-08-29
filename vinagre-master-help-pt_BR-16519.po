@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: vinagre\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-08-25 00:54+0000\n"
-"PO-Revision-Date: 2009-08-29 10:10-0300\n"
+"PO-Revision-Date: 2009-08-29 10:18-0300\n"
 "Last-Translator: Rodrigo L. M. Flores <mail@rodrigoflores.org>\n"
 "Language-Team: Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>\n"
 "MIME-Version: 1.0\n"
@@ -376,11 +376,11 @@ msgstr "Você também pode usar o botão <guibutton>Localizar</guibutton> para n
 
 #: C/vinagre.xml:310(para)
 msgid "The availabity of the <guibutton>Find</guibutton> button depends on the protocol you have selected. Vinagre relies on <application>Avahi</application> service to browse for machines in your local network. Also, notice that Vinagre can be compiled without <application>Avahi</application> support. In this case, this button will not be available."
-msgstr "A disponibilidade do botão <guibutton>Localizar</guibutton> depende do protocolo que você selecionou. Vinagre se baseia no serviço <application>Avahi</application> para navegar por máquinas na sua rede local. Além disso, note que o Vinagre pode ser compilado sem suporte ao <application>Avahi</application>. Neste caso, este botão não estará disponível."
+msgstr "A disponibilidade do botão <guibutton>Localizar</guibutton> depende do protocolo que você selecionou. O Vinagre se baseia no serviço <application>Avahi</application> para navegar por máquinas na sua rede local. Perceba também que o Vinagre pode ser compilado sem suporte ao <application>Avahi</application> e, neste caso, este botão não estará disponível."
 
 #: C/vinagre.xml:318(para)
 msgid "Some machines may require a secure connection. In this case, an <guilabel>Authentication</guilabel> dialog will be displayed asking for the credentials. The type of credentials depends on the server. It may be a password and an username. If you check <guilabel>Remember this credential</guilabel>, <application>Vinagre</application> will store the secure information using <application>GNOME Keyring Manager</application>."
-msgstr "Algumas máquinas podem requisitar uma conexão segura. Nesse caso, um diálogo <guilabel>Autenticação</guilabel> será exibido e pedirá informações. O tipo de informações depende do servidor, o que deve ser uma senha ou nome de usuário. Se você selecionar <guilabel>Lembrar esta credencial</guilabel>, O <application>Vinagre</application> irá salvar a informação segura usando o <application>Chaveiro do GNOME</application>."
+msgstr "Algumas máquinas podem requisitar uma conexão segura. Nesse caso, um diálogo <guilabel>Autenticação</guilabel> será exibido e pedirá informações. O tipo de informações depende do servidor, o que deve ser uma senha e nome de usuário. Se você selecionar <guilabel>Lembrar esta credencial</guilabel>, O <application>Vinagre</application> irá salvar a informação segura usando o <application>Chaveiro do GNOME</application>."
 
 #: C/vinagre.xml:326(title)
 msgid "Authentication dialog"
@@ -460,7 +460,7 @@ msgstr "Mostra marcadores no painel lateral."
 
 #: C/vinagre.xml:440(para)
 msgid "As you move the mouse around the entries, a tooltip will show you the hostname of the connection. To connect to a machine, just double click on a entry."
-msgstr "Quando você move o mouse ao pelas entradas, uma dica de ferramenta irá mostrar-lhe o nome da máquina da conexão. Para conectar-se a uma máquina, apenas dê um duplo clique duplo na entrada."
+msgstr "Quando você move o mouse ao pelas entradas, uma dica de ferramenta irá mostrar-lhe o nome da máquina da conexão. Para conectar-se a uma máquina, apenas dê um duplo clique na entrada."
 
 #: C/vinagre.xml:447(title)
 msgid "To Create a New Bookmark"
