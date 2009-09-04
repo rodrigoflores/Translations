@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2009-09-04 15:21+0000\n"
-"PO-Revision-Date: 2009-09-04 13:51-0300\n"
+"PO-Revision-Date: 2009-09-04 15:52-0300\n"
 "Last-Translator: Rodrigo L. M. Flores <mail@rodrigoflores.org>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +21,8 @@ msgstr "@@image: 'figures/rnlookingforward.shell.png'; md5=THIS FILE DOESN'T EXI
 msgid "@@image: 'figures/rnlookingforward.zeitgeist.png'; md5=THIS FILE DOESN'T EXIST"
 msgstr "@@image: 'figures/rnlookingforward.zeitgeist.png'; md5=THIS FILE DOESN'T EXIST"
 
-#: C/rnlookingforward.xml:10(title) 
+#: C/rnlookingforward.xml:10(title)
+#, fuzzy
 msgid "Looking Forward to GNOME 2.30"
 msgstr "Vislumbrando o GNOME 2.30"
 
@@ -59,7 +60,8 @@ msgstr "Tomboy Online está também previsto para o GNOME 2.30 e irá permitir a
 
 #: C/rnlookingforward.xml:62(para) 
 msgid "<ulink url=\"http://live.gnome.org/RoadMap\">GNOME's roadmap</ulink> details the developers' plans for the next release cycle, the <ulink url=\"http://www.gnome.org/start/unstable/\">GNOME 2.30 release schedule</ulink> was released earlier this year and is <ulink url=\"http://www.gnome.org/start/unstable\">available on the GNOME wiki</ulink>."
-msgstr ""
+msgstr "O <ulink url=\"http://live.gnome.org/RoadMap\">Roadmap do GNOME</ulink> detalha os planos dos desenvolvedores para o próximo ciclo de lançamento, o <ulink url=\"http://www.gnome.org/start/unstable/\">Calendário de lançamento do GNOME 2.30</ulink> foi lançado mais cedo esse ano e está <ulink url=\"http://www.gnome.org/start/unstable\">disponível no Wiki do GNOME</ulink>."
+
 
 #: C/rninstallation.xml:9(title) 
 msgid "Installing GNOME"
@@ -75,7 +77,7 @@ msgstr "Para instalar ou atualizar sua máquina para o 2.28, nós recomendamos q
 
 #: C/rninstallation.xml:29(para) 
 msgid "If you are brave and patient, and would like to build GNOME from source, we recommend you use one of the build tools. <ulink url=\"http://www.gnome.org/projects/garnome/\">GARNOME</ulink> builds GNOME from release tarballs. You will need GARNOME 2.28.x to build GNOME 2.28.x. There is also <ulink url=\"http://library.gnome.org/devel/jhbuild/\">JHBuild</ulink>, which is designed to build the latest GNOME from Git. You can use JHBuild to build GNOME 2.28.x by using the <filename>gnome-2.28</filename> moduleset."
-msgstr ""
+msgstr "Se você for corajoso e paciente, e gostaria de compilar o GNOME do código fonte, nós recomendamos que você use uma das ferramentas de compilação. O <ulink url=\"http://www.gnome.org/projects/garnome/\">GARNOME</ulink> compila o GNOME dos pacotes tar do lançamento. Você precisará do GARNOME 2.28.x para compilar o GNOME 2.28.x. Também há o <ulink url=\"http://library.gnome.org/devel/jhbuild/\">JHBuild</ulink>, que foi concebido para compilar o mais recente GNOME do Git. Você pode utilizar o JHBuild para compilar o GNOME 2.28.x utilizando a definição de módulo <filename>gnome-2.28</filename>."
 
 #: C/rninstallation.xml:40(para) 
 msgid "While it is possible to build GNOME directly from the release tarballs, we strongly recommend the use of one of the build tools above."
@@ -112,39 +114,39 @@ msgstr "Português do Brasil"
 
 #: C/rni18n.xml:33(para) 
 msgid "Bulgarian"
-msgstr ""
+msgstr "Búlgaro"
 
 #: C/rni18n.xml:34(para) 
 msgid "Catalan"
-msgstr ""
+msgstr "Catalão"
 
 #: C/rni18n.xml:35(para) 
 msgid "Chinese (China)"
-msgstr ""
+msgstr "Chinês (China)"
 
 #: C/rni18n.xml:36(para) 
 msgid "Chinese (Hong Kong)"
-msgstr ""
+msgstr "Chinês (Hong Kong)"
 
 #: C/rni18n.xml:37(para) 
 msgid "Chinese (Taiwan)"
-msgstr ""
+msgstr "Chinês (Taiwan)"
 
 #: C/rni18n.xml:38(para) 
 msgid "Czech"
-msgstr ""
+msgstr "Tcheco"
 
 #: C/rni18n.xml:39(para) 
 msgid "Danish"
-msgstr ""
+msgstr "Dinamarquês"
 
 #: C/rni18n.xml:40(para) 
 msgid "Dutch"
-msgstr ""
+msgstr "Holandês"
 
 #: C/rni18n.xml:42(para) 
 msgid "English (US, British)"
-msgstr ""
+msgstr "Inglês (Estadunidense, Britânico)"
 
 #: C/rni18n.xml:43(para) 
 msgid "Estonian"
@@ -152,11 +154,11 @@ msgstr ""
 
 #: C/rni18n.xml:44(para) 
 msgid "Finnish"
-msgstr ""
+msgstr "Finlandês"
 
 #: C/rni18n.xml:45(para) 
 msgid "French"
-msgstr ""
+msgstr "Francês"
 
 #: C/rni18n.xml:46(para) 
 msgid "Galician"
@@ -164,11 +166,11 @@ msgstr ""
 
 #: C/rni18n.xml:47(para) 
 msgid "German"
-msgstr ""
+msgstr "Alemão"
 
 #: C/rni18n.xml:48(para) 
 msgid "Greek"
-msgstr ""
+msgstr "Grego"
 
 #: C/rni18n.xml:49(para) 
 msgid "Gujarati"
@@ -184,15 +186,15 @@ msgstr ""
 
 #: C/rni18n.xml:52(para) 
 msgid "Hungarian"
-msgstr ""
+msgstr "Húngaro"
 
 #: C/rni18n.xml:53(para) 
 msgid "Italian"
-msgstr ""
+msgstr "Italiano"
 
 #: C/rni18n.xml:54(para) 
 msgid "Japanese"
-msgstr ""
+msgstr "Japonês"
 
 #: C/rni18n.xml:55(para) 
 msgid "Kannada"
@@ -200,7 +202,7 @@ msgstr ""
 
 #: C/rni18n.xml:56(para) 
 msgid "Korean"
-msgstr ""
+msgstr "Coreano"
 
 #: C/rni18n.xml:58(para) 
 msgid "Lithuanian"
@@ -228,11 +230,11 @@ msgstr ""
 
 #: C/rni18n.xml:65(para) 
 msgid "Polish"
-msgstr ""
+msgstr "Polonês"
 
 #: C/rni18n.xml:66(para) 
 msgid "Portuguese"
-msgstr ""
+msgstr "Português"
 
 #: C/rni18n.xml:67(para) 
 msgid "Punjabi"
@@ -240,23 +242,23 @@ msgstr ""
 
 #: C/rni18n.xml:68(para) 
 msgid "Romanian"
-msgstr ""
+msgstr "Romeno"
 
 #: C/rni18n.xml:69(para) 
 msgid "Russian"
-msgstr ""
+msgstr "Russo"
 
 #: C/rni18n.xml:71(para) 
 msgid "Slovenian"
-msgstr ""
+msgstr "Esloveno"
 
 #: C/rni18n.xml:72(para) 
 msgid "Spanish"
-msgstr ""
+msgstr "Espanhol"
 
 #: C/rni18n.xml:73(para) 
 msgid "Swedish"
-msgstr ""
+msgstr "Sueco"
 
 #: C/rni18n.xml:74(para) 
 msgid "Tamil"
@@ -268,11 +270,11 @@ msgstr ""
 
 #: C/rni18n.xml:76(para) 
 msgid "Thai"
-msgstr ""
+msgstr "Tailandês"
 
 #: C/rni18n.xml:77(para) 
 msgid "Turkish"
-msgstr ""
+msgstr "Turco"
 
 #: C/rni18n.xml:78(para) 
 msgid "Ukrainian"
@@ -280,15 +282,15 @@ msgstr ""
 
 #: C/rni18n.xml:79(para) 
 msgid "Vietnamese"
-msgstr ""
+msgstr "Vietnamita"
 
 #: C/rni18n.xml:18(para) 
 msgid "Supported languages: <placeholder-1/>"
-msgstr ""
+msgstr "Idiomas com suporte: <placeholder-1/>"
 
 #: C/rni18n.xml:83(para) 
 msgid "Many other languages are partially supported, with more than half of their strings translated."
-msgstr ""
+msgstr "Muitos outros idiomas têm um suporte parcia, com mais que a metade de suas frases traduzidas."
 
 #: C/rni18n.xml:86(para) 
 msgid "Translating a software package as large as GNOME into a new language can be an overwhelming task for even the most dedicated translation team. For this release two language teams have put in a stellar effort, increasing the completeness of their translations by more than 20%. Congratulations to the Romanian and Oriya teams for their hard work. Congratulations also to the Assamese, Kannada, Oriya, Romanian, and Telugu teams, which each passed the 80% mark this time."
@@ -296,19 +298,19 @@ msgstr ""
 
 #: C/rni18n.xml:96(para) 
 msgid "Detailed statistics and more information are available on GNOME's <ulink url=\"http://l10n.gnome.org/\">translation status site</ulink>."
-msgstr ""
+msgstr "Estatísticas detalhadas e mais informações estão disponiveis no <ulink url=\"http://l10n.gnome.org/\">site de status de traduções</ulink>."
 
 #: C/rnmobile.xml:9(title) 
 msgid "What's New In Mobile"
-msgstr ""
+msgstr "O que há de novo para celulares"
 
 #: C/rndevelopers.xml:11(title) 
 msgid "What's New For Developers"
-msgstr ""
+msgstr "O que há de novo para desenvolvedores"
 
 #: C/rndevelopers.xml:13(para) 
 msgid "The following changes are important for developers using the GNOME 2.28 developer platform. If you're not interested in changes for developers, you can skip forward to <xref linkend=\"rni18\"/>."
-msgstr ""
+msgstr "As seguintes alterações são importantes para desenvolvedores utilizando a plataforma de desenvolvimento do GNOME 2.28. Se você não está interessado nas mudanças para os desenvolvedores você pode pular para <xref linkend=\"rni18\"/>."
 
 #: C/rndevelopers.xml:20(para) 
 msgid "As well as the GNOME Desktop, GNOME 2.28 is the latest release of the GNOME Developer Platform, a set of API- and ABI-stable libraries available under the GNU LGPL which can be used for the development of cross-platform applications."
@@ -869,7 +871,7 @@ msgstr ""
 
 #: C/release-notes.xml:149(title) 
 msgid "Credits"
-msgstr ""
+msgstr "Créditos"
 
 #. TRANSLATOR: insert your translation credit between the 1st and 2nd
 #. 	       sentences:
