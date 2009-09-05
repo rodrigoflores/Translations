@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2009-09-04 15:21+0000\n"
-"PO-Revision-Date: 2009-09-04 21:39-0300\n"
+"PO-Revision-Date: 2009-09-05 09:15-0300\n"
 "Last-Translator: Rodrigo L. M. Flores <mail@rodrigoflores.org>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -90,7 +90,7 @@ msgstr "Internacionalização"
 #. Translators: number of languages might change before final date
 #: C/rni18n.xml:11(para) 
 msgid "Thanks to members of the worldwide <ulink url=\"http://developer.gnome.org/projects/gtp/\">GNOME Translation Project</ulink>, GNOME 2.28 offers support for 48 languages with at least 80 percent of strings translated, including the user and administration manuals for many languages."
-msgstr ""
+msgstr "Graças aos membros do <ulink url=\"http://developer.gnome.org/projects/gtp/\">Projeto de Tradução do GNOME</ulink> mundial, o GNOME 2.28 oferece suporte para 48 idiomas com pelo menos 80 por cento das frases traduzidas, incluindo os manuais de usuário e administração para muitos idiomas."
 
 #: C/rni18n.xml:27(para) 
 msgid "Arabic"
@@ -294,7 +294,7 @@ msgstr "Muitos outros idiomas têm um suporte parcia, com mais que a metade de s
 
 #: C/rni18n.xml:86(para) 
 msgid "Translating a software package as large as GNOME into a new language can be an overwhelming task for even the most dedicated translation team. For this release two language teams have put in a stellar effort, increasing the completeness of their translations by more than 20%. Congratulations to the Romanian and Oriya teams for their hard work. Congratulations also to the Assamese, Kannada, Oriya, Romanian, and Telugu teams, which each passed the 80% mark this time."
-msgstr ""
+msgstr "Traduzir um pacote de software grande como o GNOME para uma idioma novo pode ser uma tarefa exaustiva para até mesmo os times de tradução mais dedicados. Para esta versão, dois times de tradução fizeram um esforço hercúleo, aumentando a completude de suas tradução por mais de 20%. Parábens aos times de Romeno e Oriá pelo trabalho duro. Parábens também às equipes de Assamês, Canarês, Oriá, Romeno e Telugu por ter passado a marca de 80% desta vez."
 
 #: C/rni18n.xml:96(para) 
 msgid "Detailed statistics and more information are available on GNOME's <ulink url=\"http://l10n.gnome.org/\">translation status site</ulink>."
@@ -327,7 +327,7 @@ msgstr "Começando com o GNOME 3.0, várias partes abandonadas do GNOME serão r
 
 #: C/rndevelopers.xml:42(para) 
 msgid "Developers are strongly urged to follow this example in their own applications too. Furthermore, for any developers (or potential developers) who wish to help us out, the <ulink url=\"http://live.gnome.org/GnomeGoals\">GNOME goals</ulink> wiki page lists the various tasks that are yet to be completed. An automatically created and updated status overview of remaining work for modules that are supported by the jhbuild build tool can be found <ulink url=\"http://www.gnome.org/~fpeters/299.html\">here</ulink>."
-msgstr ""
+msgstr "Desenvolvedores são fortemente aconselhados a seguir estes exemplos em suas próprias aplicações também. Além disso, para qualquer desenvolvedor (ou potenciais desenvolvedores) que querem nos ajudar, a página do wiki <ulink url=\"http://live.gnome.org/GnomeGoals\">GNOME goals</ulink> lista as várias tarefas que ainda não foram concluídas. Uma visão geral automaticamente criada e atualizada do trabalho restante para módulos que têm suporte para a ferramenta de compilação jhbuild pode ser encontrada <ulink url=\"http://www.gnome.org/~fpeters/299.html\">here</ulink>."
 
 #: C/rndevelopers.xml:56(title) 
 msgid "GNOME 2.28 Platform Cleanup"
@@ -348,47 +348,47 @@ msgstr "Outras melhoras da plataforma do GNOME no GNOME 2.28 incluem:"
 
 #: C/rndevelopers.xml:71(para) 
 msgid "A dependency on libart_lgpl was removed from two modules (eog and gtkhtml)."
-msgstr ""
+msgstr "A dependência do libart_lgpl foi removida de dois módulos (eog e gtkhtml)."
 
 #: C/rndevelopers.xml:74(para) 
 msgid "A dependency on libbonobo(ui) was removed from five modules (gnome-control-center, gcalctool, gnome-media, gtkhtml, and accerciser)."
-msgstr ""
+msgstr "A dependência do libbonobo(ui) foi removida de cinco módulos (gnome-control-center, gcalctool, gnome-media, gtkhtml e accerciser)."
 
 #: C/rndevelopers.xml:78(para) 
 msgid "A dependency on libglade was removed from 28 modules (accerciser, alacarte, gnome-control-center, dasher, empathy, gcalctool, gnome-games, gnome-netstatus, gnome-nettool, gnome-mag, gnome-menus, gnome-panel, gnome-power-manager, gnome-screensaver, gnome-session, gnome-settings-daemon, gnome-system-tools, gnome-utils, gtkhtml, hamster-applet, libgnomekbd, orca, pessulus, seahorse, vino, vinagre, yelp, and zenity)."
-msgstr ""
+msgstr "A dependência do libglade foi removida de 28 módulos (accerciser, alacarte, gnome-control-center, dasher, empathy, gcalctool, gnome-games, gnome-netstatus, gnome-nettool, gnome-mag, gnome-menus, gnome-panel, gnome-power-manager, gnome-screensaver, gnome-session, gnome-settings-daemon, gnome-system-tools, gnome-utils, gtkhtml, hamster-applet, libgnomekbd, orca, pessulus, seahorse, vino, vinagre, yelp e zenity)."
 
 #: C/rndevelopers.xml:87(para) 
 msgid "A dependency on libgnome was removed from 14 modules (anjuta, gnome-control-center, dasher, evolution-webcal, gconf, gdl, gdm, gnome-desktop, gnome-media, gnome-system-tools, gok, gtkhtml, vino, and yelp)."
-msgstr ""
+msgstr "A dependência do libgnome foi removida de 14 módulos (anjuta, gnome-control-center, dasher, evolution-webcal, gconf, gdl, gdm, gnome-desktop, gnome-media, gnome-system-tools, gok, gtkhtml, vino e yelp)."
 
 #: C/rndevelopers.xml:93(para) 
 msgid "A dependency on libgnomecanvas was removed from three modules (anjuta, gtkhtml, and zenity)."
-msgstr ""
+msgstr "A dependência do libgnomecanvas foi removida de três módulos (anjuta, gtkhtml e zenity)." 
 
 #: C/rndevelopers.xml:97(para) 
 msgid "A dependency on libgnomeprint(ui) was removed from one module (gnome-games)."
-msgstr ""
+msgstr "A dependência do libgnomeprint(ui) foi removida de um módulo (gnome-games)."
 
 #: C/rndevelopers.xml:100(para) 
 msgid "A dependency on libgnomeui was removed from 16 modules (anjuta, gnome-control-center, dasher, deskbar-applet, gnome-mag, gnome-media, gnome-settings-daemon, gnome-system-tools, gnome-utils, gok, gtkhtml, hamster-applet, nautilus, orca, vino, and yelp)."
-msgstr ""
+msgstr "A dependência do libgnomeui foi removida de 16 módulos (anjuta, gnome-control-center, dasher, deskbar-applet, gnome-mag, gnome-media, gnome-settings-daemon, gnome-system-tools, gnome-utils, gok, gtkhtml, hamster-applet, nautilus, orca, vino e yelp)."
 
 #: C/rndevelopers.xml:106(para) 
 msgid "A dependency on libgnomevfs was removed from three modules (dasher, gnome-mag, and gnome-utils)."
-msgstr ""
+msgstr "A dependência do libgnomevfs foi removida de três módulos (dasher, gnome-mag e gnome-utils)."
 
 #: C/rndevelopers.xml:110(para) 
 msgid "Many modules now provide a nicer and cleaner build output when compiling them by using AM_SILENT_RULES or Shave. For more information see <ulink url=\"http://live.gnome.org/GnomeGoals/NicerBuilds\"> http://live.gnome.org/GnomeGoals/NicerBuilds</ulink>."
-msgstr ""
+msgstr "Muitos módulos agora proporcionam uma saída mais limpa e melhor quando compilados utilizando AM_SILENT_RULES ou Shave. Para mais informações veja <ulink url=\"http://live.gnome.org/GnomeGoals/NicerBuilds\"> http://live.gnome.org/GnomeGoals/NicerBuilds</ulink>."
 
 #: C/rndevelopers.xml:116(para) 
 msgid "Some modules started using GIntrospection — see <ulink url=\"http://live.gnome.org/GnomeGoals/AddGObjectIntrospectionSupport\">http://live.gnome.org/GnomeGoals/AddGObjectIntrospectionSupport</ulink> for more details."
-msgstr ""
+msgstr "Alguns módulos começaram a usar o GIntrospection - veja <ulink url=\"http://live.gnome.org/GnomeGoals/AddGObjectIntrospectionSupport\">http://live.gnome.org/GnomeGoals/AddGObjectIntrospectionSupport</ulink> para mais detalhes."
 
 #: C/rndevelopers.xml:124(para) 
 msgid "Many applications have also removed the usage of deprecated GTK+ and GLib symbols and have applied the new policy to only include top level headers of GTK+ and GLib."
-msgstr ""
+msgstr "Muitas aplicações também remover o uso de símbolos abandonados GTK+ e GLib e aplicaram a nova política de apenas incluir cabeçalhos de topo do GTK+ e GLib."
 
 #: C/rndevelopers.xml:132(title) 
 msgid "GTK+ 2.18"
@@ -396,15 +396,16 @@ msgstr "GTK+ 2.18"
 
 #: C/rndevelopers.xml:134(para) 
 msgid "GTK+ 2.18 is the latest release of the GTK+ toolkit, which is at the heart of GNOME. GTK+ 2.18 includes new features for developers, as well as extensive bug fixing and housecleaning for the upcoming GTK+ 3.0."
-msgstr ""
+msgstr "GTK+ 2.18 é o último lançamento da caixa de ferramentas GTK+, que é o coração do GNOME. O GTK+ 2.18 inclui novas funcionalidades para desenvolvedores, assim como uma extensiva correção de bugs e limpeza para o GTK+ 3.0 que vem vindo."
 
-#: C/rndevelopers.xml:142(para) 
+#: C/rndevelopers.xml:142(para)
+#, fuzzy
 msgid "The file chooser has a number of improvements. It now remembers its sorting state and has better defaults, such as hiding backup files and showing the Size column. It also has improved ellipsization in the path bar."
-msgstr ""
+msgstr "O seletor de arquivos tem alguns melhoramentos. Ele agora lembra o estado de ordenação e há um padrão melhor, no qual arquivos de backup são escondidos e a coluna Tamanho é mostrada. A eliptização na barra de endereços também melhorou."
 
 #: C/rndevelopers.xml:149(para) 
 msgid "GTK+ has also seen a number of other improvements, including:"
-msgstr ""
+msgstr "O GTK+ também tem um número de melhorias, incluindo:"
 
 #: C/rndevelopers.xml:153(para) 
 msgid "<classname>GtkEntry</classname> widgets can now also be used to display a progress bar."
@@ -894,5 +895,5 @@ msgstr "Este trabalho pode ser livremente traduzido em qualquer idioma. Se você
 #: C/release-notes.xml:0(None) 
 msgid "translator-credits"
 msgstr ""
-"Rodrigo L. M. Flores <mail@rodrigoflores.org>\n"
+"Rodrigo L. M. Flores <mail@rodrigoflores.org>"
 
