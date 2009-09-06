@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2009-09-04 15:21+0000\n"
-"PO-Revision-Date: 2009-09-06 09:18-0300\n"
+"PO-Revision-Date: 2009-09-06 11:24-0300\n"
 "Last-Translator: Rodrigo L. M. Flores <mail@rodrigoflores.org>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -560,11 +560,11 @@ msgstr "O que há de novo em acessibilidade"
 
 #: C/rna11y.xml:11(para) 
 msgid "GNOME has a passion for making software available to everyone, including users and developers with impairments that can make it harder to use their computers. To help, GNOME created the GNOME Accessibility Project and an accessibility framework that is now a standard on libre desktops."
-msgstr ""
+msgstr "O GNOME tem uma intensa paixão por fazer software disponível para todos, incluindo usuários e desenvolvedores com deficiência o que pode ser difícil deles usarem seus computadores. Para ajudar, o GNOME criou o Projeto de Acessibilidade GNOME e um arcabouço de acessibilidade que hoje é padrão em desktops livres."
 
 #: C/rna11y.xml:18(para) 
 msgid "GNOME 2.28 continues to build on its prior accessibility credentials with several improvements."
-msgstr ""
+msgstr "GNOME 2.28 é alicerceado nas credenciais de acessibilidades já existentes com muitas melhorias."
 
 #: C/rna11y.xml:24(title) 
 msgid "Orca Screen Reader"
@@ -572,15 +572,15 @@ msgstr "Leitor de Tela Orca"
 
 #: C/rna11y.xml:26(para) 
 msgid "The <application>Orca</application> screen reader has had significant work done to reduce program bugs and improve performance, with over 140 bugs fixed for GNOME 2.28. Some of the improvements include:"
-msgstr ""
+msgstr "O leitor de tela <application>Orca</application> teve muito trabalho significante realizado para reduzir bugs e melhorar a performance, com mais de 140 bugs corrigidos para o GNOME 2.28. Algumas das melhorias incluem:"
 
 #: C/rna11y.xml:32(para) 
 msgid "new support for different progress bar \"verbosity levels\" to allow you to control whether progress bar updates should be spoken even if the progress bar is not in the active window"
-msgstr ""
+msgstr "novo suporte para diferentes \"níveis de verbosidade\" que lhe permitem controlar quando atualizações de barras de progresso devem ser faladas, mesmo se a barra de progresso não é a janela ativa"
 
 #: C/rna11y.xml:36(para) 
 msgid "ability to move the mouse without performing a click"
-msgstr ""
+msgstr "habilidade para mexer o mouse sem clicar"
 
 #: C/rna11y.xml:39(para) 
 msgid "support for mouseovers, including the ability to interact with an item displayed in the mouseover"
@@ -588,15 +588,15 @@ msgstr ""
 
 #: C/rna11y.xml:42(para) 
 msgid "presentation of misspelled words when editing text"
-msgstr ""
+msgstr "apresentação de palavras com erros de ortografia quando se edita texto"
 
 #: C/rna11y.xml:45(para) 
 msgid "completely rewritten speech and Braille generators, now with the ability to play sounds in the speech generator"
-msgstr ""
+msgstr "completamente escritos os geradores de fala e braile, agora com a habilidade de reproduzir sons no gerador de falas"
 
 #: C/rna11y.xml:55(title) 
 msgid "WebKit Accessibility Support"
-msgstr ""
+msgstr "Suporte à acessibilidade do WebKit"
 
 #: C/rna11y.xml:57(para) 
 msgid "Significant effort has been done to improve WebKit accessibility, in particular the addition of caret navigation and the initial implementation of Atk's accessible text interface. Once the accessible text interface has been fully implemented, users will be able to access content without using the mouse and have it presented to them in speech and/or braille via the Orca screen reader."
@@ -638,23 +638,23 @@ msgstr "O que há de novo para usuários"
 
 #: C/rnusers.xml:11(para) 
 msgid "The GNOME Project's focus on users and usability continues in GNOME 2.28 with its hundreds of bug fixes and user-requested improvements. The sheer number of enhancements makes it impossible to list every change and improvement made, but these notes aim to highlight some of the more exciting, user-oriented features in this release."
-msgstr ""
+msgstr "O Projeto GNOME foca em usuário e a usabilidade continua no GNOME 2.28 com suas centenas de correções de bug e melhorias pedidas por usuários. O número de melhorias concluídas torna impossível listar todas as alterações e melhorias feitas, mas estas notas tentam destacar algumas das mais melhorias mais interessantes e orientadas a usuários neste lançamento."
 
 #: C/rnusers.xml:20(title) 
 msgid "Become Unwired"
-msgstr ""
+msgstr "Esqueça dos fios"
 
 #: C/rnusers.xml:21(para) 
 msgid "GNOME 2.28 includes the first release of <application>GNOME Bluetooth</application> to help users manage their Bluetooth devices. GNOME Bluetooth supports hundreds of Bluetooth devices, including mice, keyboards and headsets. GNOME Bluetooth includes PulseAudio integration for Bluetooth headsets and headphones."
-msgstr ""
+msgstr "O GNOME 2.28 inclui o primeiro lançamento do <application>GNOME Bluetooth</application> para ajudar usuários a gerenciarem seus dispositivos Bluetooth. GNOME Bluetooth tem suporte a centenas de dispositivos Bluetooth, incluindo mouses, teclados e fones de ouvido com microfone. O GNOME Bluetooth inclui integração com o PulseAudio para fones de ouvido com e sem microfone."
 
 #: C/rnusers.xml:29(para) 
 msgid "GNOME Bluetooth also includes support for Internet access through your mobile phone. After pairing your mobile phone with GNOME Bluetooth, Network Manager will include an entry to use your mobile phone for Internet access."
-msgstr ""
+msgstr "O GNOME Bluetooth também inclui suporte para acesso a internet através de seu telefone celular. Após parear seu celular com o GNOME Bluetooth, Network Manager irá incluir uma entrada para utilizar seu celular para acessar a internet."
 
 #: C/rnusers.xml:48(title) 
 msgid "Track Your Time Better"
-msgstr ""
+msgstr "Gerencie melhor seu tempo elhor"
 
 #: C/rnusers.xml:50(para) 
 msgid "The <application>Time Tracker</application> applet, also known as Project Hamster, was included in GNOME one year ago to help users track their time and tasks, and with GNOME 2.28 includes a number of new improvements."
