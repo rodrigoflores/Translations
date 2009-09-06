@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2009-09-04 15:21+0000\n"
-"PO-Revision-Date: 2009-09-05 09:15-0300\n"
+"PO-Revision-Date: 2009-09-05 21:37-0300\n"
 "Last-Translator: Rodrigo L. M. Flores <mail@rodrigoflores.org>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -409,59 +409,59 @@ msgstr "O GTK+ também tem um número de melhorias, incluindo:"
 
 #: C/rndevelopers.xml:153(para) 
 msgid "<classname>GtkEntry</classname> widgets can now also be used to display a progress bar."
-msgstr ""
+msgstr "Widgets do <classname>GtkEntry</classname> podem agora também ser utilizados para mostrar uma barra de progresso."
 
 #: C/rndevelopers.xml:157(para) 
 msgid "<interfacename>GtkEntry</interfacename> has a model-view separation."
-msgstr ""
+msgstr "O <interfacename>GtkEntry</interfacename> tem uma separação modelo-visualização."
 
 #: C/rndevelopers.xml:160(para) 
 msgid "<classname>GtkLabel</classname> can show embedded URIs."
-msgstr ""
+msgstr "<classname>GtkLabel</classname> podem mostrar URIs embutidas."
 
 #: C/rndevelopers.xml:163(para) 
 msgid "Printing supports printing a selection."
-msgstr ""
+msgstr "Impressão agora tem suporte a imprimir uma seleção."
 
 #: C/rndevelopers.xml:166(para) 
 msgid "Page setup controls can be embedded in the print dialog."
-msgstr ""
+msgstr "Controles de definições de páginas podem ser embutidas no diálogo de impressão."
 
 #: C/rndevelopers.xml:169(para) 
 msgid "Status icons have a title property, for improved accessibility."
-msgstr ""
+msgstr "Ícones de estado tem uma propriedade título, para uma acessibilidade melhorada."
 
 #: C/rndevelopers.xml:172(para) 
 msgid "A new widget, <interfacename>GtkInfoBar</interfacename>, has been added to display messages in the main window instead of in a dialog."
-msgstr ""
+msgstr "Um novo widget, <interfacename>GtkInfoBar</interfacename>, foi adicionado para mostrar mensagens na janela principal ao invés de um diálogo."
 
 #: C/rndevelopers.xml:131(sect2) 
 msgid "<placeholder-1/><placeholder-2/> The file chooser has better ellipsization in the path bar, <placeholder-3/><placeholder-4/><placeholder-5/>"
-msgstr ""
+msgstr "<placeholder-1/><placeholder-2/> O seletor de arquivos tem uma melhor eliptização na barra de endereço, <placeholder-3/><placeholder-4/><placeholder-5/>"
 
 #: C/rndevelopers.xml:181(title) 
 msgid "GLib"
-msgstr ""
+msgstr "GLib"
 
 #: C/rndevelopers.xml:183(para) 
 msgid "GNIO has been merged into GIO, and APIs are now included for working with IPv4 and IPv6 addresses, resolving hostnames, reverse IP lookup, low-level socket I/O, and working with network connections and services."
-msgstr ""
+msgstr "GNIO foi mesclado com o GIO, e as APIs agora são capazes de trabalhar com endereços IPv4 e IPv6, resolver hostnames, ver IP reverso, socket de E/S de baixo nível e trabalhar com conexões de rede e serviços."
 
 #: C/rndevelopers.xml:188(para) 
 msgid "<classname>GArray</classname>, <classname>GMappedFile</classname> and <classname>GTree</classname> are now reference counted."
-msgstr ""
+msgstr "<classname>GArray</classname>, <classname>GMappedFile</classname> e <classname>GTree</classname> agora são referências contadas.."
 
 #: C/rndevelopers.xml:192(para) 
 msgid "The main loop supports per-thread default contexts."
-msgstr ""
+msgstr "O laço principal tem suporte a contextos padrões por thread."
 
 #: C/rndevelopers.xml:195(para) 
 msgid "Support has been added for read-write access with <classname>GIOStream</classname> and its subclasses."
-msgstr ""
+msgstr "Suporte foi adicionado para acesso de leitura-escrita com o <classname>GIOStream</classname> e suas subclasses."
 
 #: C/rndevelopers.xml:199(para) 
 msgid "GLib now also includes support for per-file metadata."
-msgstr ""
+msgstr "GLib agora também incluit suporte de metadados por arquivo."
 
 #: C/rndevelopers.xml:205(title) 
 msgid "GNOME Documentation"
