@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: release-notes.help.gnome-2-28\n"
 "POT-Creation-Date: 2009-09-04 15:21+0000\n"
-"PO-Revision-Date: 2009-09-06 20:16-0300\n"
+"PO-Revision-Date: 2009-09-06 20:35-0300\n"
 "Last-Translator: Rodrigo L. M. Flores <mail@rodrigoflores.org>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -583,8 +583,9 @@ msgid "ability to move the mouse without performing a click"
 msgstr "habilidade para mexer o mouse sem clicar"
 
 #: C/rna11y.xml:39(para) 
+#, fuzzy
 msgid "support for mouseovers, including the ability to interact with an item displayed in the mouseover"
-msgstr ""
+msgstr "suporte para quando o mouse passar por cima, incluindo a habilidade de interagir com um item mostrado quando o mouse passar por cima"
 
 #: C/rna11y.xml:42(para) 
 msgid "presentation of misspelled words when editing text"
@@ -751,19 +752,20 @@ msgstr "O visualizador de documento <application>Evince</application> adicional 
 
 #: C/rnusers.xml:193(para) 
 msgid "Evince has also been ported to and is available for <trademark class=\"registered\">Microsoft Windows</trademark> platforms."
-msgstr ""
+msgstr "O Evince também foi portado e está disponível para plataformas <trademark class=\"registered\">Microsoft Windows</trademark>."
 
 #: C/rnusers.xml:201(title) 
+#, fuzzy
 msgid "Fade In and Out"
-msgstr ""
+msgstr "Fade In e Out"
 
 #: C/rnusers.xml:203(para) 
 msgid "<application>GNOME Volume Control</application> has added subwoofer and fade support for users with supported speakers. Also new is when changing settings, changes are now instantly applied."
-msgstr ""
+msgstr "O <application>Controle de Volume GNOME</application> adicionou o suporte a subwoofer e a fade para usuários com autofalantes com suporte. Uma outra novidade é quando alteram-se definições, as alterações são aplicadas instantaneamente."
 
 #: C/rnusers.xml:211(title) 
 msgid "Subwoofer and Fade Support"
-msgstr ""
+msgstr "Suporte a Fade e Subwoofer"
 
 #: C/rnusers.xml:220(title) 
 msgid "But Wait, There's More…"
@@ -775,15 +777,15 @@ msgstr "Assim como as grandes mudanças, há também várias pequenas adições 
 
 #: C/rnusers.xml:228(para) 
 msgid "GNOME menus and buttons have been standardized across all applications to not display icons by default. Menu items with dynamic objects, including applications, files or bookmarks, and devices are the exception and can display an icon. This change will standardize the look and feel of menus and present a cleaner interface to users."
-msgstr ""
+msgstr "Os menus e botões do GNOME foram padronizados em todas as aplicações para não mostrar ícones por padrão. Itens de menu com objetos dinâmicos, incluindo aplicações, arquivos ou marcadores e dispositivos são exceções e podem mostrar um ícone. Esta mudança irá padronizar a aparência de menus e apresentar uma interface mais limpa para usuários."
 
 #: C/rnusers.xml:234(para) 
 msgid "<application>Tomboy Notes</application> has moved the location of stored notes and configuration files to conform to Freedesktop.org specifications."
-msgstr ""
+msgstr "O <application>Tomboy Notas</application> moveu a localização de notas salvas e arquivos de configuração para seguir especificações do Freedesktop.org."
 
 #: C/rnusers.xml:238(para) 
 msgid "<application>GNOME Power Manager</application> now has support for laptops with multiple batteries and has added disk spindown support for DeviceKit disks."
-msgstr ""
+msgstr "<application>Gerenciador de Energia do GNOME</application> agora tem suporte a notebooks com múltiplas baterias e adicionou suporte à redução de rotação para discos do DeviceKit."
 
 #: C/rnusers.xml:242(para) 
 msgid "The GTK+ file and lpr print backends support printing multiple pages per sheet."
@@ -817,7 +819,7 @@ msgstr "2.28"
 
 #: C/release-notes.xml:24(para) 
 msgid "GNOME has a time-based release schedule. This means that there is a new GNOME release with accompanying notes every six months, to the minute."
-msgstr ""
+msgstr "O GNOME têm um calendário temporal de lançamento. O que significa que um novo lançamento do GNOME acompanhando notas a cada seis meses precisos."
 
 #: C/release-notes.xml:30(firstname) 
 msgid "Paul"
@@ -854,7 +856,7 @@ msgstr ""
 
 #: C/release-notes.xml:85(para) 
 msgid "<ulink url=\"http://live.gnome.org/JoinGnome\">Join us today</ulink> and see what a difference you can make."
-msgstr ""
+msgstr "<ulink url=\"http://live.gnome.org/JoinGnome\">Junte-se a nós hoje</ulink> e veja a diferença que você pode fazer."
 
 #: C/release-notes.xml:88(para) 
 msgid "GNOME 2.28 includes all of the improvements made in GNOME 2.26 and earlier. You can learn more about the changes that happened in GNOME 2.26 from its <ulink url=\"http://www.gnome.org/start/2.26/\">release notes</ulink>."
