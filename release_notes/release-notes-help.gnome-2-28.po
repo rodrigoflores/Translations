@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: release-notes.help.gnome-2-28\n"
 "POT-Creation-Date: 2009-09-04 15:21+0000\n"
-"PO-Revision-Date: 2009-09-06 14:39-0300\n"
+"PO-Revision-Date: 2009-09-06 20:16-0300\n"
 "Last-Translator: Rodrigo L. M. Flores <mail@rodrigoflores.org>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -703,19 +703,19 @@ msgstr "Usuários agora podem compartilhas seu desktop com contatos do Empathy u
 
 #: C/rnusers.xml:121(para) 
 msgid "Geolocation support using Geoclue has been added for XMPP contacts, such as Jabber and Google Talk. You can view a contact's location by hovering your mouse over their contact name, in the information dialog or on the Map View. Empathy also supports a reduced accuracy mode for users who wish additional privacy."
-msgstr ""
+msgstr "Suporte ao Geolocation utilizando o Geoclue foi adicionado para contatos XMPP como o Jabber e Google Talk. Você pode ver a localização de um contato passando o ponteiro do mouse por cima do nome do contato no diálogo de informação ou na Visualização do Mapa. O Empathy também têm suporte à precisão reduzida, para usuários que querem uma privacidade adicional."
 
 #: C/rnusers.xml:127(para) 
 msgid "Empathy also includes all-new documentation focused on helping users to learn how to perform specifics tasks within Empathy."
-msgstr ""
+msgstr "O Empathy também inclui uma documentação toda nova, enfocada em ajudar usuários a aprender como fazer tarefas específicas com o Empathy."
 
 #: C/rnusers.xml:137(para) 
 msgid "The GNOME Web Browser, <application>Epiphany</application>, has switched to Webkit from Gecko for its rendering engine. While this change should be invisible to users with the exception of a few performance enhancements, long term the switch to Webkit will have significant benefits to Epiphany users."
-msgstr ""
+msgstr "O navegador Web do GNOME, <application>Epiphany</application>, mudou para o Webkit do Gecko para seu motor de renderização. Enquanto esta mudança deve ser invisível para usuários, com exceção de algumas melhorias de performance, a longo prazo a mudança para Webkit terá benefícios significantes para usuários do Epiphany."
 
 #: C/rnusers.xml:143(para) 
 msgid "With the change to Webkit, one bug users may experience is Epiphany not being able to save logins and passwords in forms. This bug will be fixed during the 2.30 development cycle."
-msgstr ""
+msgstr "Com a mudança para Webkit, um bug que usuários terão no Epiphany é não poder salvar logins e passwords em formulários. Este bug será corrigido durante o ciclo de desenvolvimento do 2.30."
 
 #: C/rnusers.xml:149(title) 
 msgid "Media Player Improvements"
@@ -723,7 +723,7 @@ msgstr "Melhoras no reprodutor de mídia"
 
 #: C/rnusers.xml:151(para) 
 msgid "DVD playback in GNOME's <application>Media Player</application> has been improved with the ability to navigate DVD menus and resume playback from the last position. The YouTube plugin has also seen some speed improvements."
-msgstr ""
+msgstr "Reprodução de DVD no <application>Reprodutor de Mídia</application> do GNOME foi melhorada com a habilidade de navegar em menus de DVD e retornar a reprodução da última posição. O plug-in do YouTube tem também algumas melhoras de velocidade. "
 
 #: C/rnusers.xml:160(title) 
 msgid "Smile for the Camera"
@@ -731,23 +731,23 @@ msgstr "Sorria para a câmera"
 
 #: C/rnusers.xml:162(para) 
 msgid "<application>Cheese</application>, a webcam photo and video application, features numerous improvements. Cheese has an updated user interface, and has added a \"Burst\" mode for taking multiple pictures at a time. You can choose the number of pictures Cheese should take and the time delay between pictures. Cheese also supports the ability to manually take a picture using a webcam's \"Capture\" button."
-msgstr ""
+msgstr "O <application>Cheese</application>, uma aplicação para foto e vídeo da webcam, apresenta muitas melhorias. Cheese tem uma interface de usuário atualizada, e têm um modo \"Explosão\" que permite tirar múltiplas fotos de uma vez. Você pode escolher o número de fotos que o Cheese irá tirar e o intervalo de tempo entre fotos. O Cheese também tem suporte a habilidade de manualmente tirar fotos com a Webcam usando o botão \"Capturar\"."
 
 #: C/rnusers.xml:171(title) 
 msgid "Burst Mode"
-msgstr ""
+msgstr "Modo explosão"
 
 #: C/rnusers.xml:177(para) 
 msgid "Cheese's user interface has also been optimized for smaller screens, such as netbooks, by moving the image thumbnail bar to the right."
-msgstr ""
+msgstr "A interface de usuário do Cheese também foi otimizada para telas menores, como netbooks, movendo a barra de previsão de imagem para a direita."
 
 #: C/rnusers.xml:185(title) 
 msgid "Annotate Your PDFs"
-msgstr ""
+msgstr "Anote nos seus PDFs"
 
 #: C/rnusers.xml:187(para) 
 msgid "The <application>Evince</application> document viewer has added the ability to edit and save text annotations that have a popup window associated. <application>Evince</application> now also recovers documents that were being viewed after a crash."
-msgstr ""
+msgstr "O visualizador de documento <application>Evince</application> adicional a habilidade de editar e salvar anotações de texto que tem uma janela de contexto associada. <application>Evince</application> também recupera documentos que estava sendo visualizados depois de travar."
 
 #: C/rnusers.xml:193(para) 
 msgid "Evince has also been ported to and is available for <trademark class=\"registered\">Microsoft Windows</trademark> platforms."
