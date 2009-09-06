@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2009-09-04 15:21+0000\n"
-"PO-Revision-Date: 2009-09-05 21:37-0300\n"
+"PO-Revision-Date: 2009-09-06 09:18-0300\n"
 "Last-Translator: Rodrigo L. M. Flores <mail@rodrigoflores.org>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -473,11 +473,11 @@ msgstr "Suporte para o Mallard, a nova linguagem XML do GNOME para documentaçã
 
 #: C/rndevelopers.xml:212(para) 
 msgid "For documentation writers, Mallard is a full-featured XML markup language designed explicitly for topic-oriented help, with an easier learning curve than Docbook."
-msgstr ""
+msgstr "Para escritores de documentação, Mallard é uma linguagem de marcação com todos os recursos, projetada explicitamente para ajuda orientada à tópicos, com uma curva de aprendizado mais suave que o Docbook."
 
 #: C/rndevelopers.xml:217(para) 
 msgid "The <application>Empathy</application> help is the first GNOME documentation to be written in Mallard, and is also the first documentation to move to a Creative Commons Share-Alike 3.0 license, which all GNOME documentation will be moving to in the future."
-msgstr ""
+msgstr "A ajuda do <application>Empathy</application> é a primeira documentação do GNOME a ser escrita em Mallard, e também é a primeira documentação a mover para a licença Creative Commons Share-Alike 3.0, na qual todas as documentações do GNOME serão movidas no futuro."
 
 #: C/rndevelopers.xml:226(title) C/rnusers.xml:39(application) 
 msgid "GNOME Bluetooth"
@@ -485,11 +485,11 @@ msgstr "GNOME Bluetooth"
 
 #: C/rndevelopers.xml:228(para) 
 msgid "Plugin support has been added and is available during device setup, adding support to GNOME applications to use Bluetooth devices."
-msgstr ""
+msgstr "Suporte à plug-ins foi adicionado e está disponível durante a adição de dispositivos, adicionando suporte a aplicações do GNOME para utilizar dispositivos Bluetooth."
 
 #: C/rndevelopers.xml:233(para) 
 msgid "Modern Bluetooth device selection widgets, including a button and chooser, have been added."
-msgstr ""
+msgstr "Widgets de seleção de dispositivos Bluetooth modernos, incluindo um botão e seletor, foram adicionados."
 
 #: C/rndevelopers.xml:240(title) C/rnusers.xml:135(title) 
 msgid "Epiphany Web Browser"
@@ -497,27 +497,28 @@ msgstr "Navegador Web Epiphany"
 
 #: C/rndevelopers.xml:242(para) 
 msgid "With Epiphany's change to Webkit, a number of enhancements are available for developers in Epiphany."
-msgstr ""
+msgstr "Com a alteração do Epiphany para o Webkit, um número de aprimoramentos está disponível para desenvolvedores no Epiphany."
 
 #: C/rndevelopers.xml:246(para) 
+#, fuzzy
 msgid "WebKitGTK+ includes extremely fast Javascript processing, a smaller footprint, a GObject API, and a built-in web inspector. Epiphany also includes new support for Seed (JavaScript) extensions, and with this addition Python support has been removed."
-msgstr ""
+msgstr "WebKitGTK+ inclui um processamento de Javascript extremamente rápido, um pequeno uso de memória, uma API do GObject, e um inspetor web incluso. Epiphany também inclui um suporte novo para extensões Seed (JavaScript), e com esta adição o suporte a Python foi removido."
 
 #: C/rndevelopers.xml:251(para) 
 msgid "Epiphany also uses libsoup for its HTTP implementation, and proxies now work the same way across GNOME. Missing features in libsoup include HTTP cache and content encoding."
-msgstr ""
+msgstr "Epiphany também usa libsoup para sua implementação HTTP, e proxies agora trabalham da mesma maneira em todo o GNOME. Melhorias faltando no libsoup incluem cache de HTTP e codificação de conteúdo."
 
 #: C/rndevelopers.xml:256(para) 
 msgid "Lastly, the context menu in the web view is not customized for Epiphany yet, though the default WebKit view is used."
-msgstr ""
+msgstr "Por último, o menu de contexto na visualização web ainda não é customizado para o Epiphany, apesar da visualização padrão ser utilizada."
 
 #: C/rndevelopers.xml:263(title) 
 msgid "Time Tracker Applet"
-msgstr ""
+msgstr "Mini-applicativo Gerenciador de Tempo"
 
 #: C/rndevelopers.xml:265(para) 
 msgid "All functions are now available via an introspectable D-Bus API."
-msgstr ""
+msgstr "Todas as funções estão disponíveis através de uma introspecção na API do D-Bus."
 
 #: C/rndevelopers.xml:272(title) 
 msgid "GNOME-Media"
@@ -525,7 +526,7 @@ msgstr "GNOME-Media"
 
 #: C/rndevelopers.xml:274(para) 
 msgid "<application>GNOME-Media</application> has removed support for vumeter, CDDB and GNOME-CD."
-msgstr ""
+msgstr "<application>GNOME-Media</application> removeu o suporte para o vumeter, CDDB e GNOME-CD."
 
 #: C/rndevelopers.xml:281(title) 
 msgid "Totem"
@@ -533,7 +534,7 @@ msgstr "Totem"
 
 #: C/rndevelopers.xml:283(para) 
 msgid "The xine-lib backend was removed from Totem, and an asynchronous parsing API was added."
-msgstr ""
+msgstr "O back-end xine-lib foi removido do Totem, e uma API assíncrona de análise foi adicionada."
 
 #: C/rndevelopers.xml:291(title) 
 msgid "Vinagre"
@@ -541,19 +542,21 @@ msgstr "Vinagre"
 
 #: C/rndevelopers.xml:293(para) 
 msgid "<application>Vinagre</application>, the GNOME Remote Desktop Viewer, added a new plugin system. Support for new protocols is now just a matter of writing a plugin for Vinagre. New plugins for Vinagre include VNC and SSH."
-msgstr ""
+msgstr "<application>Vinagre</application>, o visualizador de desktop remoto, adicionou um novo sistema de plug-in. Suporte para novos protocolos agora é só questão de escrever um plug-in para o Vinagre. Novos plug-ins para o Vinagre incluem o VNC e SSH."
 
 #: C/rncontributors.xml:9(title) 
 msgid "What's New For Contributors"
-msgstr ""
+msgstr "O que há de novo para contribuidores"
+
 
 #: C/rnadmins.xml:9(title) 
 msgid "What's New For Administrators"
-msgstr ""
+msgstr "O que há de novo para administradores"
 
 #: C/rna11y.xml:9(title) 
 msgid "What's New In Accessibility"
-msgstr ""
+msgstr "O que há de novo em acessibilidade"
+
 
 #: C/rna11y.xml:11(para) 
 msgid "GNOME has a passion for making software available to everyone, including users and developers with impairments that can make it harder to use their computers. To help, GNOME created the GNOME Accessibility Project and an accessibility framework that is now a standard on libre desktops."
