@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2009-09-04 15:21+0000\n"
-"PO-Revision-Date: 2009-09-06 11:24-0300\n"
+"PO-Revision-Date: 2009-09-06 14:39-0300\n"
 "Last-Translator: Rodrigo L. M. Flores <mail@rodrigoflores.org>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -658,19 +658,19 @@ msgstr "Gerencie melhor seu tempo elhor"
 
 #: C/rnusers.xml:50(para) 
 msgid "The <application>Time Tracker</application> applet, also known as Project Hamster, was included in GNOME one year ago to help users track their time and tasks, and with GNOME 2.28 includes a number of new improvements."
-msgstr ""
+msgstr "O miniaplicativo <application>Gerenciador de tempo</application>, também conhecido como Projeto Hamster, foi incluido um ano atrás para ajudar usuários a gerenciarem melhor seu tempo e tarefas, e com o GNOME 2.28 inclui algumas novas melhorias."
 
 #: C/rnusers.xml:56(para) 
 msgid "An all-new Overview screen is now included, which merges the category and period graphs to present a cleaner overview to the user. Colors are also used for the first time, making it easy to view the proportion of time used to complete tasks."
-msgstr ""
+msgstr "Uma tela de visão geral toda nova agora está inclusa, na qual mescla a categoria e os gráficos de períoso para apresentar uma visão geral mais limpa ao usuário. Cores também são usadas na primeira vez, tornando mais fácil  ver a proporção de tempo utilizado para completar tarefas."
 
 #: C/rnusers.xml:61(para) 
 msgid "Other feature updates include improved autocomplete support allowing the ability to update the start time on the fly, improved support for late-night workers, and the ability to add earlier tasks that have been completed. Lastly, the export functionality has a number of improvements, including the ability to filter activities by category and date prior to export, and new simple export types: iCal to import into Evolution, Google Calendar and other clients, XML, and TSV (tab separated values), which works well with spreadsheets."
-msgstr ""
+msgstr "Outra atualização de recursos incluem um suporte melhorado de auto-completar, permitindo a habilidade de atualizar o tempo de início na hora, suporte melhorado para trabalhadores que trabalham até a madrugada e a habilidade para adicionar tarefas que já foram completadas. Finalmente, a funcionalidade de exportar teve algumas melhorias, incluindo a habilidade de filtrar atividades por categoria e data antes da exportação e novos tipos de exportação: iCal para importar no Evolution, Google Calendar e outros clientes, XML e TSV (valores separados por tabulação), que funcionam bem com planilhas."
 
 #: C/rnusers.xml:72(title) 
 msgid "Time Tracker"
-msgstr ""
+msgstr "Gerenciador de Tempo"
 
 #: C/rnusers.xml:81(title) 
 msgid "Empathy Instant Messenger"
@@ -678,27 +678,28 @@ msgstr "Mensageiro Instantâneo Empathy"
 
 #: C/rnusers.xml:83(para) 
 msgid "GNOME's instant messaging and communication application, <application>Empathy</application>, built on the Telepathy communications framework, has gained a number of new and important features to help users communicate."
-msgstr ""
+msgstr "Mensageiro instantâneo do GNOME a aplicação de comunicação, o <application>Empathy</application>, feito usando o arcabouço de comunicações Telepathy, ganhou vários novos recursos para ajudar os usuários a se comunicar."
 
 #: C/rnusers.xml:88(para) 
 msgid "The contact list has been improved in a number of ways. You can set your status directly by entering it as text, or set it from a previously set status. Reorganizing your contacts has been made easier as dragging and dropping a contact will move it, instead of copying it. A View menu is now included, giving you quick access to sorting contacts, viewing offline contacts, and changing your contact list size preferences."
-msgstr ""
+msgstr "A lista de contatos foi melhorada de várias maneiras. Você pode definir seu status diretamente digitando este como texto, ou defini-lo de vários status previsamente definidos. Reorganizar seus contatos ficou mais fácil: ao invés de copiá-los você agora pode arrastar soltar para movê-los. Um menu de visualização agora está incluso, te dando rápido acesso para ordenar contatos, ver contatos offline e alterar as preferências de sua lista de contatos."
 
 #: C/rnusers.xml:97(title) 
 msgid "Empathy Contacts"
-msgstr ""
+msgstr "Contatos do Empathy"
 
 #: C/rnusers.xml:103(para) 
 msgid "The conversaton dialog now supports a number of new themes, including Adium message styles. Other improvements include users in the user list now have a tooltip; the user list in chat rooms can be hidden; the Contact menu has been removed from the Conversation menu; and if your name is mentioned in a chat room or conversation, that tab's text will become red."
-msgstr ""
+msgstr "O diálogo de conversação agora tem suporte a um número de novos temas, incluindo estilos de mensagem do Adium. Outras melhorias incluem usuários: na lista de usuários há dicas de ferramentas; a lista de usuários em salas de bate-papo podem ser ocultas; o menu Contato foi removido do menu de Conversação; se seu nome foi mencionado numa sala de bate papo ou conversação, o texto da aba irá ficar vermelho."
 
 #: C/rnusers.xml:111(para) 
+#, fuzzy
 msgid "Audio and video chats can now be made fullscreen, and if a contact does not have video, their avatar will be displayed. A redial feature has also been added, making it easier to reconnect."
-msgstr ""
+msgstr "Bate-papos de aúdio e vídeo agora podem ser tela-cheia, e se um contato não tiver vídeo, seu avatar será mostrado. Um recurso de rediscagem também foi adicionado, deixando mais fácil reconectar."
 
 #: C/rnusers.xml:115(para) 
 msgid "Users are now able to share their desktop with Empathy contacts using the GNOME Remote Desktop Viewer, <application>Vinagre</application>."
-msgstr ""
+msgstr "Usuários agora podem compartilhas seu desktop com contatos do Empathy utilizando o Visualizador de Desktop Remoto <application>Vinagre</application>."
 
 #: C/rnusers.xml:121(para) 
 msgid "Geolocation support using Geoclue has been added for XMPP contacts, such as Jabber and Google Talk. You can view a contact's location by hovering your mouse over their contact name, in the information dialog or on the Map View. Empathy also supports a reduced accuracy mode for users who wish additional privacy."
@@ -726,7 +727,7 @@ msgstr ""
 
 #: C/rnusers.xml:160(title) 
 msgid "Smile for the Camera"
-msgstr ""
+msgstr "Sorria para a câmera"
 
 #: C/rnusers.xml:162(para) 
 msgid "<application>Cheese</application>, a webcam photo and video application, features numerous improvements. Cheese has an updated user interface, and has added a \"Burst\" mode for taking multiple pictures at a time. You can choose the number of pictures Cheese should take and the time delay between pictures. Cheese also supports the ability to manually take a picture using a webcam's \"Capture\" button."
@@ -766,11 +767,11 @@ msgstr ""
 
 #: C/rnusers.xml:220(title) 
 msgid "But Wait, There's More…"
-msgstr ""
+msgstr "Mas espere, tem mais ..."
 
 #: C/rnusers.xml:222(para) 
 msgid "As well as big changes, there are also various small additions and tweaks that happen in every GNOME release."
-msgstr ""
+msgstr "Assim como as grandes mudanças, há também várias pequenas adições e ajustes que aparecem em todo lançamento do GNOME."
 
 #: C/rnusers.xml:228(para) 
 msgid "GNOME menus and buttons have been standardized across all applications to not display icons by default. Menu items with dynamic objects, including applications, files or bookmarks, and devices are the exception and can display an icon. This change will standardize the look and feel of menus and present a cleaner interface to users."
