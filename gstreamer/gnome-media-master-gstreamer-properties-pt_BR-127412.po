@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-media master\n"
 "POT-Creation-Date: 2009-08-28 09:17+0000\n"
-"PO-Revision-Date: 2009-09-03 10:15-0300\n"
+"PO-Revision-Date: 2009-09-07 09:35-0300\n"
 "Last-Translator: Rodrigo L. M. Flores <mail@rodrigoflores.org>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -133,7 +133,7 @@ msgstr "Menu <guimenu>Aplicativos</guimenu>"
 
 #: C/gstreamer-properties.xml:125(para)
 msgid "Choose <menuchoice><guisubmenu>Preferences</guisubmenu><guimenuitem>Gstreamer Properties</guimenuitem></menuchoice>."
-msgstr "Escolha <menuchoice><guisubmenu>Preferências</guisubmenu><guimenuitem>Prepriedades do Gstreamer</guimenuitem></menuchoice>."
+msgstr "Escolha <menuchoice><guisubmenu>Preferências</guisubmenu><guimenuitem>Propriedades do Gstreamer</guimenuitem></menuchoice>."
 
 #: C/gstreamer-properties.xml:130(term)
 msgid "Command line"
@@ -145,7 +145,7 @@ msgstr "Digite <command>gstreamer-properties</command>, em seguida pressione <ke
 
 #: C/gstreamer-properties.xml:139(para)
 msgid "When you start <application>GStreamer Properties</application>, the following window is displayed."
-msgstr "Quando você iniciar as <application>Propriedades do GStreamer</application>, a seguinte janela é exibida. "
+msgstr "Quando você iniciar as <application>Propriedades do GStreamer</application>, a seguinte janela é exibida."
 
 #: C/gstreamer-properties.xml:143(title)
 msgid "GStreamer Properties Window"
@@ -153,7 +153,7 @@ msgstr "Janela de Propriedados do GStreamer"
 
 #: C/gstreamer-properties.xml:150(phrase)
 msgid "Shows GStreamer Properties main window. Contains menubar, toolbar, drop-down menus for the input and output audio options."
-msgstr "Mostra a janela principal das Propriedades do GStreamer. Contém barra de menu, barra de ferramentas, menu drop-down para entrada e saída das opções de áudio."
+msgstr "Mostra a janela principal das Propriedades do GStreamer. Contém barra de menu, barra de ferramentas, menu de rolagem para entrada e saída das opções de áudio."
 
 #: C/gstreamer-properties.xml:162(title)
 msgid "Usage"
@@ -161,7 +161,7 @@ msgstr "Uso"
 
 #: C/gstreamer-properties.xml:163(para)
 msgid "The GStreamer properties capplet offers four drop down menus spread over two tabs. There are two drop-menues for audio and two for video. These choices set the default for most GNOME applications for output and input of Sound and Video."
-msgstr ""
+msgstr "O capplet de propriedades do GStreamer oferece quatro menus suspensos em duas abas. Dois são menus suspensos de aúdio e dois de vídeo. Estas escolhas definem o padrão para a maioria de aplicações do GNOME para saída e entrada de som e vídeo."
 
 #: C/gstreamer-properties.xml:166(title)
 msgid "Understanding the menu options"
@@ -169,7 +169,7 @@ msgstr "Entendendo as opções do menu"
 
 #: C/gstreamer-properties.xml:167(para)
 msgid "Looking at the screen for setting audio options you notice that the two sections says are called Default Sink and Default Source. These are terms used in the GStreamer framework that GNOME uses to describe where data is sent and where it comes from. The Default sink is in other words where GNOME apps should output their sound, while Default source is where the sound comes from."
-msgstr ""
+msgstr "Olhando para a tela para definir opções de aúdio você perceberá que duas sessões são chamadas ralo padrão e fonte padrão. Estes são os termos utilizados na infraestrutura GStreamer para o GNOME descrever para onde os dados são enviados e de onde eles vêm. O ralo padrão é onde, em outras palavras, os aplicativos do GNOME devem jogar sua saída de som, enquanto a fonte padrão é de onde o som vêm."
 
 #: C/gstreamer-properties.xml:168(para)
 msgid "The reason you might want to alter these settings is because under Unix there are many different audio systems and sound server which you might want to output to. For for instance on Linux popular alternatives are the OSS sound system, the ALSA sound system, the ESD sound server and the ARTSd sound server."
@@ -178,7 +178,7 @@ msgstr "Um motivo pelo qual você talvez queira alterar estas definições é po
 
 #: C/gstreamer-properties.xml:172(para)
 msgid "For instance if you wish that your GNOME applcations output their sound to the ESD sound server you set the Default Sink to use ESD. And if you wish that your GNOME applications which has sound recording capabilities use the OSS sound system to do this you choose OSS as the Default Source."
-msgstr ""
+msgstr "Por exemplo, se você quer que suas aplicações do GNOME joguem suas saídas de som para o servidor de som ESD, você define o ralo padrão para utilizar o ESD. E se vocẽ deseja que suas aplicações GNOME, que têm capacidade de gravar sons, usem o sistema de som OSS você escolhe o OSS como fonte padrão."
 
 #: C/gstreamer-properties.xml:176(para)
 msgid "As mentioned elsewhere in this user guide. These setting are meant for as a tool for advanced users who have specialized need. As an ordinary user you should not need to set these as the vendor of your distribution of Linux or Unix should have set them for you and sensible defaults."
