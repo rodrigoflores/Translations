@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: release-notes.help.gnome-2-28\n"
 "POT-Creation-Date: 2009-09-04 15:21+0000\n"
-"PO-Revision-Date: 2009-09-06 21:19-0300\n"
+"PO-Revision-Date: 2009-09-07 09:23-0300\n"
 "Last-Translator: Rodrigo L. M. Flores <mail@rodrigoflores.org>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +24,7 @@ msgstr "@@image: 'figures/rnlookingforward.zeitgeist.png'; md5=THIS FILE DOESN'T
 #: C/rnlookingforward.xml:10(title)
 #, fuzzy
 msgid "Looking Forward to GNOME 2.30"
-msgstr "Vislumbrando o GNOME 2.30"
+msgstr "Antecipando o GNOME 2.30"
 
 #: C/rnlookingforward.xml:12(para) 
 msgid "Development doesn't stop with GNOME 2.28. Work has already begun on GNOME 2.30, due to be released exactly six months after 2.28."
@@ -36,11 +36,11 @@ msgstr "A decisão final se o GNOME 2.30 (que será lançado em março de 2010) 
 
 #: C/rnlookingforward.xml:24(para) 
 msgid "GNOME 2.30 will continue to provide the desktop platform and applications it always has, and will also potentially feature a new user interface in GNOME Shell and the GNOME Activity Journal which easily helps you browse and find files on your computer. For developers, GNOME 2.30 deprecates a number of old libraries."
-msgstr "O GNOME 2.30 irá continuar provendo a plataforma de área de trabalho que sempre foi, e vai também, potencialmente, apresentar uma nova interface no GNOME Shell e o diário de atividade GNOME que facilente te ajuda a navegar e encontrar arquivos no seu computador. Para desenvolvedores, o GNOME 2.30 abandona algumas bibliotecas antigas. "
+msgstr "O GNOME 2.30 irá continuar provendo a plataforma desktop que sempre foi, e vai também, potencialmente, apresentar uma nova interface no GNOME Shell e o Diário de Atividade GNOME que te ajudará a navegar e encontrar arquivos facilmente no seu computador. Para desenvolvedores, o GNOME 2.30 abandona algumas bibliotecas antigas."
 
 #: C/rnlookingforward.xml:29(para) 
 msgid "A preview of GNOME Shell is available in 2.28 and is available for download. GNOME Shell features an innovative new user interface using the power of a composited desktop. GNOME Shell makes it easy to add additional workspaces, start frequently used applications, and access your most used files and documents."
-msgstr "Um aperitivo do GNOME Shell está disponível no 2.28 e pode ser baixado. O GNOME Shell apresenta uma inovação na nova interface de usuário, utilizando o poder de uma área de trabalho com composite. GNOME Shell torna fácil adicionar áreas de trabalho novas, inicias aplicações utilizadas frequentemente e acessar os arquivos e documentos mais usados."
+msgstr "Uma primeira versão do GNOME Shell está disponível no 2.28 e pode ser baixado. O GNOME Shell apresenta uma inovação na nova interface de usuário, utilizando o poder de um desktop com composite. GNOME Shell torna fácil adicionar áreas de trabalho novas, iniciar aplicações utilizadas frequentemente e acessar os arquivos e documentos mais usados."
 
 #: C/rnlookingforward.xml:37(title) 
 msgid "GNOME Shell"
@@ -146,7 +146,7 @@ msgstr "Holandês"
 
 #: C/rni18n.xml:42(para) 
 msgid "English (US, British)"
-msgstr "Inglês (Estadunidense, Britânico)"
+msgstr "Inglês (EUA, Britânico)"
 
 #: C/rni18n.xml:43(para) 
 msgid "Estonian"
@@ -290,11 +290,11 @@ msgstr "Idiomas com suporte: <placeholder-1/>"
 
 #: C/rni18n.xml:83(para) 
 msgid "Many other languages are partially supported, with more than half of their strings translated."
-msgstr "Muitos outros idiomas têm um suporte parcia, com mais que a metade de suas frases traduzidas."
+msgstr "Muitos outros idiomas têm um suporte parcial, com mais que a metade de suas frases traduzidas."
 
 #: C/rni18n.xml:86(para) 
 msgid "Translating a software package as large as GNOME into a new language can be an overwhelming task for even the most dedicated translation team. For this release two language teams have put in a stellar effort, increasing the completeness of their translations by more than 20%. Congratulations to the Romanian and Oriya teams for their hard work. Congratulations also to the Assamese, Kannada, Oriya, Romanian, and Telugu teams, which each passed the 80% mark this time."
-msgstr "Traduzir um pacote de software grande como o GNOME para uma idioma novo pode ser uma tarefa exaustiva para até mesmo os times de tradução mais dedicados. Para esta versão, dois times de tradução fizeram um esforço hercúleo, aumentando a completude de suas tradução por mais de 20%. Parábens aos times de Romeno e Oriá pelo trabalho duro. Parábens também às equipes de Assamês, Canarês, Oriá, Romeno e Telugu por ter passado a marca de 80% desta vez."
+msgstr "Traduzir um pacote de software grande como o GNOME para uma idioma novo pode ser uma tarefa exaustiva para até mesmo os times de tradução mais dedicados. Para esta versão, dois times de tradução fizeram um esforço hercúleo, aumentando a completude de suas tradução por mais de 20%. Parábens aos times de Romeno e Oriá pelo seu trabalho duro. Parábens também às equipes de Assamês, Canarês, Oriá, Romeno e Telugu por ter passado a marca de 80% desta vez."
 
 #: C/rni18n.xml:96(para) 
 msgid "Detailed statistics and more information are available on GNOME's <ulink url=\"http://l10n.gnome.org/\">translation status site</ulink>."
@@ -315,7 +315,7 @@ msgstr "As seguintes alterações são importantes para desenvolvedores utilizan
 #: C/rndevelopers.xml:20(para) 
 #, fuzzy
 msgid "As well as the GNOME Desktop, GNOME 2.28 is the latest release of the GNOME Developer Platform, a set of API- and ABI-stable libraries available under the GNU LGPL which can be used for the development of cross-platform applications."
-msgstr "Assim como o GNOME Desktop, o GNOME 2.28 é o último lançamento da plataforma de desenvolvimento GNOME, um conjunto de API- e bibliotecas ABI-stable disponíveis sob a GNU LGPL a qual pode ser utilizada para o desenvolvmento de aplicações multiplataforma"
+msgstr "Assim como o GNOME Desktop, o GNOME 2.28 é o último lançamento da plataforma de desenvolvimento GNOME, um conjunto de API- e bibliotecas ABI-stable disponíveis sob a GNU LGPL a qual pode ser utilizada para o desenvolvmento de aplicações multiplataforma."
 
 #: C/rndevelopers.xml:28(title) 
 msgid "Fixing Usage of Deprecated Libraries"
@@ -327,7 +327,7 @@ msgstr "Começando com o GNOME 3.0, várias partes abandonadas do GNOME serão r
 
 #: C/rndevelopers.xml:42(para) 
 msgid "Developers are strongly urged to follow this example in their own applications too. Furthermore, for any developers (or potential developers) who wish to help us out, the <ulink url=\"http://live.gnome.org/GnomeGoals\">GNOME goals</ulink> wiki page lists the various tasks that are yet to be completed. An automatically created and updated status overview of remaining work for modules that are supported by the jhbuild build tool can be found <ulink url=\"http://www.gnome.org/~fpeters/299.html\">here</ulink>."
-msgstr "Desenvolvedores são fortemente aconselhados a seguir estes exemplos em suas próprias aplicações também. Além disso, para qualquer desenvolvedor (ou potenciais desenvolvedores) que querem nos ajudar, a página do wiki <ulink url=\"http://live.gnome.org/GnomeGoals\">GNOME goals</ulink> lista as várias tarefas que ainda não foram concluídas. Uma visão geral automaticamente criada e atualizada do trabalho restante para módulos que têm suporte para a ferramenta de compilação jhbuild pode ser encontrada <ulink url=\"http://www.gnome.org/~fpeters/299.html\">here</ulink>."
+msgstr "Desenvolvedores são fortemente aconselhados a seguir estes exemplos em suas próprias aplicações também. Além disso, para qualquer desenvolvedor (ou potenciais desenvolvedores) que querem nos ajudar, a página do wiki <ulink url=\"http://live.gnome.org/GnomeGoals\">GNOME goals</ulink> lista as várias tarefas que ainda não foram concluídas. Uma visão geral automaticamente criada e atualizada do trabalho restante para módulos que têm suporte para a ferramenta de compilação jhbuild pode ser encontrada <ulink url=\"http://www.gnome.org/~fpeters/299.html\">aqui</ulink>."
 
 #: C/rndevelopers.xml:56(title) 
 msgid "GNOME 2.28 Platform Cleanup"
@@ -344,7 +344,7 @@ msgstr "No GNOME 2.28, não haverá mais aplicações que dependam do esound, li
 
 #: C/rndevelopers.xml:66(para) 
 msgid "Other GNOME Platform improvements in GNOME 2.28 include:"
-msgstr "Outras melhoras da plataforma do GNOME no GNOME 2.28 incluem:"
+msgstr "Outras melhorias da plataforma do GNOME no GNOME 2.28 incluem:"
 
 #: C/rndevelopers.xml:71(para) 
 msgid "A dependency on libart_lgpl was removed from two modules (eog and gtkhtml)."
@@ -386,9 +386,10 @@ msgstr "Muitos módulos agora proporcionam uma saída mais limpa e melhor quando
 msgid "Some modules started using GIntrospection — see <ulink url=\"http://live.gnome.org/GnomeGoals/AddGObjectIntrospectionSupport\">http://live.gnome.org/GnomeGoals/AddGObjectIntrospectionSupport</ulink> for more details."
 msgstr "Alguns módulos começaram a usar o GIntrospection - veja <ulink url=\"http://live.gnome.org/GnomeGoals/AddGObjectIntrospectionSupport\">http://live.gnome.org/GnomeGoals/AddGObjectIntrospectionSupport</ulink> para mais detalhes."
 
-#: C/rndevelopers.xml:124(para) 
+#: C/rndevelopers.xml:124(para)
+#, fuzzy
 msgid "Many applications have also removed the usage of deprecated GTK+ and GLib symbols and have applied the new policy to only include top level headers of GTK+ and GLib."
-msgstr "Muitas aplicações também remover o uso de símbolos abandonados GTK+ e GLib e aplicaram a nova política de apenas incluir cabeçalhos de topo do GTK+ e GLib."
+msgstr "Muitas aplicações também removeram o uso de símbolos abandonados GTK+ e GLib e aplicaram a nova política de apenas incluir cabeçalhos de topo do GTK+ e GLib."
 
 #: C/rndevelopers.xml:132(title) 
 msgid "GTK+ 2.18"
@@ -447,9 +448,10 @@ msgstr "GLib"
 msgid "GNIO has been merged into GIO, and APIs are now included for working with IPv4 and IPv6 addresses, resolving hostnames, reverse IP lookup, low-level socket I/O, and working with network connections and services."
 msgstr "GNIO foi mesclado com o GIO, e as APIs agora são capazes de trabalhar com endereços IPv4 e IPv6, resolver hostnames, ver IP reverso, socket de E/S de baixo nível e trabalhar com conexões de rede e serviços."
 
-#: C/rndevelopers.xml:188(para) 
+#: C/rndevelopers.xml:188(para)
+#, fuzzy
 msgid "<classname>GArray</classname>, <classname>GMappedFile</classname> and <classname>GTree</classname> are now reference counted."
-msgstr "<classname>GArray</classname>, <classname>GMappedFile</classname> e <classname>GTree</classname> agora são referências contadas.."
+msgstr "<classname>GArray</classname>, <classname>GMappedFile</classname> e <classname>GTree</classname> agora são referências contadas."
 
 #: C/rndevelopers.xml:192(para) 
 msgid "The main loop supports per-thread default contexts."
@@ -461,7 +463,7 @@ msgstr "Suporte foi adicionado para acesso de leitura-escrita com o <classname>G
 
 #: C/rndevelopers.xml:199(para) 
 msgid "GLib now also includes support for per-file metadata."
-msgstr "GLib agora também incluit suporte de metadados por arquivo."
+msgstr "GLib agora também inclui suporte de metadados por arquivo."
 
 #: C/rndevelopers.xml:205(title) 
 msgid "GNOME Documentation"
@@ -473,11 +475,11 @@ msgstr "Suporte para o Mallard, a nova linguagem XML do GNOME para documentaçã
 
 #: C/rndevelopers.xml:212(para) 
 msgid "For documentation writers, Mallard is a full-featured XML markup language designed explicitly for topic-oriented help, with an easier learning curve than Docbook."
-msgstr "Para escritores de documentação, Mallard é uma linguagem de marcação com todos os recursos, projetada explicitamente para ajuda orientada à tópicos, com uma curva de aprendizado mais suave que o Docbook."
+msgstr "Para escritores de documentação, Mallard é uma linguagem de marcação XML com todos os recursos, projetada explicitamente para ajuda orientada à tópicos, com uma curva de aprendizado mais suave que o Docbook."
 
 #: C/rndevelopers.xml:217(para) 
 msgid "The <application>Empathy</application> help is the first GNOME documentation to be written in Mallard, and is also the first documentation to move to a Creative Commons Share-Alike 3.0 license, which all GNOME documentation will be moving to in the future."
-msgstr "A ajuda do <application>Empathy</application> é a primeira documentação do GNOME a ser escrita em Mallard, e também é a primeira documentação a mover para a licença Creative Commons Share-Alike 3.0, na qual todas as documentações do GNOME serão movidas no futuro."
+msgstr "A ajuda do <application>Empathy</application> é a primeira documentação do GNOME a ser escrita em Mallard, e também é a primeira documentação a mudar para a licença Creative Commons Share-Alike 3.0, na qual todas as documentações do GNOME serão movidas no futuro."
 
 #: C/rndevelopers.xml:226(title) C/rnusers.xml:39(application) 
 msgid "GNOME Bluetooth"
@@ -542,7 +544,7 @@ msgstr "Vinagre"
 
 #: C/rndevelopers.xml:293(para) 
 msgid "<application>Vinagre</application>, the GNOME Remote Desktop Viewer, added a new plugin system. Support for new protocols is now just a matter of writing a plugin for Vinagre. New plugins for Vinagre include VNC and SSH."
-msgstr "<application>Vinagre</application>, o visualizador de desktop remoto, adicionou um novo sistema de plug-in. Suporte para novos protocolos agora é só questão de escrever um plug-in para o Vinagre. Novos plug-ins para o Vinagre incluem o VNC e SSH."
+msgstr "<application>Vinagre</application>, o visualizador de desktop remoto do GNOME, adicionou um novo sistema de plug-in. Suporte para novos protocolos agora é só questão de escrever um plug-in para o Vinagre. Novos plug-ins para o Vinagre incluem o VNC e SSH."
 
 #: C/rncontributors.xml:9(title) 
 msgid "What's New For Contributors"
@@ -560,11 +562,11 @@ msgstr "O que há de novo em acessibilidade"
 
 #: C/rna11y.xml:11(para) 
 msgid "GNOME has a passion for making software available to everyone, including users and developers with impairments that can make it harder to use their computers. To help, GNOME created the GNOME Accessibility Project and an accessibility framework that is now a standard on libre desktops."
-msgstr "O GNOME tem uma intensa paixão por fazer software disponível para todos, incluindo usuários e desenvolvedores com deficiência o que pode ser difícil deles usarem seus computadores. Para ajudar, o GNOME criou o Projeto de Acessibilidade GNOME e um arcabouço de acessibilidade que hoje é padrão em desktops livres."
+msgstr "O GNOME tem uma intensa paixão por fazer software disponível para todos, incluindo usuários e desenvolvedores com deficiência o que pode ser difícil para eles usarem seus computadores. Para ajudar, o GNOME criou o Projeto de Acessibilidade GNOME e um arcabouço de acessibilidade que hoje é padrão em desktops livres."
 
 #: C/rna11y.xml:18(para) 
 msgid "GNOME 2.28 continues to build on its prior accessibility credentials with several improvements."
-msgstr "GNOME 2.28 é alicerceado nas credenciais de acessibilidades já existentes com muitas melhorias."
+msgstr "GNOME 2.28 continua seu progresso das credenciais de acessibilidades já existentes com muitas melhorias."
 
 #: C/rna11y.xml:24(title) 
 msgid "Orca Screen Reader"
@@ -593,7 +595,7 @@ msgstr "apresentação de palavras com erros de ortografia quando se edita texto
 
 #: C/rna11y.xml:45(para) 
 msgid "completely rewritten speech and Braille generators, now with the ability to play sounds in the speech generator"
-msgstr "completamente escritos os geradores de fala e braile, agora com a habilidade de reproduzir sons no gerador de falas"
+msgstr "completamente escritos os geradores de fala e Braile, agora com a habilidade de reproduzir sons no gerador de falas"
 
 #: C/rna11y.xml:55(title) 
 msgid "WebKit Accessibility Support"
@@ -602,7 +604,7 @@ msgstr "Suporte à acessibilidade do WebKit"
 #: C/rna11y.xml:57(para)
 #, fuzzy
 msgid "Significant effort has been done to improve WebKit accessibility, in particular the addition of caret navigation and the initial implementation of Atk's accessible text interface. Once the accessible text interface has been fully implemented, users will be able to access content without using the mouse and have it presented to them in speech and/or braille via the Orca screen reader."
-msgstr "Um esforço significante foi feito para melhorar a acessibilidade do WebKit, em particular a adição de navegação caret e a implementação inicial da interface de texto acessível Atk. QUando a interface de texto acessível estiver inteiramente implementada, usuários serão capazes de acessar conteúdo sem utilizar o mouse e ter isso apresentado em voz e/ou braile através do leitor de tela Orca."
+msgstr "Um esforço significante foi feito para melhorar a acessibilidade do WebKit, em particular a adição de navegação caret e a implementação inicial da interface de texto acessível Atk. Quando a interface de texto acessível estiver inteiramente implementada, usuários serão capazes de acessar conteúdo sem utilizar o mouse e ter isso apresentado em voz e/ou braile através do leitor de tela Orca."
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -640,7 +642,7 @@ msgstr "O que há de novo para usuários"
 
 #: C/rnusers.xml:11(para) 
 msgid "The GNOME Project's focus on users and usability continues in GNOME 2.28 with its hundreds of bug fixes and user-requested improvements. The sheer number of enhancements makes it impossible to list every change and improvement made, but these notes aim to highlight some of the more exciting, user-oriented features in this release."
-msgstr "O Projeto GNOME foca em usuário e a usabilidade continua no GNOME 2.28 com suas centenas de correções de bug e melhorias pedidas por usuários. O número de melhorias concluídas torna impossível listar todas as alterações e melhorias feitas, mas estas notas tentam destacar algumas das mais melhorias mais interessantes e orientadas a usuários neste lançamento."
+msgstr "O Projeto GNOME foca em usuários e a usabilidade continua no GNOME 2.28 com suas centenas de correções de bug e melhorias pedidas por usuários. O número de melhorias concluídas torna impossível listar todas as alterações e melhorias feitas, mas estas notas tentam destacar algumas das mais melhorias mais interessantes e orientadas a usuários neste lançamento."
 
 #: C/rnusers.xml:20(title) 
 msgid "Become Unwired"
@@ -648,15 +650,15 @@ msgstr "Esqueça dos fios"
 
 #: C/rnusers.xml:21(para) 
 msgid "GNOME 2.28 includes the first release of <application>GNOME Bluetooth</application> to help users manage their Bluetooth devices. GNOME Bluetooth supports hundreds of Bluetooth devices, including mice, keyboards and headsets. GNOME Bluetooth includes PulseAudio integration for Bluetooth headsets and headphones."
-msgstr "O GNOME 2.28 inclui o primeiro lançamento do <application>GNOME Bluetooth</application> para ajudar usuários a gerenciarem seus dispositivos Bluetooth. GNOME Bluetooth tem suporte a centenas de dispositivos Bluetooth, incluindo mouses, teclados e fones de ouvido com microfone. O GNOME Bluetooth inclui integração com o PulseAudio para fones de ouvido com e sem microfone."
+msgstr "O GNOME 2.28 inclui o primeiro lançamento do <application>GNOME Bluetooth</application> para ajudar usuários a gerenciarem seus dispositivos Bluetooth. O GNOME Bluetooth tem suporte a centenas de dispositivos Bluetooth, incluindo mouses, teclados e fones de ouvido com microfone. O GNOME Bluetooth inclui integração com o PulseAudio para fones de ouvido com e sem microfone."
 
 #: C/rnusers.xml:29(para) 
 msgid "GNOME Bluetooth also includes support for Internet access through your mobile phone. After pairing your mobile phone with GNOME Bluetooth, Network Manager will include an entry to use your mobile phone for Internet access."
-msgstr "O GNOME Bluetooth também inclui suporte para acesso a internet através de seu telefone celular. Após parear seu celular com o GNOME Bluetooth, Network Manager irá incluir uma entrada para utilizar seu celular para acessar a internet."
+msgstr "O GNOME Bluetooth também inclui suporte para acesso a internet através de seu telefone celular. Após parear seu celular com o GNOME Bluetooth, o Network Manager irá incluir uma entrada para utilizar seu celular para acessar a internet."
 
 #: C/rnusers.xml:48(title) 
 msgid "Track Your Time Better"
-msgstr "Gerencie melhor seu tempo elhor"
+msgstr "Gerencie melhor seu tempo melhor"
 
 #: C/rnusers.xml:50(para) 
 msgid "The <application>Time Tracker</application> applet, also known as Project Hamster, was included in GNOME one year ago to help users track their time and tasks, and with GNOME 2.28 includes a number of new improvements."
@@ -664,11 +666,11 @@ msgstr "O miniaplicativo <application>Gerenciador de tempo</application>, també
 
 #: C/rnusers.xml:56(para) 
 msgid "An all-new Overview screen is now included, which merges the category and period graphs to present a cleaner overview to the user. Colors are also used for the first time, making it easy to view the proportion of time used to complete tasks."
-msgstr "Uma tela de visão geral toda nova agora está inclusa, na qual mescla a categoria e os gráficos de períoso para apresentar uma visão geral mais limpa ao usuário. Cores também são usadas na primeira vez, tornando mais fácil  ver a proporção de tempo utilizado para completar tarefas."
+msgstr "Uma tela de visão geral nova agora está inclusa, na qual mescla a categoria e os gráficos de período para apresentar uma visão geral mais limpa ao usuário. Cores também são usadas na primeira vez, tornando mais fácil ver a proporção de tempo utilizado para completar tarefas."
 
 #: C/rnusers.xml:61(para) 
 msgid "Other feature updates include improved autocomplete support allowing the ability to update the start time on the fly, improved support for late-night workers, and the ability to add earlier tasks that have been completed. Lastly, the export functionality has a number of improvements, including the ability to filter activities by category and date prior to export, and new simple export types: iCal to import into Evolution, Google Calendar and other clients, XML, and TSV (tab separated values), which works well with spreadsheets."
-msgstr "Outra atualização de recursos incluem um suporte melhorado de auto-completar, permitindo a habilidade de atualizar o tempo de início na hora, suporte melhorado para trabalhadores que trabalham até a madrugada e a habilidade para adicionar tarefas que já foram completadas. Finalmente, a funcionalidade de exportar teve algumas melhorias, incluindo a habilidade de filtrar atividades por categoria e data antes da exportação e novos tipos de exportação: iCal para importar no Evolution, Google Calendar e outros clientes, XML e TSV (valores separados por tabulação), que funcionam bem com planilhas."
+msgstr "Outra atualização de recursos incluem um suporte melhorado de auto-completar, permitindo a habilidade de atualizar o tempo de início a qualquer momento, suporte melhorado para trabalhadores que trabalham até a madrugada e a habilidade para adicionar tarefas que já foram completadas. Finalmente, a funcionalidade de exportar teve algumas melhorias, incluindo a habilidade de filtrar atividades por categoria e data antes da exportação e novos tipos de exportação: iCal para importar no Evolution, Google Calendar e outros clientes, XML e TSV (valores separados por tabulação) que funcionam bem com planilhas."
 
 #: C/rnusers.xml:72(title) 
 msgid "Time Tracker"
@@ -684,7 +686,7 @@ msgstr "Mensageiro instantâneo do GNOME a aplicação de comunicação, o <appl
 
 #: C/rnusers.xml:88(para) 
 msgid "The contact list has been improved in a number of ways. You can set your status directly by entering it as text, or set it from a previously set status. Reorganizing your contacts has been made easier as dragging and dropping a contact will move it, instead of copying it. A View menu is now included, giving you quick access to sorting contacts, viewing offline contacts, and changing your contact list size preferences."
-msgstr "A lista de contatos foi melhorada de várias maneiras. Você pode definir seu status diretamente digitando este como texto, ou defini-lo de vários status previsamente definidos. Reorganizar seus contatos ficou mais fácil: ao invés de copiá-los você agora pode arrastar soltar para movê-los. Um menu de visualização agora está incluso, te dando rápido acesso para ordenar contatos, ver contatos offline e alterar as preferências de sua lista de contatos."
+msgstr "A lista de contatos foi melhorada de várias maneiras. Você pode definir seu status diretamente digitando este como texto, ou definí-lo de vários status previamente definidos. Reorganizar seus contatos ficou mais fácil: ao invés de copiá-los você agora pode arrastar e soltar para movê-los. Um menu de visualização agora está incluso, te dando rápido acesso para ordenar contatos, ver contatos desconectados e alterar as preferências de sua lista de contatos."
 
 #: C/rnusers.xml:97(title) 
 msgid "Empathy Contacts"
@@ -701,7 +703,7 @@ msgstr "Bate-papos de aúdio e vídeo agora podem ser tela-cheia, e se um contat
 
 #: C/rnusers.xml:115(para) 
 msgid "Users are now able to share their desktop with Empathy contacts using the GNOME Remote Desktop Viewer, <application>Vinagre</application>."
-msgstr "Usuários agora podem compartilhas seu desktop com contatos do Empathy utilizando o Visualizador de Desktop Remoto <application>Vinagre</application>."
+msgstr "Usuários agora podem compartilhar seu desktop com contatos do Empathy utilizando o Visualizador de Desktop Remoto <application>Vinagre</application>."
 
 #: C/rnusers.xml:121(para) 
 msgid "Geolocation support using Geoclue has been added for XMPP contacts, such as Jabber and Google Talk. You can view a contact's location by hovering your mouse over their contact name, in the information dialog or on the Map View. Empathy also supports a reduced accuracy mode for users who wish additional privacy."
@@ -709,11 +711,11 @@ msgstr "Suporte ao Geolocation utilizando o Geoclue foi adicionado para contatos
 
 #: C/rnusers.xml:127(para) 
 msgid "Empathy also includes all-new documentation focused on helping users to learn how to perform specifics tasks within Empathy."
-msgstr "O Empathy também inclui uma documentação toda nova, enfocada em ajudar usuários a aprender como fazer tarefas específicas com o Empathy."
+msgstr "O Empathy também inclui uma documentação nova, enfocada em ajudar usuários a aprender como fazer tarefas específicas com o Empathy."
 
 #: C/rnusers.xml:137(para) 
 msgid "The GNOME Web Browser, <application>Epiphany</application>, has switched to Webkit from Gecko for its rendering engine. While this change should be invisible to users with the exception of a few performance enhancements, long term the switch to Webkit will have significant benefits to Epiphany users."
-msgstr "O navegador Web do GNOME, <application>Epiphany</application>, mudou para o Webkit do Gecko para seu motor de renderização. Enquanto esta mudança deve ser invisível para usuários, com exceção de algumas melhorias de performance, a longo prazo a mudança para Webkit terá benefícios significantes para usuários do Epiphany."
+msgstr "O navegador Web do GNOME, <application>Epiphany</application>, mudou para o Webkit do Gecko em seu motor de renderização. Enquanto esta mudança deve ser invisível para usuários, com exceção de algumas melhorias de performance, a longo prazo a mudança para Webkit terá benefícios significantes para usuários do Epiphany."
 
 #: C/rnusers.xml:143(para) 
 msgid "With the change to Webkit, one bug users may experience is Epiphany not being able to save logins and passwords in forms. This bug will be fixed during the 2.30 development cycle."
@@ -770,7 +772,7 @@ msgstr "Suporte a Fade e Subwoofer"
 
 #: C/rnusers.xml:220(title) 
 msgid "But Wait, There's More…"
-msgstr "Mas espere, tem mais ..."
+msgstr "Mas espere, tem mais..."
 
 #: C/rnusers.xml:222(para) 
 msgid "As well as big changes, there are also various small additions and tweaks that happen in every GNOME release."
@@ -846,7 +848,7 @@ msgstr "Introdução"
 
 #: C/release-notes.xml:54(para) 
 msgid "GNOME 2.28 is the latest version of the GNOME Desktop: a popular, multi-platform desktop environment for your computer. GNOME's focus is ease of use, stability, and first-class internationalization and accessibility support. GNOME is Free and Open Source Software and provides all of the common tools computer users expect of a modern computing environment, such as email, groupware, web browsing, file management, multimedia, and games. Furthermore, GNOME provides a flexible and powerful platform for software developers, both on the desktop and in mobile applications."
-msgstr "O GNOME 2.28 é a última versão do Desktop GNOME: um popular, multiplataforma ambiente de desktop para seu computador. O foco do GNOME é a facilidade de uso, estabilidade, internacionalização de primeira classe e suporte á acessibilidade. O GNOME é livre e de código aberto e provê todas as ferramentas comuns que usuários esperam de um ambiente moderno de computador, como email, software colaborativo, navegador web, gerenciamente de arquivos, multimídia e jogos. Além disso, o GNOME provê uma plataforma flexível e poderosa para desenvolvedores de software, tanto para desktop como para aplicações móveis."
+msgstr "O GNOME 2.28 é a última versão do Desktop GNOME: um popular, multiplataforma ambiente de desktop para seu computador. O foco do GNOME é a facilidade de uso, estabilidade, internacionalização de primeira classe e suporte à acessibilidade. O GNOME é livre e de código aberto e provê todas as ferramentas comuns que usuários esperam de um ambiente moderno de computador, como email, software colaborativo, navegador web, gerenciamento de arquivos, multimídia e jogos. Além disso, o GNOME provê uma plataforma flexível e poderosa para desenvolvedores de software, tanto para desktop como para aplicações móveis."
 
 #: C/release-notes.xml:69(title) 
 msgid "GNOME 2.28"
@@ -893,7 +895,7 @@ msgstr "Créditos"
 #. 				 Team. On behalf of the community, ...
 #: C/release-notes.xml:157(para) 
 msgid "These release notes were compiled by Paul Cutler with extensive help from the GNOME community. On behalf of the community, we give our warmest thanks to the developers and contributors who made this GNOME release possible."
-msgstr "Estas notas de lançamento foram escritas por Paul Cutler com ajuda extensiva da comunidade GNOME. A tradução para português do Brasil foi feita por Rodrigo Flores e revisada por XXXXX da equipe brasileira de tradutores do GNOME. Em nome da comunidade, nos damos os mais sinceros agradecimentos para desenvolvedores e contribuidores que fizeram esse lançamento do GNOME possível."
+msgstr "Estas notas de lançamento foram escritas por Paul Cutler com ajuda extensiva da comunidade GNOME. A tradução para português do Brasil foi feita por Rodrigo L. M. Flores e revisada por XXXXX da equipe brasileira de tradutores do GNOME. Em nome da comunidade, nos damos os mais sinceros agradecimentos para desenvolvedores e contribuidores que fizeram esse lançamento do GNOME possível."
 
 #: C/release-notes.xml:164(para) 
 msgid "This work may be freely translated into any language. If you wish to translate it into your language, please contact the <ulink url=\"http://developer.gnome.org/projects/gtp/\">GNOME Translation Project</ulink>."
