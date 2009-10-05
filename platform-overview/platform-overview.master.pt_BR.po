@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: platform-overview\n"
 "POT-Creation-Date: 2009-01-26 17:52+0000\n"
-"PO-Revision-Date: 2009-10-03 21:54-0300\n"
+"PO-Revision-Date: 2009-10-05 12:43-0300\n"
 "Last-Translator: Enrico Nicoletto <liverig@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgstr "Visão geral da plataforma"
 
 #: C/platform.xml:6(para)
 msgid "The GNOME platform provides a comprehensive development environment for graphical applications and other software. Using the technologies in GNOME, you can create high-quality software to meet and exceed your users' expectations. This chapter provides a very brief overview of the components that are discussed in this document."
-msgstr "A plataforma GNOME oferece um ambiente de desenvolvimento compreensivo para aplicações gráficas e outros softwares. Usando as tecnologias do GNOME, você pode criar software de alta qualidade para satisfazer e superar às expectativas dos usuários. Este capítulo fornece um breve panorama dos componentes que são discutidos neste documento."
+msgstr "A plataforma GNOME oferece um ambiente de desenvolvimento abrangente para aplicações gráficas e outros softwares. Usando as tecnologias do GNOME, você pode criar software de alta qualidade para satisfazer e superar às expectativas dos usuários. Este capítulo fornece um breve panorama dos componentes que são discutidos neste documento."
 
 #: C/platform.xml:13(title)
 #: C/core-tech.xml:4(title)
@@ -32,23 +32,24 @@ msgstr "Tecnologias essenciais"
 
 #: C/platform.xml:15(para)
 msgid "GNOME provides a number of libraries for constructing attractive graphical interfaces. It provides libraries for displaying and manipulating common user interface controls, for laying out and rendering text from most of the world's writing systems, and for drawing sophisticated vector graphics to the screen. The graphical technologies in GNOME are outlined in <xref linkend=\"graphics\"/>."
-msgstr "O GNOME oferece um número de bibliotecas para construir interfaces gráficas atraentes. Fornece bibliotecas para exibir e manipular controles comuns de interface de usuário, para dispor e renderizar textos da maioria dos sistemas de escrita do mundo, e para desenhar sofisticados gráficos vetoriais na tela. As tecnologias gráficas do GNOME são destacadas em <xref linkend=\"graphics\"/>."
+msgstr "O GNOME oferece um número de bibliotecas para construir interfaces gráficas atraentes. Fornece bibliotecas para exibir e manipular controles comuns de interface de usuário, para dispôr e renderizar textos da maioria dos sistemas de escrita do mundo, e para desenhar sofisticados gráficos vetoriais na tela. As tecnologias gráficas do GNOME são destacadas em <xref linkend=\"graphics\"/>."
 
 #: C/platform.xml:22(para)
 msgid "The GIO library in GLib, together with the GVFS backend, provides a file system abstraction that allows users to work with files on remote servers as well as the local file systems. GIO provides a high-level API for file operations, making development fast and easy. Using GIO will allow your application to support remote files and folders automatically. GIO and GVFS are discussed in <xref linkend=\"gio\"/>."
-msgstr "A biblioteca GIO no GLib, junto com a retaguarda (backend) do GVFS, fornecem uma abstração de sistemas de arquivo que permite aos usuários trabalharem com arquivos em servidores remotos assim como em sistemas de arquivo local. GIO fornece API de alto nível para operações de arquivo, fazendo que o desenvolvimento seja rápido e fácil. Usando GIO será permitido o suporte a pastas e arquivos remotos automaticamente no seu aplicativo. GIO e GVFS são discutidos em <xref linkend=\"gio\"/>."
+msgstr "A biblioteca GIO no GLib, junto com a retaguarda (backend) do GVFS, fornecem uma abstração de sistemas de arquivos que permite aos usuários trabalharem com arquivos em servidores remotos assim como em sistemas de arquivos local. O GIO fornece uma API de alto nível para operações de arquivo, fazendo que o desenvolvimento seja rápido e fácil. Usando o GIO será permitido o suporte a pastas e arquivos remotos automaticamente no seu aplicativo. O GIO e o GVFS são discutidos em <xref linkend=\"gio\"/>."
 
 #: C/platform.xml:29(para)
+#, fuzzy
 msgid "GNOME provides the GConf library and daemon for storing and retrieving user preferences. GConf has a simple API that makes it easy to provide instant-apply preferences in your application. Using GConf also allows administrators to provide default and mandatory application settings for their users. GConf is discussed in <xref linkend=\"gconf\"/>."
-msgstr "GNOME fornece a biblioteca e o daemon do GConf para armazenar e recuperar as preferências do usuário. GConf possui uma API simples que facilita o fornecimento de preferências de aplicação instantânea nos seus aplicativos. GConf também permite aos administradores fornecerem as configurações padrões ou obrigatórias para seus usuários. GConf é discutido em <xref linkend=\"gconf\"/>."
+msgstr "O GNOME fornece a biblioteca e o daemon do GConf para armazenar e recuperar as preferências do usuário. O GConf possui uma API simples que facilita o fornecimento de preferências de aplicação instantânea nos seus aplicativos. GConf também permite aos administradores fornecerem as configurações padrões ou obrigatórias para seus usuários. GConf é discutido em <xref linkend=\"gconf\"/>."
 
 #: C/platform.xml:35(para)
 msgid "GNOME provides facilities for internationalization and accessibility, helping you reach the largest possible number of potential users. Much of the internationalization and accessibility support is built right in, but there are many issues you should be aware of when developing applications. Internationalization is discussed in <xref linkend=\"i18n\"/>. Accessibility is discussed in <xref linkend=\"a11y\"/>."
-msgstr "GNOME oferece facilidades para internacionalização e accessibilidade, ajudando-lhe a alcançar o maior número possível de potenciais usuários. A grande parte do suporte à internacionalização e acessibilidade são integrados, contudo há muitas questões que você deve estar ciente quando desenvolve aplicativos. Internacionalização é discutida em <xref linkend=\"i18n\"/>. Accessibilidade é discutida em <xref linkend=\"a11y\"/>."
+msgstr "O GNOME oferece motores para internacionalização e accessibilidade, ajudando-lhe a alcançar o maior número possível de potenciais usuários. Grande parte do suporte à internacionalização e acessibilidade é integrada, contudo há muitas questões que você deve estar ciente quando desenvolve aplicativos. A internacionalização é discutida em <xref linkend=\"i18n\"/>. A acessibilidade é discutida em <xref linkend=\"a11y\"/>."
 
 #: C/platform.xml:42(para)
 msgid "GNOME ships with GStreamer, an extremely powerful multimedia framework for creating, editing, and playing audio and video content. GStreamer is discussed in <xref linkend=\"multimedia\"/>."
-msgstr "GNOME vem junto com o GStreamer, um framework multimídia extremamente poderoso para criação, edição e execução de conteúdo de áudio e vídeo. GStreamer é discutido em <xref linkend=\"multimedia\"/>."
+msgstr "O GNOME vem junto com o GStreamer, um framework multimídia extremamente poderoso para criação, edição e execução de conteúdo de áudio e vídeo. O GStreamer é discutido em <xref linkend=\"multimedia\"/>."
 
 #: C/platform.xml:46(para)
 msgid "GNOME also provides a complete print framework which leverages CUPS whenever possible. The print framework in GNOME allows you to provide a consistent interface to high-quality printing. The print framework is discussed in <xref linkend=\"printing\"/>."
@@ -60,24 +61,26 @@ msgid "IPC and Networking"
 msgstr "IPC e Rede"
 
 #: C/platform.xml:55(para)
+#, fuzzy
 msgid "The GNOME desktop has full support for transferring data using the clipboard or with drag and drop. The APIs in GTK+ can help you create applications that interoperate well with the rest of the desktop. Clipboard and drag and drop functionality are discussed in <xref linkend=\"clipboard\"/>."
 msgstr "A área de trabalho GNOME possui suporte completo para transferência de dados usando a área de transferência ou com o arrastar-e-soltar. As APIs no GTK+ podem ajudá-lo(a) a criar aplicativos que possuem boa interoperabilidade com o resto da área de trabalho. As funcionalidades da área de transferência e do arrastar-e-soltar são discutidas em <xref linkend=\"clipboard\"/>."
 
 #: C/platform.xml:61(para)
+#, fuzzy
 msgid "With <ulink url=\"http://www.freedesktop.org/\">freedesktop.org</ulink>, GNOME provides the D-Bus messaging system. D-Bus is a cross-desktop message bus which allows all types of applications to communicate with one another. D-Bus is discussed in <xref linkend=\"dbus\"/>."
-msgstr "Com o <ulink url=\"http://www.freedesktop.org/\">freedesktop.org</ulink>, GNOME oferece o sistema de mensagens D-Bus. D-Bus é um barramento de mensagens entre várias áreas de trabalho que permite a comunicação de todos os tipos de aplicativos entre si. D-Bus é discutido em <xref linkend=\"dbus\"/>."
+msgstr "Com o <ulink url=\"http://www.freedesktop.org/\">freedesktop.org</ulink>, o GNOME oferece o sistema de mensagens D-Bus. D-Bus é um barramento de mensagens entre várias áreas de trabalho que permite a comunicação de todos os tipos de aplicativos entre si. O D-Bus é discutido em <xref linkend=\"dbus\"/>."
 
 #: C/platform.xml:66(para)
 msgid "GNOME features the Bonobo component system, built on top of CORBA. Bonobo allows programmers to create complex embeddable components which can be reused inside other programs. Bonobo is discussed in <xref linkend=\"bonobo-corba\"/>."
-msgstr "GNOME apresenta o sistema de componentes Bonobo, construído em cima do CORBA. Bonobo permite aos desenvolvedores criarem complexos componentes incorporados que podem ser re-utilizados dentro de outros programas. Bonobo é discutido em <xref linkend=\"bonobo-corba\"/>."
+msgstr "O GNOME apresenta o sistema de componentes Bonobo, construído em cima do CORBA. O Bonobo permite aos desenvolvedores criarem complexos componentes incorporados que podem ser reutilizados dentro de outros programas. O Bonobo é discutido em <xref linkend=\"bonobo-corba\"/>."
 
 #: C/platform.xml:71(para)
 msgid "To make networks more manageable for users, GNOME supports DNS Service Discovery. DNS Service Discovery enables applications to find services automatically on a local network, rather than requiring users to provide network addresses. DNS Service Discovery is discussed in <xref linkend=\"dns-sd\"/>."
-msgstr "Para fazer redes mais gerenciáveis para usuários, o GNOME suporta Descoberta de Serviço DNS. A Descoberta de Serviço DNS habilita os aplicativos a pesquisarem serviços automaticamente em uma rede local, ao invés de requer aos usuários o fornecimento dos endereços de rede. A Descoberta de Serviço DNS é debatida em <xref linkend=\"dns-sd\"/>."
+msgstr "Para fazer redes mais gerenciáveis para usuários, o GNOME suporta Descoberta de Serviço DNS. A Descoberta de Serviço DNS habilita os aplicativos a pesquisarem serviços automaticamente em uma rede local, ao invés de requerer aos usuários o fornecimento dos endereços de rede. A Descoberta de Serviço DNS é debatida em <xref linkend=\"dns-sd\"/>."
 
 #: C/platform.xml:77(para)
 msgid "Finally, GNOME provides a number of libraries for working with XML and web services. These technologies are becoming increasingly important to application developers. XML and web services are discussed in <xref linkend=\"xml-web-services\"/>."
-msgstr "FInalmente o GNOME oferece um número de bibliotecas para trabalhar com XML e web services. Estas tecnologias estão se tornando cada vez mais importantes para os desenvolvedores de aplicativos. XML e web services são discutidos em <xref linkend=\"xml-web-services\"/>."
+msgstr "Finalmente o GNOME oferece um número de bibliotecas para trabalhar com XML e serviços web. Estas tecnologias estão se tornando cada vez mais importantes para os desenvolvedores de aplicativos. XML e web services são discutidos em <xref linkend=\"xml-web-services\"/>."
 
 #: C/platform.xml:84(title)
 #: C/desktop-tech.xml:4(title)
@@ -90,11 +93,11 @@ msgstr "A área de trabalho GNOME apresenta muitos lugares onde aplicativos pode
 
 #: C/platform.xml:91(para)
 msgid "GNOME provides comprehensive Human Interface Guidelines to help you create more usable applications. GNOME's usability standards were a first among free desktop environments, and they continue to improve through GNOME's commitment to a better user experience. Usability is discussed in <xref linkend=\"usability\"/>."
-msgstr "GNOME apresenta um compreensivo guia de diretrizes de interface humana (HIG) para auxiliá-lo a criar aplicativos mais utilizáveis. Os padrões de usabilidade GNOME foram os primeiros dentre os ambientes de trabalho livre e eles continuam melhorando graças ao empenho do GNOME em trazer uma melhor experiência ao usuário. Usabilidade é discutida em <xref linkend=\"usability\"/>."
+msgstr "O GNOME apresenta um abrangente guia de diretrizes de interface humana para auxiliá-lo a criar aplicativos mais utilizáveis. Os padrões de usabilidade GNOME foram os primeiros dentre os ambientes de trabalho livre e eles continuam melhorando graças ao empenho do GNOME em trazer uma melhor experiência ao usuário. A usabilidade é discutida em <xref linkend=\"usability\"/>."
 
 #: C/platform.xml:97(para)
 msgid "GNOME also provides a complete help system, as well as style guidelines for writing documentation. Though often under-appreciated, good user help can significantly improve your software. Documentation is discussed in <xref linkend=\"documentation\"/>."
-msgstr "GNOME também oferece um completo sistema de ajuda, bem como guias de estilo para escrever documentações. Apesar de comumente ser subestimada, uma boa ajuda de usuário pode melhorar significativamente seu software. Documentação é discutida em <xref linkend=\"documentation\"/>."
+msgstr "GNOME também oferece um completo sistema de ajuda, bem como guias de estilo para escrever documentações. Apesar de comumente ser subestimada, uma boa ajuda de usuário pode melhorar significativamente seu software. A documentação é discutida em <xref linkend=\"documentation\"/>."
 
 #: C/legal-fdl.xml:2(para)
 msgid "Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License (GFDL), Version 1.1 or any later version published by the Free Software Foundation with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. You can find a copy of the GFDL at this <ulink url=\"ghelp:fdl\">link</ulink> or in the file COPYING-DOCS distributed with this manual."
