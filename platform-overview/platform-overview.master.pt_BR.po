@@ -182,27 +182,29 @@ msgstr "Bonobo e CORBA"
 
 #: C/ipc-network.xml:99(para)
 msgid "Bonobo is a framework for creating reusable components for use in applications. Built on top of the industry-standard Common Object Request Broker Architecture (CORBA), Bonobo provides all the common interfaces needed to create and use well-behaved components in GNOME applications."
-msgstr "Bonobo é um framework para criar componentes reutilizáveis para serem utilizados em aplicativos. Construído sobre os padrões industriais do \"Common Object Request Broker Architecture\" (CORBA), Bonobo oferece todas as interfaces comuns necessárias para criar e utilizar componentes bem intencionados nos aplicativos GNOME."
+msgstr "Bonobo é um framework para criar componentes reutilizáveis para serem utilizados em aplicativos. Construído sobre os padrões industriais do \"Common Object Request Broker Architecture\" (CORBA), o Bonobo oferece todas as interfaces comuns necessárias para criar e utilizar componentes bem intencionados nos aplicativos GNOME."
 
 #: C/ipc-network.xml:105(para)
+#, fuzzy
 msgid "Bonobo components can be used in a variety of situations, and can help create flexible and extensible software. For example, a component to display multimedia content could be embedded inside a word processor, effectively adding multimedia support to the word processor without the word processor working directly with it. Bonobo components are also used to embed the applets in the GNOME panel. Using Bonobo enables the applets to communicate effectively with the panel, affording users a consistent interface."
-msgstr "Os componentes do Bonobo podem ser usados em uma variedade de situações e podem ajudar a criar softwares extensíveis e flexíveis. Por exemplo, um componente para exibir conteúdo multimídia pode ser incorporado dentro de um processador de texto, efetivamente adicionando suporte multimídia ao processador de texto sem que o processador de texto trabalhe diretamente com ele. Os componentes do Bonobo são utilizados também para incorporar os miniaplicativos do painel GNOME. Ao utilizar Bonobo os miniaplicativos podem comunicar-se efetivamente com o painel, proporcionando aos usuários uma interface consistente."
+msgstr "Os componentes do Bonobo podem ser utilizados em uma variedade de situações e podem ajudar a criar softwares extensíveis e flexíveis. Por exemplo, um componente para exibir conteúdo multimídia pode ser incorporado dentro de um processador de texto, efetivamente adicionando suporte multimídia ao processador de texto sem que o processador de texto trabalhe diretamente com ele. Os componentes do Bonobo são utilizados também para incorporar os miniaplicativos do painel GNOME. Ao utilizar o Bonobo os miniaplicativos podem comunicar-se efetivamente com o painel do GNOME, proporcionando aos usuários uma interface consistente."
 
 #: C/ipc-network.xml:114(para)
 msgid "Bonobo components are not limited to graphical controls. Bonobo is used by Evolution, GNOME's email and groupware suite, to provide access to users' addressbook and calendar. This allows users to keep all their information in one place, where all applications can access it."
-msgstr "Os componentes Bonobo não são limitados apenas a controles gráficos. Bonobo é utilizado pelo Evolution, suíte de trabalho colaborativo e correio eletrônico do GNOME, para fornecer acesso ao livro de endereços e calendário. Isto permite que os usuários guardem todas as suas informações em um local onde todos os aplicativos podem ter acesso."
+msgstr "Os componentes Bonobo não são limitados apenas a controles gráficos. O Bonobo é utilizado pelo Evolution, suíte de trabalho colaborativo e correio eletrônico do GNOME, para fornecer acesso ao caderno de endereços e calendário. Isto permite aos usuários guardarem todas as suas informações em um local onde todos os aplicativos podem ter acesso."
 
 #: C/ipc-network.xml:119(para)
+#, fuzzy
 msgid "Bonobo is built off of CORBA, allowing components to run in seperate processes. Components can be written in different languages and run on top of different runtimes; they need only adhere to an interface specified with the Interface Definition Language (IDL). CORBA's flexible design even allows components to run on seperate machines over a network."
-msgstr "Bonobo é construído fora do CORBA, permitindo que os componentes sejam executados em processos separados. Os componentes podem ser escritos em diferentes idiomas e executados sobre diferentes tempos de execução; eles apenas precisam aderirem-se a uma interface especificada com a Interface Definition Language (IDL). O design flexível do CORBA ainda permite que os componentes sejam executados em máquinas separadas sobre uma rede."
+msgstr "Bonobo é construído fora do CORBA, permitindo que os componentes sejam executados em processos separados. Os componentes podem ser escritos em diferentes linguagens e executados sobre diferentes tempos de execução; eles apenas precisam aderir a uma interface especificada com a Interface Definition Language (IDL). O design flexível do CORBA ainda permite que os componentes sejam executados em máquinas separadas sobre uma rede."
 
 #: C/ipc-network.xml:125(para)
 msgid "GNOME provides its own fast and lightweight CORBA implementation with ORBit. The tools and libraries supplied with GNOME even allow components to be written effectively in C, a language often excluded by other CORBA implementations. ORBit is an incredibly fast CORBA implementation."
-msgstr "GNOME fornece sua própria implementação CORBA rápida e leve com ORBit. As ferramentas e bibliotecas fornecidas com GNOME ainda permitem que componentes sejam efetivamente escritos em C, uma linguagem geralmente excluída por outras implementações CORBA. ORBit é uma implementação CORBA incrivelmente rápida."
+msgstr "O GNOME fornece sua própria implementação rápida e leve de CORBA com o ORBit. As ferramentas e bibliotecas fornecidas com o GNOME ainda permitem que componentes sejam efetivamente escritos em C, uma linguagem geralmente excluída por outras implementações CORBA. ORBit é uma implementação CORBA incrivelmente rápida."
 
 #: C/ipc-network.xml:130(para)
 msgid "Bonobo helps fill the gaps in CORBA, providing the additional interfaces and specifications needed to support consistent components. Although you will rarely need to use CORBA without Bonobo, it can be used directly. For instance, GNOME's accessibility infastructure uses CORBA to allow assistive tools to inspect and interact with running applications."
-msgstr "Bonobo ajuda preencher as lacunas do CORBA, oferecendo as interfaces e especificações adicionais necessárias para suportar os componentes compatíveis. Apesar de você raramente precisar utilizar CORBA sem Bonobo, isso pode ser usado instantaneamente. Por exemplo, a infra-estrutura de acessibilidade do GNOME usa CORBA para permitir que ferramentas assistivas inspecionem e interajam com aplicativos em execução."
+msgstr "Bonobo ajuda a preencher as lacunas do CORBA, oferecendo as interfaces e especificações adicionais necessárias para dar suporte aos componentes compatíveis. Apesar de você raramente precisar utilizar CORBA sem Bonobo, isso pode ser usado diretamente. Por exemplo, a infraestrutura de acessibilidade do GNOME utiliza CORBA para permitir que ferramentas assistivas inspecionem e interajam com aplicativos em execução."
 
 #: C/ipc-network.xml:137(para)
 msgid "You may wish to use Bonobo to provide complex graphical components that can be embedded into applications. For most IPC needs, however, GNOME is moving towards D-Bus, as integrating D-Bus into applications is considerably easier."
@@ -222,23 +224,24 @@ msgstr "A Descoberta de Serviço DNS, ou Zeroconf, é uma tecnologia de localiza
 
 #: C/ipc-network.xml:160(para)
 msgid "DNS Service Discovery is already used in numerous places throughout GNOME, and further support will be added in the future. For example, <application>Nautilus</application>, the GNOME file manager, uses DNS Service Discovery to locate various file servers on the local network. <application>Ekiga</application>, the videoconferencing and telephony application in GNOME, can locate and publish the user's presence and locate other users on a local network using DNS Service Discovery."
-msgstr "A Descoberta de serviço DNS já é usado em muitos lugares dentro do GNOME e será adicionado no futuro mais suporte. Por exemplo, o <application>Nautilus</application>, gerenciador de arquivos do GNOME, usa a Descoberta de serviço para localizar vários servidores de arquivo na rede local. <application>Ekiga</application>, o aplicativo de telefonia e videoconferência do GNOME, pode localizar e publicar a presença do usuário e localizar outros usuários em uma rede local usando a Descoberta de serviço DNS."
+msgstr "A Descoberta de serviço DNS já é usado em muitos lugares dentro do GNOME e será adicionado no futuro mais suporte. Por exemplo, o <application>Nautilus</application>, gerenciador de arquivos do GNOME, usa a Descoberta de serviço para localizar vários servidores de arquivo na rede local. O <application>Ekiga</application>, o aplicativo de telefonia e videoconferência do GNOME, pode localizar e publicar a presença do usuário e localizar outros usuários em uma rede local usando a Descoberta de serviço DNS."
 
 #: C/ipc-network.xml:168(para)
 msgid "Full DNS Service Discovery support is provided by the Avahi library. For more information on Avahi, visit <ulink url=\"http://avahi.org/\">the Avahi web site</ulink>."
-msgstr "O suporte completo de Descoberta de Serviço DNS é fornecida pela biblioteca Avahi. Para maiores informações sobre Avahi, visite <ulink url=\"http://avahi.org/\">o site da Avahi</ulink>."
+msgstr "O suporte completo à Descoberta de Serviço DNS é fornecida pela biblioteca Avahi. Para maiores informações sobre o Avahi, visite <ulink url=\"http://avahi.org/\">o site da Avahi</ulink>."
 
 #: C/ipc-network.xml:174(title)
 msgid "XML and Web Services"
 msgstr "Serviços da Web e XML"
 
 #: C/ipc-network.xml:176(para)
+#, fuzzy
 msgid "In our increasingly inter-connected world, more and more applications need to provide support for various web services. Sometimes web services simply provide added functionality, while other times they are the core purpose of the application. Even applications that have been providing a standalone user experience for years have found innovative new uses for web services."
-msgstr "Em nosso mundo cada vez mais inter-conectado, mais e mais aplicativos precisam prover suporte para vários serviços de web. Algumas vezes serviços de web simplesmente fornecem uma funcionalidade adicionada, enquanto outras vezes eles são o principal propósito do aplicativo. Até aplicativos que têm fornecido uma experiência de usuário autônoma (standalone) por anos, têm encontrado novos usos inovadores para serviços de web."
+msgstr "Em nosso mundo cada vez mais inter-conectado, mais e mais aplicativos precisam prover suporte para vários serviços de web. Algumas vezes serviços de web simplesmente adicionam uma funcionalidade, enquanto outras vezes eles são o principal propósito do aplicativo. Até aplicativos que têm fornecido uma experiência de usuário standalone por anos, têm encontrado novos usos inovadores para serviços de web."
 
 #: C/ipc-network.xml:183(para)
 msgid "The GNOME Platform provides support for using web services from within your application, as well as comprehensive libraries for consuming, managing, and transforming XML, the language of the web."
-msgstr "A Plataforma GNOME oferece suporte para usar serviços de web a partir do interior do seu aplicativo, bem como bibliotecas abrangentes para consumir, armazenar e transformar XML, a linguagem da internet."
+msgstr "A Plataforma GNOME oferece suporte para usar serviços de web a partir do interior do seu aplicativo, bem como bibliotecas abrangentes para consumir, armazenar e transformar XML, a linguagem da rede."
 
 #: C/ipc-network.xml:188(title)
 msgid "SOAP"

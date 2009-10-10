@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-media master\n"
 "POT-Creation-Date: 2009-08-28 09:17+0000\n"
-"PO-Revision-Date: 2009-09-07 09:35-0300\n"
+"PO-Revision-Date: 2009-09-07 20:36-0300\n"
 "Last-Translator: Rodrigo L. M. Flores <mail@rodrigoflores.org>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -117,7 +117,7 @@ msgstr "Introdução"
 
 #: C/gstreamer-properties.xml:113(para)
 msgid "The <application>GStreamer Properties</application> application enables you to configure parameters related to the hardware and multimedia systems on your system. Only advanced users should normally need this as your OS vendor should be shipping the system with the correct defaults."
-msgstr "As <application>Propriedades do GStreamer</application> habilitam você a configurar parâmetros relacionado a hardware e sistemas de multimídia em seu sistema. Somente usuários avançados devem normalmente precisa disso, pois distribuidores de sistema operacionais provavlemente lançam seus sistema com o padrão correto."
+msgstr "As <application>Propriedades do GStreamer</application> habilitam você a configurar parâmetros relacionados a hardware e sistemas de multimídia em seu sistema. Somente usuários avançados devem normalmente precisar disso, pois distribuidores de sistemas operacionais provavelmente lançam seus sistema com o padrão correto."
 
 #: C/gstreamer-properties.xml:117(title)
 msgid "Getting Started"
@@ -161,7 +161,7 @@ msgstr "Uso"
 
 #: C/gstreamer-properties.xml:163(para)
 msgid "The GStreamer properties capplet offers four drop down menus spread over two tabs. There are two drop-menues for audio and two for video. These choices set the default for most GNOME applications for output and input of Sound and Video."
-msgstr "O capplet de propriedades do GStreamer oferece quatro menus suspensos em duas abas. Dois são menus suspensos de aúdio e dois de vídeo. Estas escolhas definem o padrão para a maioria de aplicações do GNOME para saída e entrada de som e vídeo."
+msgstr "O mini-aplicativo de propriedades do GStreamer oferece quatro menus suspensos em duas abas. Dois são menus suspensos de aúdio e dois de vídeo. Estas escolhas definem o padrão para a maioria das aplicações do GNOME para saída e entrada de som e vídeo."
 
 #: C/gstreamer-properties.xml:166(title)
 msgid "Understanding the menu options"
@@ -182,7 +182,7 @@ msgstr "Por exemplo, se você quer que suas aplicações do GNOME joguem suas sa
 
 #: C/gstreamer-properties.xml:176(para)
 msgid "As mentioned elsewhere in this user guide. These setting are meant for as a tool for advanced users who have specialized need. As an ordinary user you should not need to set these as the vendor of your distribution of Linux or Unix should have set them for you and sensible defaults."
-msgstr "Como mencionado em outras partes deste guia do usuário, estas definições são um ferramenta para usuários avançados que têm necessidades específicas. Como usuário normal você não precisa mexer nelas, já que o fornecedor de sua distribuição de Linux ou Unix já deve tê-la colocado para você nos valores padrões."
+msgstr "Como mencionado em outras partes deste guia do usuário, estas definições são uma ferramenta para usuários avançados que têm necessidades específicas. Como usuário normal você não precisa mexer nelas, já que o fornecedor de sua distribuição de Linux ou Unix já deve tê-la colocado para você nos valores padrões."
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: C/gstreamer-properties.xml:0(None)
