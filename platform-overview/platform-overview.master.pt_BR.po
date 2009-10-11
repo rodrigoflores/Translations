@@ -249,7 +249,7 @@ msgstr "SOAP"
 
 #: C/ipc-network.xml:190(para)
 msgid "With the libsoup library, GNOME provides support for the SOAP, a widely-used protocol for passing XML messages over HTTP. SOAP allows developers to expose an interface over the web, which can then be used by applications to retrieve information, send data, make transactions, or use any number of other services provided."
-msgstr "Com a biblioteca libsoup, o GNOME fornece suporte para SOAP, um protocolo amplamente utilizado para transmitir mensagens XML sobre HTTP. SOAP permite que desenvolvedores exponham uma interface sobre a internet, que podem então serem utilizadas por aplicativos para recuperar informações, enviar dados, fazer transações ou usar qualquer número de outros serviços fornecidos."
+msgstr "Com a biblioteca libsoup, o GNOME fornece suporte para o SOAP, um protocolo amplamente utilizado para transmitir mensagens XML sobre HTTP. SOAP permite que desenvolvedores exponham uma interface sobre a web, que podem então serem utilizadas por aplicativos para recuperar informações, enviar dados, fazer transações ou usar qualquer número de outros serviços fornecidos."
 
 #: C/ipc-network.xml:196(para)
 msgid "SOAP can be used to search and retrieve information, to interact with an online store, to manage users' accounts on other systems, or for many other purposes. Web services are being used more and more to provide essential functionality for users, and applications using SOAP can provide a more integrated and featureful user experience."
