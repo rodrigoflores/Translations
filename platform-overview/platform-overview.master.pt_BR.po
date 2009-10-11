@@ -269,27 +269,29 @@ msgstr "Processamento XML"
 
 #: C/ipc-network.xml:217(para)
 msgid "Since its formal introduction in 1998, XML (eXtensible Markup Langauge) has been used in increasingly more applications. It is used for a wide variety of purposes, from document formats like XHMTL and DocBook to internet protocols like SOAP and Jabber. XML provides a clean and simple base syntax, allowing applications to focus on their particular needs."
-msgstr "Desde a sua formal introdução em 1998, o XML (eXtensible Markup Language) tem sido cada vez mais usado em aplicativos. Ele é usado para uma ampla variedade de propósitos, desde formatos de documentos como XHMTL e DocBook até protocolos de internet como SOAP e Jabber. XML oferece uma sintaxe de estrutura simples e clara, permitindo que aplicativos possam focar em suas necessidades particulares."
+msgstr "Desde a sua formal introdução em 1998, o XML (eXtensible Markup Language) tem sido cada vez mais utilizado em aplicativos. Ele é usado para uma ampla variedade de propósitos, desde formatos de documentos como XHMTL e DocBook até protocolos de internet como SOAP e Jabber. O XML oferece uma sintaxe de estrutura simples e clara, permitindo que aplicativos possam focar em suas necessidades particulares."
 
 #: C/ipc-network.xml:224(para)
 msgid "GNOME ships with the libxml2 library, and uses it extensively throughout the desktop. The libxml2 library is a fast and fully standards-compliant XML processing library, providing everything you need to use XML in your application."
-msgstr "GNOME vem junto com a biblioteca libxml2 e a utiliza extensivamente por toda a área de trabalho. A biblioteca libxml2 é uma biblioteca de processamento rápida e que atende completamente os padrões de compatibilidade XML, fornecendo qualquer coisa que você precise para usar XML em seus aplicativos."
+msgstr "O GNOME vem junto com a biblioteca libxml2 e a utiliza extensivamente por toda a área de trabalho. A biblioteca libxml2 é uma biblioteca de processamento rápida e que atende completamente os padrões de compatibilidade XML, fornecendo qualquer coisa que você precise para usar XML em seus aplicativos."
 
 #: C/ipc-network.xml:229(para)
+#, fuzzy
 msgid "The libxml2 library provides a number of different APIs for working with XML, so you can use whatever best suits your application development needs. In addition to a native tree API, libxml2 also provides the callback-based SAX2 API, streaming XML reader and writer interfaces, and complete support for XPath."
-msgstr "A biblioteca libxml2 oferece uma série de diferentes APIs para trabalhar com XML, desse modo você pode usar qualquer coisa que melhor atenda suas necessidades de desenvolvimento de aplicativo. Além de uma API de árvore nativa, libxml2 também fornece uma API SAX2 baseada em retorno de chamada, leitor de stream XML, escrita de interfaces e suporte completo para XPath."
+msgstr "A biblioteca libxml2 oferece uma série de diferentes APIs para trabalhar com XML, desse modo você pode usar qualquer coisa que melhor atenda suas necessidades de desenvolvimento de aplicativos. Além de uma API de árvore nativa, o libxml2 também fornece uma API SAX2 baseada em retorno de chamada, leitor de stream XML, escrita de interfaces e suporte completo para XPath."
 
 #: C/ipc-network.xml:235(para)
+#, fuzzy
 msgid "In addition to DTD support, libxml2 also provides full support for validing documents using RELAX NG, which allows a more flexible validation model while remaining simple to use. There is also partial support for XML Schema, the new schema language produced by W3C."
 msgstr "Além do suporte a DTD, libxml2 também fornece suporte completo para validação de documentos usando o RELAX NG, que permite um modelo de validação mais flexível enquanto permanece fácil de usar. Também há suporte parcial para esquema XML, a nova linguagem de esquema produzida pela W3C."
 
 #: C/ipc-network.xml:240(para)
 msgid "You should use libxml2 whenever you need to work directly with XML in your application. Using libxml2 ensures that you have fully standards-compliant parsing, processing, and XML output. This means developers can stop worrying about incompatibilities between applications."
-msgstr "Você deveria utilizar libxml2 a qualquer momento que você precisasse trabalhar diretamente com XML no seu aplicativo. Ao utilizar libxml2 você garante que possui padrões completos de compatibilidade, análise, processamento e saída XML. Isto significa que desenvolvedores podem parar de se preocupar sobre incompatibilidades entre aplicativos."
+msgstr "Você deve utilizar o libxml2 sempre que você precisar trabalhar diretamente com XML no seu aplicativo. Utilizar o libxml2 garante que você terá padrões completos de compatibilidade, análise, processamento e saída XML. Isto significa que desenvolvedores podem parar de se preocupar sobre incompatibilidades entre aplicativos."
 
 #: C/ipc-network.xml:246(para)
 msgid "For more information on libxml2, see <ulink url=\"http://xmlsoft.org/tutorial/index.html\">The Libxml Tutorial</ulink> and <ulink url=\"http://xmlsoft.org/html/libxml-lib.html\">The Reference Manual for libxml2</ulink>."
-msgstr "Para maiores informações sobre libxml2, consulte <ulink url=\"http://xmlsoft.org/tutorial/index.html\">O tutorial do Libxml</ulink> e <ulink url=\"http://xmlsoft.org/html/libxml-lib.html\">O manual de referência do libxml2</ulink>."
+msgstr "Para maiores informações sobre o libxml2, consulte <ulink url=\"http://xmlsoft.org/tutorial/index.html\">O tutorial do Libxml</ulink> e <ulink url=\"http://xmlsoft.org/html/libxml-lib.html\">O manual de referência do libxml2</ulink>."
 
 #: C/ipc-network.xml:253(title)
 msgid "Transforming XML with XSLT"
@@ -297,7 +299,7 @@ msgstr "Transformando XML com o XSLT"
 
 #: C/ipc-network.xml:255(para)
 msgid "XSLT is an XML-based language for transforming XML into other formats. XSLT is a template-based language, allowing you to match particular types of XML elements and create output accordingly. Based on XML and XPath, XSLT enables developers to create clean and modularized templates to convert an XML dialect into another format more suitable for the application."
-msgstr "XSLT é uma linguagem baseada em XML para transformar XML em outros formatos. XSLT é uma linguagem baseada em modelo, que lhe permite combinar tipos particulares de elementos XML e criar saídas adequadamente. Baseado em XML e XPath, XSLT permite que os desenvolvedores criem modelos claros e modularizados para converter um dialeto XML em outro formato mais adequado  para o aplicativo."
+msgstr "XSLT é uma linguagem baseada em XML para transformar XML em outros formatos. XSLT é uma linguagem baseada em modelos, que lhe permite combinar tipos particulares de elementos XML e criar saídas adequadamente. Baseado em XML e XPath, o XSLT permite que os desenvolvedores criem modelos claros e modularizados para converter um dialeto XML em outro formato mais adequado para o aplicativo."
 
 #: C/ipc-network.xml:262(para)
 msgid "GNOME ships with the libxslt library, a complete implementation of XSLT. The libxslt library is built on top of the XML and XPath support in libxml2, allowing it to be fast and fully standards-compliant."
@@ -305,11 +307,11 @@ msgstr "GNOME vem junto com a biblioteca libxslt, uma implementação completa d
 
 #: C/ipc-network.xml:266(para)
 msgid "You should use libxslt if you need to transform XML documents. Although XSLT is not always the right solution for XML processing, it can often simplify development. Since libxslt allows you to add extension elements and extension functions, you can customize it to fit your application."
-msgstr "Você deve usar libxslt se você quiser transformar documentos XML. Apesar do XSLT não ser sempre a solução correta para processamento XML, ele pode freqüentemente simplificar o desenvolvimento. Já que libxslt permite que você adicione elementos e funções de extensão, você pode customizá-lo para se ajustar no seu aplicativo."
+msgstr "Você deve usar libxslt se você quiser transformar documentos XML. Apesar do XSLT não ser sempre a solução correta para processamento XML, ele pode freqüentemente simplificar o desenvolvimento. Já que o libxslt permite que você adicione elementos e funções de extensão, você pode customizá-lo para se ajustar no seu aplicativo."
 
 #: C/ipc-network.xml:272(para)
 msgid "For more information on libxslt, see <ulink url=\"http://xmlsoft.org/XSLT/html/index.html\">The XSLT C library for Gnome</ulink>."
-msgstr "Para maiores informações sobre libxslt, consulte a <ulink url=\"http://xmlsoft.org/XSLT/html/index.html\">Biblioteca XSLT C para Gnome</ulink>."
+msgstr "Para maiores informações sobre o libxslt, consulte a <ulink url=\"http://xmlsoft.org/XSLT/html/index.html\">Biblioteca XSLT C para Gnome</ulink>."
 
 #: C/intro.xml:4(title)
 msgid "Introduction"
