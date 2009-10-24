@@ -299,7 +299,7 @@ msgstr "Transformando XML com o XSLT"
 
 #: C/ipc-network.xml:255(para)
 msgid "XSLT is an XML-based language for transforming XML into other formats. XSLT is a template-based language, allowing you to match particular types of XML elements and create output accordingly. Based on XML and XPath, XSLT enables developers to create clean and modularized templates to convert an XML dialect into another format more suitable for the application."
-msgstr "XSLT é uma linguagem baseada em XML para transformar XML em outros formatos. XSLT é uma linguagem baseada em modelos, que lhe permite combinar tipos particulares de elementos XML e criar saídas adequadamente. Baseado em XML e XPath, o XSLT permite que os desenvolvedores criem modelos claros e modularizados para converter um dialeto XML em outro formato mais adequado para o aplicativo."
+msgstr "O XSLT é uma linguagem baseada em XML para transformar XML em outros formatos. XSLT é uma linguagem baseada em modelos, que lhe permite combinar tipos particulares de elementos XML e criar saídas adequadamente. Baseado em XML e XPath, o XSLT permite que os desenvolvedores criem modelos claros e modularizados para converter um dialeto XML em outro formato mais adequado para o aplicativo."
 
 #: C/ipc-network.xml:262(para)
 msgid "GNOME ships with the libxslt library, a complete implementation of XSLT. The libxslt library is built on top of the XML and XPath support in libxml2, allowing it to be fast and fully standards-compliant."
@@ -318,12 +318,13 @@ msgid "Introduction"
 msgstr "Introdução"
 
 #: C/intro.xml:6(para)
+#, fuzzy
 msgid "GNOME is a powerful but simple desktop environment with a strong focus on usability, accessibility, and internationalization. GNOME is designed to be usable by everybody, regardless of technical expertise, disabilitites, or native language. GNOME makes it easy for people to use their computers."
-msgstr "GNOME é um ambiente de trabalho poderoso mas simples com um forte foco em usabilidade, acessibilidade e internacionalização. GNOME foi projetado para ser utilizável por qualquer um, independentemente de experiência técnica, deficiências ou idioma nativo. GNOME facilita as pessoas utilizarem seus computadores."
+msgstr "O GNOME é um ambiente de trabalho poderoso mas simples com um forte foco em usabilidade, acessibilidade e internacionalização. O GNOME foi projetado para ser utilizável por qualquer um, independentemente de experiência técnica, deficiências ou idioma nativo. O GNOME torna mais fácil o uso de computadores por pessoas."
 
 #: C/intro.xml:11(para)
 msgid "GNOME provides a comprehensive developer platform that allow developers to create professional software that is easy to use and aesthetically pleasing. This document provides a high-level overview of the GNOME platform along with links to detailed documentation on each part of the platform."
-msgstr "GNOME oferece uma plataforma de desenvolvimento compreensiva que permite aos desenvolvedores criarem softwares profissionais que são fáceis de usar e esteticamente agradáveis. Este documento oferece uma visão geral de alto nível da plataforma GNOME juntamente com links para documentações detalhadas em cada parte da plataforma."
+msgstr "O GNOME oferece uma plataforma de desenvolvimento abrangente que permite aos desenvolvedores criarem softwares profissionais que são fáceis de usar e esteticamente agradáveis. Este documento oferece uma visão geral de alto nível da plataforma GNOME juntamente com links para documentações detalhadas em cada parte da plataforma."
 
 #: C/intro.xml:17(title)
 msgid "Who Should Read This Document"
@@ -331,17 +332,19 @@ msgstr "Quem deveria ler este documento"
 
 #: C/intro.xml:19(para)
 msgid "You should read this document if you want to create software using the GNOME platform. Developing with the GNOME platform will help you create consistent applications that integrate well into the user's desktop. This guide will introduce you to the various components of the platform, so you know which libraries can accomplish which tasks. This guide links to additional detailed documentation, so you can explore each component of the platform in more depth."
-msgstr "Você deve ler este documento se você quiser criar software usando a plataforma GNOME. Desenvolver na plataforma GNOME lhe ajudará a criar aplicativos consistentes que se integram bem na área de trabalho dos usuários. Este guia irá lhe apresentar aos vários componentes da plataforma, assim você saberá quais bibliotecas podem efetuar tarefas. Este guia vincula documentações adicionais detalhadas, deste modo você pode explorar cada componente da plataforma mais profundamente."
+msgstr "Você deve ler este documento se você quiser criar software usando a plataforma GNOME. Desenvolver na plataforma GNOME lhe ajudará a criar aplicativos consistentes que se integram bem na área de trabalho dos usuários. Este guia irá lhe apresentar aos vários componentes da plataforma, assim você saberá quais bibliotecas podem efetuar quais tarefas. Este guia vincula documentações adicionais detalhadas, para deste modo você poder explorar cada componente da plataforma mais profundamente."
 
 #: C/intro.xml:27(para)
 msgid "This guide will also be useful if you are picking a development platform for your software project. It will provide an overview how you can use the GNOME platform to build useful software."
-msgstr "Este guia também será útil se você estiver escolhendo uma plataforma de desenvolvimento para o seu projeto de software. Ele irá fornecer uma visão-geral de como você pode usar a plataforma GNOME para construir um software útil."
+msgstr "Este guia também será útil se você estiver escolhendo uma plataforma de desenvolvimento para o seu projeto de software. Ele irá fornecer uma visão geral de como você pode usar a plataforma GNOME para construir um software útil."
 
 #: C/intro.xml:31(para)
+#, fuzzy
 msgid "This guide also describes ways of extending the GNOME desktop with plugins, panel applets, and other useful tools. If you want to develop additional functionality to plug into the GNOME desktop, you should read this guide, particularly <xref linkend=\"desktop-tech\"/>."
-msgstr "Este guia também descreve formas de estender a área de trabalho GNOME com plug-ins, miniaplicativos de painel e outras ferramentas úteis. Se você precisar desenvolver funcionalidades adicionais para plugar na área de trabalho GNOME, você deverá ler este guia, em especial este: <xref linkend=\"desktop-tech\"/>."
+msgstr "Este guia também descreve formas de estender a área de trabalho GNOME com plug-ins, miniaplicativos de painel e outras ferramentas úteis. Se você precisar desenvolver funcionalidades adicionais para plugar na área de trabalho GNOME, você deverá ler este guia, em especial a seção: <xref linkend=\"desktop-tech\"/>."
 
 #: C/intro.xml:36(para)
+#, fuzzy
 msgid "If you have existing software that you want to port to the GNOME platform, you should see the online <ulink url=\"http://live.gnome.org/GuideForISVs\">Guide For ISVs</ulink> in addition to this guide."
 msgstr "Se você possui um software existente que queira portar na plataforma GNOME, você deve consultar o <ulink url=\"http://live.gnome.org/GuideForISVs\">Guia on-line para ISVs</ulink> além deste guia."
 
@@ -351,7 +354,7 @@ msgstr "A família GNOME"
 
 #: C/intro.xml:45(para)
 msgid "GNOME is a global effort, with many contributors all over the world. GNOME is a success because of its contributors and users. This section lists the web sites and conferences where you can learn more about GNOME, as well as other organizations that work with GNOME."
-msgstr "GNOME é um esforço global, com muitos contribuidores de todos os cantos do mundo. GNOME é um sucesso por causa de seus contribuidores e usuários. Esta seção lista os sites da web e conferências onde você pode aprender mais sobre GNOME, assim como outras organizações que trabalham com GNOME."
+msgstr "O GNOME é um esforço global, com muitos contribuidores de todos os cantos do mundo e é um sucesso por causa de seus contribuidores e usuários. Esta seção lista os sites da web e conferências onde você pode aprender mais sobre GNOME, assim como outras organizações que trabalham com GNOME."
 
 #: C/intro.xml:51(title)
 msgid "Web Sites"
@@ -363,7 +366,7 @@ msgstr "www.gnome.org"
 
 #: C/intro.xml:54(para)
 msgid "The primary web site for GNOME users. It contains release information, downloads, and documentation."
-msgstr "O primeiro site para usuários GNOME. Ele possui informações sobre lançamentos, downloads e documentação."
+msgstr "O site principal para usuários GNOME. Ele possui informações sobre lançamentos, downloads e documentação."
 
 #: C/intro.xml:58(ulink)
 msgid "library.gnome.org"
@@ -371,13 +374,14 @@ msgstr "library.gnome.org"
 
 #: C/intro.xml:59(para)
 msgid "The complete source for all GNOME documentation. It contains all of the user and developer documentation produced by GNOME, automatically built and updated for each release."
-msgstr "A fonte completa de toda a documentação GNOME. Nela contém toda a documentação de desenvolvedor e usuário produzida pela GNOME, automaticamente construída e atualizada para cada lançamento."
+msgstr "A fonte completa de toda a documentação GNOME. Nela contém toda a documentação de desenvolvedor e usuário produzida pela GNOME, automaticamente compilada e atualizada para cada lançamento."
 
 #: C/intro.xml:64(ulink)
 msgid "foundation.gnome.org"
 msgstr "foundation.gnome.org"
 
 #: C/intro.xml:65(para)
+#, fuzzy
 msgid "The web site for the GNOME Foundation, the not-for-profit foundation that oversees the development of GNOME."
 msgstr "O site da web para a Fundação GNOME, a fundação sem fins lucrativos que supervisiona o desenvolvimento do GNOME."
 
@@ -387,7 +391,7 @@ msgstr "bugzilla.gnome.org"
 
 #: C/intro.xml:70(para)
 msgid "The GNOME bug trackers. Use this site to submit a bug report or feature request, or to track the status of a report."
-msgstr "O rastreador de erros do GNOME. Use este site para enviar um relatório de erro, para solicitar uma funcionalidade ou para rastrear o status de um relatório."
+msgstr "O rastreador de bugs do GNOME. Use este site para enviar um relatório de erro, para solicitar uma funcionalidade ou para rastrear o status de um relatório."
 
 #: C/intro.xml:74(ulink)
 msgid "live.gnome.org"
@@ -411,7 +415,7 @@ msgstr "mail.gnome.org"
 
 #: C/intro.xml:91(para)
 msgid "Information on GNOME mailing lists. This site contains full archives of all GNOME mailing lists."
-msgstr "Informações sobre listas de correio do GNOME. Este site contem arquivos cheios de todas as listas de correio do GNOME."
+msgstr "Informações sobre listas de discussão do GNOME. Este site contem arquivos cheios de todas as listas de correio do GNOME."
 
 #: C/intro.xml:95(ulink)
 msgid "cvs.gnome.org"
@@ -419,11 +423,11 @@ msgstr "cvs.gnome.org"
 
 #: C/intro.xml:96(para)
 msgid "The GNOME CVS repository, tracking all GNOME source code back to the inception of the project."
-msgstr "O repositório subversivo (CVS) do GNOME, rastreando todo o código fonte GNOME desde os primórdios do projeto."
+msgstr "O repositório CVS do GNOME, rastreando todo o código fonte GNOME desde os primórdios do projeto."
 
 #: C/intro.xml:102(title)
 msgid "Mailing Lists"
-msgstr "Listas de correio"
+msgstr "Listas de discussão"
 
 #: C/intro.xml:105(ulink)
 msgid "gnome-list"
@@ -431,7 +435,7 @@ msgstr "gnome-list"
 
 #: C/intro.xml:106(para)
 msgid "The primary mailing list for GNOME users."
-msgstr "A lista primária de correio para usuários GNOME."
+msgstr "A lista primária de discussão para usuários GNOME."
 
 #: C/intro.xml:110(ulink)
 msgid "gnome-devel-list"
