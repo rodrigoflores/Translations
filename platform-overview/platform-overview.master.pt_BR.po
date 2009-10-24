@@ -407,7 +407,7 @@ msgstr "developer.gnome.org"
 
 #: C/intro.xml:81(para)
 msgid "The old website for developer information. This once contained developer documentation and information about the usability, documentation, and translation teams. The content on this site has since been largely superseded by <ulink url=\"http://library.gnome.org/\">library.gnome.org</ulink> and <ulink url=\"http://live.gnome.org/\">live.gnome.org</ulink>. There may still be some information on this site that is not found elsewhere."
-msgstr "O antigo site de informações para desenvolvedores. Nele havia documentação de desenvolvedores e informações sobre usabilidade, documentação e equipes de tradução. O conteúdo deste site foi sido amplamente superado pelo <ulink url=\"http://library.gnome.org/\">library.gnome.org</ulink> e <ulink url=\"http://live.gnome.org/\">live.gnome.org</ulink>. Ainda deve haver algumas informações neste site que não são encontradas em lugar algum."
+msgstr "O antigo site de informações para desenvolvedores. Nele havia documentação de desenvolvedores e informações sobre usabilidade, documentação e equipes de tradução. O conteúdo deste site foi amplamente superado pelo <ulink url=\"http://library.gnome.org/\">library.gnome.org</ulink> e <ulink url=\"http://live.gnome.org/\">live.gnome.org</ulink>. Porém, ainda deve haver algumas informações neste site que não são encontradas em lugar algum."
 
 #: C/intro.xml:90(ulink)
 msgid "mail.gnome.org"
@@ -415,7 +415,7 @@ msgstr "mail.gnome.org"
 
 #: C/intro.xml:91(para)
 msgid "Information on GNOME mailing lists. This site contains full archives of all GNOME mailing lists."
-msgstr "Informações sobre listas de discussão do GNOME. Este site contem arquivos cheios de todas as listas de correio do GNOME."
+msgstr "Informações sobre listas de discussão do GNOME. Este site contem os arquivos completos de todas as listas de discussão do GNOME."
 
 #: C/intro.xml:95(ulink)
 msgid "cvs.gnome.org"
@@ -450,6 +450,7 @@ msgid "gnome-love"
 msgstr "gnome-love"
 
 #: C/intro.xml:117(para)
+#, fuzzy
 msgid "The first place to go to get involved with GNOME."
 msgstr "O primeiro local a ir para se envolver com o GNOME."
 
@@ -459,7 +460,7 @@ msgstr "gnome-accessibility-list"
 
 #: C/intro.xml:122(para)
 msgid "Information on accessibility in GNOME applications."
-msgstr "Informações sobre acessibilidade em aplicativos GNOME."
+msgstr "Informações sobre acessibilidade em aplicativos do GNOME."
 
 #: C/intro.xml:126(ulink)
 msgid "gnome-doc-list"
@@ -487,7 +488,7 @@ msgstr "Informações sobre usabilidade em aplicativos GNOME."
 
 #: C/intro.xml:144(title)
 msgid "Conferences"
-msgstr "COnferências"
+msgstr "Conferências"
 
 #: C/intro.xml:146(ulink)
 msgid "GUADEC"
@@ -495,15 +496,15 @@ msgstr "GUADEC"
 
 #: C/intro.xml:147(para)
 msgid "The primary conference for GNOME users and developers. GUADEC is hosted annually in May or June. Each year, it is hosted in a different European city, making it an excellent excuse to see more of Europe. GUADEC features talks aimed at users, developers, and vendors."
-msgstr "A principal conferência para usuários e desenvolvedores GNOME. A GUADEC é anualmente hospedada em Maio ou Junho. A cada ano, ela é hospedada em uma cidade européia diferente, fazendo-a uma excelente desculpa para conhecer mais a Europa. A GUADEC é destinada a usuários, desenvolvedores e fornecedores."
+msgstr "A principal conferência para usuários e desenvolvedores GNOME. A GUADEC anualmente acontece em Maio ou Junho. A cada ano, ela é hospedada em uma cidade européia diferente, fazendo-a uma excelente desculpa para conhecer mais a Europa. A GUADEC é destinada a usuários, desenvolvedores e fornecedores."
 
 #: C/intro.xml:154(term)
 msgid "The GNOME Summit"
-msgstr "A Cúpula do GNOME"
+msgstr "O GNOME Summit"
 
 #: C/intro.xml:155(para)
 msgid "The hacker get-together. The Summit is geared primarily at existing GNOME developers, although there is often useful information for new developers. The Summit is hosted annually in Boston."
-msgstr "O encontro dos hackers. A Cúpula (summit) é destinada principalmente para os desenvolvedores existentes do GNOME, embora haja informações úteis para novos desenvolvedores. A Cúpula é hospedada anualmente em Boston."
+msgstr "O encontro dos hackers. O Summit é destinado principalmente para os desenvolvedores existentes do GNOME, embora haja informações úteis para novos desenvolvedores. A Cúpula acontece anualmente em Boston."
 
 #: C/intro.xml:161(term)
 msgid "GNOME.conf.au"
@@ -511,7 +512,7 @@ msgstr "GNOME.conf.au"
 
 #: C/intro.xml:162(para)
 msgid "A casual get-together hosted annually at linux.conf.au."
-msgstr "Um encontro casual hospedado anualmente em linux.conf.au."
+msgstr "Um encontro casual que acontece anualmente em linux.conf.au."
 
 #: C/intro.xml:169(title)
 msgid "Other Organizations"
@@ -530,6 +531,7 @@ msgid "Mozilla"
 msgstr "Mozilla"
 
 #: C/intro.xml:179(para)
+#, fuzzy
 msgid "The free web engine, and a whole lot more. GNOME maintains close ties to the Mozilla development team to provide an overall better user interface."
 msgstr "O mecanismo de web livre e muitos outros mais. GNOME mantém laços estreitos com a equipe de desenvolvimento do Mozilla para fornecer completamente uma melhor interface de usuário."
 
@@ -539,15 +541,15 @@ msgstr "OpenOffice.org"
 
 #: C/intro.xml:185(para)
 msgid "The free office suite. GNOME works with the OpenOffice.org development team to help provide a more unified interface when using the free office suite on GNOME."
-msgstr "A suíte de escritório livre. O GNOME trabalha com a equipe de desenvolvimento do OpenOffice.org para ajudar a fornecer uma interface mais unificada quando usar a suíte de escritório livre do GNOME."
+msgstr "A suíte de escritório livre. O GNOME trabalha com a equipe de desenvolvimento do OpenOffice.org para ajudar a fornecer uma interface mais unificada quando utilizarmos a suíte de escritório livre no GNOME."
 
 #: C/intro.xml:190(ulink)
 msgid "Free Software Foundation"
-msgstr "Fundação do Software Livre (Free Software Foundation)"
+msgstr "Free Software Foundation"
 
 #: C/intro.xml:191(para)
 msgid "Freedom. Established in 1985, the Free Software Foundation has worked to create a complete free operating systems, giving its users the freedom to use, modify, and redistribute their software. As part of the GNU project, GNOME aims to provide a fully free desktop environment."
-msgstr "Liberdade. Fundada em 1985, a Fundação do Software Livre (Free Software Foundation) tem trabalhado para criar sistemas operacionais completamente livres, dando aos seus usuários a liberdade de uso, modificação e redistribuição de seu software. Como parte do projeto GNU, a GNOME visa fornecer um ambiente de área de trabalho totalmente livre."
+msgstr "Liberdade. Fundada em 1985, a Free Software Foundation tem trabalhado para criar sistemas operacionais completamente livres, dando aos seus usuários a liberdade de uso, modificação e redistribuição de seu software. Como parte do projeto GNU, o GNOME visa fornecer um ambiente de área de trabalho totalmente livre."
 
 #: C/desktop-tech.xml:7(title)
 msgid "Application and File Type Registries"
