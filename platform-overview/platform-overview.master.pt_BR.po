@@ -556,28 +556,31 @@ msgid "Application and File Type Registries"
 msgstr "Aplicações e Registros de tipos de arquivo"
 
 #: C/desktop-tech.xml:8(para)
+#, fuzzy
 msgid "In order for applications to be useful, users need to be able to find and run them. Users of the GNOME desktop may run applications using the applications menu, or they may run them by accessing files in the file manager. The GNOME desktop allows you to add applications and file types when you install your application. The mechanism for these is specified on <ulink url=\"http://www.freedesktop.org/\">freedesktop.org</ulink>, so the same data will allow your application to function in other desktop environments."
 msgstr "A fim de que aplicativos sejam úteis, usuários precisam estar aptos para encontrá-los e executá-los. Os usuários da área de trabalho GNOME podem executar aplicativos usando o menu de aplicativos ou podem executá-los acessando arquivos no gerenciador de arquivos. A área de trabalho GNOME lhe permite adicionar aplicativos e tipos de arquivos quando você instala seu aplicativo. O mecanismo para isso é especificado em <ulink url=\"http://www.freedesktop.org/\">freedesktop.org</ulink>, logo os mesmos dados permitirão que seu aplicativo funcione em outros ambientes de trabalho."
 
 #: C/desktop-tech.xml:17(para)
+#, fuzzy
 msgid "Adding your application is as simple as providing a desktop entry file with the necessary information. Desktop entry files use a simple key-value syntax, with extra provisions for providing translated content of particular values. Your application's desktop entry file will contain the following information:"
-msgstr "Adicionar seu aplicativo é tão fácil quanto fornecer um arquivo de entrada para a área de trabalho com as informações necessárias. Arquivos de entrada da área de trabalho utilizam uma sintaxe de valor de chave simples com fornecimentos extra de conteúdos traduzidos de valores particulares fornecidos. Sua entrada de aplicativo da área de trabalho irá conter a seguinte informação:"
+msgstr "Adicionar seu aplicativo é tão fácil quanto fornecer um arquivo de entrada para a área de trabalho com as informações necessárias. Arquivos de entrada da área de trabalho utilizam uma sintaxe de valor de chave simples com campos extras de conteúdos traduzidos de valores particulares fornecidos. Seu arquivo de entrada de aplicativo da área de trabalho irá conter a seguinte informação:"
 
 #: C/desktop-tech.xml:24(para)
 msgid "A name and a comment, each translated into as many languages as your application supports,"
-msgstr "Um nome e um comentário, cada qual traduzidos em tantos idiomas quanto o seu aplicativo suporta,"
+msgstr "Um nome e um comentário, cada qual traduzidos em tantos idiomas quanto o seu aplicativo possui suporte,"
 
 #: C/desktop-tech.xml:26(para)
+#, fuzzy
 msgid "A list of categories from a fixed list, which are used to place your application in the applications menu,"
-msgstr "Uma lista de categorias de uma lista fixa, que são usadas para colocar seu aplicativo no menu de aplicativos,"
+msgstr "Uma lista de categorias de uma lista fixa, que são utilizadas para colocar seu aplicativo no menu de aplicativos,"
 
 #: C/desktop-tech.xml:28(para)
 msgid "An icon, either as a full file path or as a simple name for the icon theme system,"
-msgstr "Um ícone, cada qual com um caminho de arquivo completo ou com um simples nome para o tema de ícones do sistema,"
+msgstr "Um ícone, que pode ser um caminho de arquivo completo ou com um simples nome para o tema de ícones do sistema,"
 
 #: C/desktop-tech.xml:30(para)
 msgid "A list of file types that your application supports, and"
-msgstr "Uma lista de tipos de arquivo que seu aplicativo suporta, e"
+msgstr "Uma lista de tipos de arquivo que seu aplicativo possui suporte, e"
 
 #: C/desktop-tech.xml:32(para)
 msgid "The command to run your application."
@@ -585,11 +588,11 @@ msgstr "O comando para executar seu aplicativo."
 
 #: C/desktop-tech.xml:35(para)
 msgid "If your application handles custom file types that are not already known by the system, you will need to add those types to the file type registry. All file types are accessed with MIME types. For example, Ogg Vorbis audio files have the MIME type <literal>application/ogg</literal>. To add a MIME type, you need to provide a description of the type using a MIME information XML file. These files provide a translated name for the type as well as information on how to determine which files are of the type, either by matching the file name or by inspecting the contents of the file."
-msgstr "Se seu aplicativo trabalha com tipos de arquivos personalizados que não são conhecidos pelo sistema, você precisará adicionar estes tipos ao registro de tipos de arquivo. Todos os tipos de arquivo são acessados com tipos MIME. Por exemplo, arquivos de áudio Ogg Vorbis possuem o tipo MIME <literal>application/ogg</literal>. Para adicionar um tipo MIME, você precisa fornecer uma descrição do tipo usando uma informação MIME em um arquivo XML. Esses arquivos fornecem um nome traduzido para o tipo assim como informações sobre como determinar quais arquivos são do tipo, seja coincidindo o nome do arquivo ou pela inspeção do conteúdo do arquivo."
+msgstr "Se seu aplicativo lida com tipos de arquivos personalizados que não são conhecidos pelo sistema, você precisará adicionar estes tipos ao registro de tipos de arquivo. Todos os tipos de arquivo são acessados com tipos MIME. Por exemplo, arquivos de áudio Ogg Vorbis possuem o tipo MIME <literal>application/ogg</literal>. Para adicionar um tipo MIME, você precisa fornecer uma descrição do tipo usando um arquivo XML com a informação MIME. Esses arquivos fornecem um nome traduzido para o tipo assim como informações sobre como determinar quais arquivos são do tipo, seja coincidindo o nome do arquivo ou pela inspeção do conteúdo do arquivo."
 
 #: C/desktop-tech.xml:45(para)
 msgid "For more information on applications, see <ulink url=\"http://www.freedesktop.org/wiki/Standards/desktop_2dentry_2dspec\">The Desktop Entry Specification</ulink> and <ulink url=\"http://www.freedesktop.org/wiki/Standards/menu_2dspec\">The Desktop Menu Specification</ulink>. For more information on file types, see <ulink url=\"http://www.freedesktop.org/wiki/Standards/shared_2dmime_2dinfo_2dspec\">The Shared MIME Info Specification</ulink>."
-msgstr "Para maiores informações sobre aplicativos, consulte <ulink url=\"http://www.freedesktop.org/wiki/Standards/desktop_2dentry_2dspec\">A especificação de entrada da área de trabalho</ulink> e <ulink url=\"http://www.freedesktop.org/wiki/Standards/menu_2dspec\">A especificação do menu da área de trabalho</ulink>. Para maiores informações sobre tipos de arquivos, consulte <ulink url=\"http://www.freedesktop.org/wiki/Standards/shared_2dmime_2dinfo_2dspec\">A especificação das informações MIME compartilhadas</ulink>."
+msgstr "Para maiores informações sobre aplicativos, consulte <ulink url=\"http://www.freedesktop.org/wiki/Standards/desktop_2dentry_2dspec\">A especificação de entrada de Desktop</ulink> e <ulink url=\"http://www.freedesktop.org/wiki/Standards/menu_2dspec\">A especificação do menu de Desktop</ulink>. Para maiores informações sobre tipos de arquivos, consulte <ulink url=\"http://www.freedesktop.org/wiki/Standards/shared_2dmime_2dinfo_2dspec\">A especificação das informações MIME compartilhadas</ulink>."
 
 #: C/desktop-tech.xml:56(title)
 msgid "Panel Applets"
